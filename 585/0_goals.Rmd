@@ -1,0 +1,110 @@
+
+# Whats
+
+- What is this class about?
+	- this class is about the sounds of spanish, their 
+	production and perception, how they interact with 
+	each other and vary across phonetic environments
+	- this class is about theoretical accounts of the above
+	- this class is about acoustic manifestations of the 
+	above, and how laboratory experiments can inform phonetic 
+	and phonological theory
+	- this class is about how these sounds are perceived, 
+	and how research on Spanish can inform broader theories 
+	of speech perception
+- What do I want students to learn
+	- advanced knowledge of the sounds of spanish
+	- basic understanding of how speech is produced
+	- basic understanding of how speech is perceived
+	- basic techniques for analzying acoustics
+	- basic skills for creating speech experiments
+	- basic skills for becoming a data scientist (project management and analysis)
+	- initial development in becoming an indepedent researcher
+- What can I realistically teach students?
+	- description of the sounds of Spanish
+	- how to obtain relevant information regarding your interests
+	- how to use relevant tools that will help you in becoming an indepedent 
+	researcher
+
+# Hows
+
+Topics we need to cover in order to acheive the goals in 'whats'
+
+
+Part I: Basics
+
+- Descriptive overview of spanish phonetics/phonology
+	- syllable structure
+	- vocoids
+	- obstruents
+	- sonorants
+- Theoretical frameworks
+	- generative
+		- derived accounts
+		- parallel accounts
+	- usage-based
+- Take home exam
+
+Part II: Production
+
+- Prosody
+	- Syllable structure
+	- Lexical stress
+	- Duration
+- Vocoids
+- Obstruents
+- Sonorants
+
+
+NEEDS
+
+Part I
+
+- handouts/slides for descriptive overview (check sonia/fonologia I)
+	- this should include several chapters
+	- this can include articles
+- Look for articles/chapters describing the theoretical frameworks
+	- derived accounts (probably an article)
+	- parallel accounts (check notes from phon III)
+	- usae-based (bybee chapter)
+- Consider exercizes for transcription, articulatory description and distinctive features
+- Possibly a quiz at the end
+
+Part II - production
+
+- Syllable structure
+	- check for chapters in Handbook, sounds of spanish
+	- check for articles from sonia
+	- consider perception experiment regarding resyllabification
+	- Possible topics: epenthesis, deletion, metathesis
+- Vocoids
+	- probably mainly phonetic
+	- Escudero vowel study
+	- Praat: measuring formans, TL
+- Obstruents
+	- Stops, VOT, Spirantization
+		- Lisker and abrahson
+		- Hualde BDG
+	- Fricatives/affricates
+		- aspiration/deletion (colina?)
+		- post-aspiration (torreira)
+	- Skills
+		- textgrids, VOT, intensity ratios, spectral moments
+- Sonorants
+	- Nasals (mainly phonological?)
+		- assimilatory processes
+		- neutralization
+	- Laterals and rhotics
+		- assimilatory processes
+		- neutralization
+	- Skills
+		- % voicing, consonant-vowel intensity, formant bandwidth
+		- light vs. dark L
+- Prosody
+	- lexical stress
+	- rhythm
+	- intonation
+	- Skill
+		- peak alignment, low-pass filtering 
+
+Part III - Speech perception
