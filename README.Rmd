@@ -1,0 +1,15 @@
+---
+title: "syllabi"
+output: github_document
+---
+
+Repo for the syllabi for the courses I teach at RU
+
+```{r, echo=F, message=F, warning=F, results="asis"}
+library("glue")
+library("fs")
+
+the_syllabi <- dir_ls(regexp = "^[0-9]")
+glue("- [{the_syllabi}](https://www.jvcasillas.com/syllabi/{the_syllabi}/index.pdf)")
+
+```

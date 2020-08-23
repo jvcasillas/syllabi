@@ -1,0 +1,21 @@
+---
+title: "Spanish phonetics for teachers"
+subtitle: ""
+author: "Joseph V. Casillas"
+date: "Last update: `r Sys.Date()`"
+output: pdf_document
+---
+
+
+
+This course provides an overview of the sound system of Spanish. Specifically, the aim 
+is to study the principle differences between English and Spanish phonology in order to 
+inform the language practitioner as to the best practices for teaching Spanish pronunciation 
+to second language learners. To this end, the course will cover the articulation of Spanish 
+sounds and how to transcribe them, the principle phonological processes of Spanish, and the 
+dialectal variation of the Spanish speaking world. The course also provides an introduction 
+to the acoustic analysis of speech sounds and how it can be used to assess progress in 
+the L2 classroom. Upon completing the course, students will demonstrate knowledge of the best 
+practices for utilizing pronunciation exercises as a supplement to their language lessons.
+
+
