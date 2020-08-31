@@ -180,7 +180,20 @@ porcentaje de la nota final correspondiente a la misma se distribuirá entre
 el resto de las pruebas.
 
 
-### Trabajo práctico 1 - Ejercicio de pronunciación
+### Trabajo práctico 1 - Evaluación fonética
+
+Cada estudiante recibirá dos grabaciones de un aprendiz de español como L2. 
+La grabaciones son de un ejercicio que hizo el aprendiz al principio y al 
+final de una clase. 
+El trabajo del estudiante consiste en llevar a cabo una evaluación fonética 
+del habla del aprendiz.
+La evaluación incluirá un análisis de las grabaciones (pre/post) en el cual se 
+destacan las áreas en las que el aprendiz mejoró (o no). 
+Asimismo, el estudiante desarrollará un plan personalizado para que el 
+aprendiz continúe mejorando su pronunciación.
+
+
+### Trabajo práctico 2 - Ejercicio de pronunciación
 
 El estudiante escogerá uno de los "problemas" a los que se enfrentan los 
 aprendices de español como L2 y desarrollará una lección/serie de ejercicios 
@@ -200,18 +213,6 @@ Por esta razón se recomienda que el estudiante tenga este objetivo en cuenta
 durante el desarrollo del proyecto. 
 Para más información consulta [https://tlc.rutgers.edu/wlimain/mat-portfolio-independent-study](https://tlc.rutgers.edu/wlimain/mat-portfolio-independent-study). 
 
-
-### Trabajo práctico 2 - Evaluación fonética
-
-Cada estudiante recibirá dos grabaciones de un aprendiz de español como L2. 
-La grabaciones son de un ejercicio que hizo el aprendiz al principio y al 
-final de una clase. 
-El trabajo del estudiante consiste en llevar a cabo una evaluación fonética 
-del habla del aprendiz.
-La evaluación incluirá un análisis de las grabaciones (pre/post) en el cual se 
-destacan las áreas en las que el aprendiz mejoró (o no). 
-Asimismo, el estudiante desarrollará un plan personalizado para que el 
-aprendiz continúe mejorando su pronunciación.
 
 
 
@@ -418,22 +419,7 @@ más exactas más adecuadas al ritmo de la clase.
 
 \vspace{.2in}
 
+```{r, child="./temario/temario_f2020.Rmd"}
+```
 
-|   Semana  |    Fecha     |                                Tema                          |
-| :-------- | :----------- | :----------------------------------------------------------- |
-| Semana 1  | \phantom{00/00,} 09/03 | Intro al curso. Grabaciones.                       |
-| Semana 2  | 09/08, 09/10 | La sílaba. Diptongos. Hiatos.                                |
-| Semana 3  | 09/14, 09/17 | Consonantes \textipa{[J]} y [w]. Diptongos y semivocales.    |
-| Semana 4  | 09/21, 09/24 | Sílabas, vocales y ritmo. Vocales en contacto. Schwa.        |
-| Semana 5  | 09/28, 10/01 | Prueba 1, Fonética articulatoria: vocales.                   |
-| Semana 6  | 10/05, 10/08 | Fonética articulatoria: consonantes.                         |
-| Semana 7  | 10/12, 10/15 | El fonema. Transcripción fonética.                           |
-| Semana 8  | 10/19, 10/22 | Prueba 2. Oclusivas sordas, africadas.                       |
-| Semana 9  | 10/26, 10/29 | Obstruyentes sonoras /b, d, g/ y \textipa{/J/}.              |
-| Semana 10 | 11/02, 11/05 | Fricativas: /f, s, x/.                                       |
-| Semana 11 | 11/09, 11/12 | Nasales y laterales. Trabajo práctico \#1.                   |
-| Semana 12 | 11/16, 11/19 | Prueba 3, Vibrantes.                                         |
-| Semana 13 | 11/23\phantom{, 00/00} | Variación dialectal. Día de acción de gracias      |
-| Semana 14 | 11/30, 12/03 | Variación dialectal.                                         | 
-| Semana 15 | 12/07, 12/10 | Prueba 4. Trabajo práctico. (12/24)                          |
 
