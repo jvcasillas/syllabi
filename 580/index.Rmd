@@ -17,7 +17,7 @@ output:
 \phantom{hola}  
 
 \begin{wrapfigure}[1]{r}{0.21\textwidth}
-\includegraphics[width=0.2\textwidth]{intro_phonetics.png}
+\includegraphics[width=0.2\textwidth]{intro_phonetics_mat.png}
 \includegraphics[width=0.2\textwidth]{oat.png}
 \end{wrapfigure}
 
@@ -62,21 +62,21 @@ initiative at the end of the semester.
 
 # Objetivos del curso
 
-El objetivo primordial de este curso consiste en ayudar al hablante nativo de 
-inglés a mejorar su pronunciación del español. 
-Se intentará cumplir el mencionado objetivo creando conciencia en el 
-estudiante de cómo funciona el sistema fonológico del español a varios 
-niveles: a través de un mejor entendimiento de los conceptos fonéticos y 
-fonológicos relevantes, de la aplicación de dichos conceptos mediante 
-ejercicios de transcripción escrita y producción oral y del reconocimiento de 
-rasgos fonéticos y fonológicos en el español hablado, todo ello sin olvidar 
-el importante papel desempeñado por la variación dialectal. 
-El curso proporciona al estudiante el ambiente relajado y de apoyo que es 
-necesario para reducir al máximo las inhibiciones y obstáculos que a menudo 
-se interponen a la práctica de la pronunciación. 
-El curso se ha diseñado de acuerdo a las metas de aprendizaje establecidas por 
-el departmento: 
-[http://span-port.rutgers.edu/learning-goals](http://span-port.rutgers.edu/learning-goals).
+Esta asignatura aporta un resumen completo del sistema de sonidos del español. 
+El objetivo primordial del curso consiste en analizar las diferencias 
+fundamentales entre la fonología del español y la del inglés para informar al 
+maestro de español como L2 acerca de las mejores prácticas para la enseñanza 
+de la pronunciación del español.
+Para ello, el curso aborda los siguientes temas: la articulación de los 
+sonidos del español y cómo transcribirlos, los procesos fonológicos del 
+español, la variación dialectal del mundo hispanohablante y el desarrollo de 
+ejercicios pensados para ayudar al estudiante de español como L2 a mejorar la 
+pronunciación. 
+Asimismo, se provee una introducción al análisis acústico de los sonidos del 
+habla y cómo puede usarse para medir el progreso del estudiante no nativo. 
+Al terminar este curso el estudiante contará con una base de herramientas 
+fonéticas y un conocimiento básico de las mejores prácticas para incorporarla 
+a sus lecciones de lengua.
 
 \vspace{.2in}
 
@@ -121,10 +121,10 @@ Componente                  & Porcentaje & & \multicolumn{2}{c}{Distribución de
 \cmidrule(lr){1-2}
 \cmidrule(lr){4-5}
 Preparación y participación & 10\%       & & A   & 92--100 \\
-Tareas/pruebitas            & 10\%       & & B+  & 87--91 \\
-Trabajo práctico 1          & 20\%       & & B   & 82--86 \\
-Trabajo práctico 2          & 20\%       & & C+  & 77--81 \\
-Pruebas (en casa)           & 40\%       & & C   & 70--76 \\
+Tareas/resúmenes            & 10\%       & & B+  & 87--91 \\
+Trabajo práctico 1          & 30\%       & & B   & 82--86 \\
+Trabajo práctico 2          & 30\%       & & C+  & 77--81 \\
+Pruebas (en casa)           & 20\%       & & C   & 70--76 \\
                             &            & & D   & 65--69 \\
                             &            & & F   & 0--64 \\
 \bottomrule
@@ -180,24 +180,40 @@ porcentaje de la nota final correspondiente a la misma se distribuirá entre
 el resto de las pruebas.
 
 
-### Grabación
+### Trabajo práctico 1 - Ejercicio de pronunciación
 
-Se hará una grabación al principio y al final del semestre. 
-Consistirá en la lectura de varias palabras/frases/párrafos. 
-Es buena idea hacer al menos una cita con el profesor para obtener comentarios 
-y sugerencias para mejorar su pronunciación en base a esta grabación.
+El estudiante escogerá uno de los "problemas" a los que se enfrentan los 
+aprendices de español como L2 y desarrollará una lección/serie de ejercicios 
+para trabajar dicho problema.
+El estudiante entregará:  
 
-<!--
-### Examen final
+1. un informe en el cual (a) se explica el problema lingüístico, (b) se 
+detalla una lección/un ejercicio para trabajar el problema y (c) se describe 
+cómo se puede incorporar la lección/el ejercicio a una unidad temática de 
+clase  
+2. un plan de lección formal (ver [plantilla](https://span-port.rutgers.edu/mat/658-preparing-for-mat-portfolio)) 
+que incluya la lección/el ejercicio
 
-El examen final tendrá lugar el último día de la sesión. 
-El objetivo es tener una forma de evaluación que permita ver cómo ha aplicado 
-el alumno a su español los conceptos aprendidos en el curso. 
-Es decir, incluirá todo el material visto a lo largo del semestre. 
-No obstante, el valor es igual al de todas las demás pruebas (15\% de la nota 
-final).
+El propósito de este trabajo práctico es ayudar al alumno a desarrollar su 
+portafolio MAT. 
+Por esta razón se recomienda que el estudiante tenga este objetivo en cuenta 
+durante el desarrollo del proyecto. 
+Para más información consulta [https://tlc.rutgers.edu/wlimain/mat-portfolio-independent-study](https://tlc.rutgers.edu/wlimain/mat-portfolio-independent-study). 
 
--->
+
+### Trabajo práctico 2 - Evaluación fonética
+
+Cada estudiante recibirá dos grabaciones de un aprendiz de español como L2. 
+La grabaciones son de un ejercicio que hizo el aprendiz al principio y al 
+final de una clase. 
+El trabajo del estudiante consiste en llevar a cabo una evaluación fonética 
+del habla del aprendiz.
+La evaluación incluirá un análisis de las grabaciones (pre/post) en el cual se 
+destacan las áreas en las que el aprendiz mejoró (o no). 
+Asimismo, el estudiante desarrollará un plan personalizado para que el 
+aprendiz continúe mejorando su pronunciación.
+
+
 
 
 
