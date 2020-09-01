@@ -10,6 +10,7 @@ output:
     highlight: pygments
     includes:
       in_header: header.tex
+    latex_engine: xelatex
 ---
 
 \normalsize
@@ -422,4 +423,8 @@ más exactas más adecuadas al ritmo de la clase.
 ```{r, child="./temario/temario_f2020.Rmd"}
 ```
 
+\clearpage
+
+```{r load-refs, child="../../span_580/refs/readings/refs_child.Rmd"}
+```
 
