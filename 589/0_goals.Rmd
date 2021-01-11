@@ -1,0 +1,118 @@
+
+# Whats
+
+- What is this class about?
+	- This class is about learning to do independent research
+	- This class is about answering questions
+	- This class is about knowing how to find resources to answer our questions
+	- This class is about making research easier
+	- This class is about reducing human error
+	- This class is about making research reproducible
+	- This class is about sharing our results
+	- This class is about communicating our findings
+	- This class is about the linear model
+- What do I want students to learn
+	- I want students to learn how to answer their own questions
+	- I want students to learn how to think through a problem 
+	- I want students to learn the most common statistical tools used in our field
+	- I want students to learn the cutting edge tools that will make their research easier, reproducible, and more accurate
+	- I want students to learn the linear model
+	- I want students to learn to assess other peoples' work
+- What can I realistically teach students?
+	- I can teach students the linear model
+	- I can teach students what the tools are and the basics for implementing them in their research
+	- I can teach students where to get answers
+	- I can teach students how to evaluate other peoples' research
+
+
+
+
+# Hows
+
+Topics we need to cover in order to acheive the goals in 'whats'
+
+
+Programming
+
+- R basics
+	- gettting and tidying data
+	- transforming data
+	- plotting data
+- Version control
+	- GitHub
+	- RStudio projects
+- Communicating/sharing
+	- rmarkdown reports
+	- knitr
+	- html presentations (slidify/xaringan)
+	- websites, blogs (rmarkdown, blogdown)
+
+Statistics
+
+- Distribution families (Week 1)
+- Variable types        (Week 1)
+
+- hypothesis testing    (Week 2)
+- t-tests
+	- compare distribution to values
+	- compare distributions
+
+- Bivariate correlation (Week 3)
+	- r
+
+- LM (Week 4 - 8)
+	- regression
+	- multiple regression
+	- details
+		– Multiple R-Squared
+		– Model F-Ratio
+		– Specification Error
+		- model assumptions
+		– Multicollinearity
+		– Hierarchical Partitioning of Variance
+		– Nested Model Comparisons
+		– Non-Additivity (Interactions)
+		– Non-Linearity (Polynomials) 
+		- model reporting
+	- Exploratory Regression (Empirical Selection) Techniques
+		– Backwards Elimination
+		– Forward Selection
+		– Stepwise Regression
+		– Alpha Slippage, family-wise error
+		– Shrunken R-Squared
+		– Cross Validation
+- General Linear Model (Week 9 - 10)
+	- details
+		– Fisher
+		– Classical ANOVA and its limitations
+		– Omnibus Null Hypothesis
+		– Dummy Coding
+		– Contrast Coding
+		- centering
+		- scaling
+		– Limitations of Post Hoc Comparisons
+		– Modern Mixed GLMs
+- Generalized Linear Model (Week 12 - 13)
+	- linear
+	- binomial
+	- poisson
+
+
+
+
+
+NEEDS
+
+Programming
+
+- slides, tutorials
+- readings
+- data sets
+- problem sets
+
+Statistics
+
+- slides, tutorials
+- readings
+- slidy demonstrations
+- problem sets
