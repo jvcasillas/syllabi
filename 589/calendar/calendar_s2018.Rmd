@@ -1,0 +1,47 @@
+
+|     | Week |  Date |                               Topic                               |
+| :-- | :--: | :---: | :---------------------------------------------------------------- |
+|     |  1   | 01/16 | Intro, Setup, GitHub, PA1 assigned                                |
+|     |      |       |                                                                   |
+|     |  2   | 01/23 | Stats: Variables, distributions                                   |
+|     |      |       | Programming: RStudio projects, RMarkdown, ggplot                  |
+|     |      |       |                                                                   |
+|     |  3   | 01/30 | Stats: Hypothesis testing, comparing means                        |
+|     |      |       | Programming: PA2 assigned, R basics, getting/tidying data, ggplot |
+|     |      |       |                                                                   |
+|     |  4   | 02/06 | Stats: Bivariate correlation                                      |
+|     |      |       | Programming: R basics, tidying/transforming data, ggplot          |
+|     |      |       |                                                                   |
+|     |  5   | 02/13 | Stats: The linear model: regression                               |
+|     |      |       | Programming: PA3 assigned, R basics, GitHub Pages                 |
+|     |      |       |                                                                   |
+|     |  6   | 02/20 | Stats: The linear model/regression                                |
+|     |      |       | Programming: R basics, HTML presentations, slidify                |
+|     |      |       |                                                                   |
+|     |  7   | 02/27 | Stats: The linear model/regression                                |
+|     |      |       | Programming: PA4 assigned, HTML presentations, xaringan           |
+|     |      |       |                                                                   |
+|     |  8   | 03/06 | Stats: The linear model/regression                                |
+|     |      |       | Programming: papaja                                               |
+|     |      |       |                                                                   |
+|     |      | 03/13 | **Spring break**                                                  |
+|     |      |       |                                                                   |
+|     |  9   | 03/20 | Stats: General Linear Model                                       |
+|     |      |       | Programming: modeling tips and tricks                             |
+|     |      |       |                                                                   |
+|     |  10  | 03/27 | Stats: General Linear Model                                       |
+|     |      |       | Programming: modeling tips and tricks                             |
+|     |      |       |                                                                   |
+|     |  11  | 04/03 | **Exam**                                                          |
+|     |      |       |                                                                   |
+|     |  12  | 04/10 | Stats: Generalized Linear Model                                   |
+|     |      |       | **Online presentations due**                                      |
+|     |      |       |                                                                   |
+|     |  13  | 04/17 | Stats: Generalized Linear Model                                   |
+|     |      |       | **Online presentation comments due**                              |
+|     |      |       |                                                                   |
+|     |  14  | 04/24 | Research project presentations, residuals                         |
+|     |      |       |                                                                   |
+|     |  15  | 05/01 | Reading day                                                       |
+|     |      |       |                                                                   |
+|     |  16  | 05/?? | Final exam day (Projects due)                                     |

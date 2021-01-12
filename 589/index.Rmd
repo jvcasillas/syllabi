@@ -1,27 +1,34 @@
 ---
-geometry       : vmargin=1.0in, hmargin=0.75in
-bibliography   : refs/bib/span589.bib
-csl            : refs/bib/apa.csl
+title        :
+author       : ""
+date         : ""
+fontsize     : 10pt
+geometry     : vmargin=1in, hmargin=0.75in, headsep=.5in
+bibliography : refs/bib/span589.bib
+csl          : refs/bib/apa.csl
 output:
   pdf_document:
     toc: no
     highlight: pygments
     includes:
       in_header: header.tex
+    latex_engine: xelatex
 ---
 
 
+\normalsize
+
+\begin{wrapfigure}[1]{r}{0.21\textwidth}
+\includegraphics[width=0.2\textwidth]{ds4ling.png}
+\end{wrapfigure}
 
 
 01:940:589:01 - Spring 2021  
 Meetings: Online, 08:10--11:10  
-
 Professor: Joseph V. Casillas, PhD  
 Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
 Office: Via Zoom  
 Office hours: by appointment
-
-
 
 # Course description
 
@@ -37,8 +44,7 @@ statistically. Students will learn advanced techniques used to explore,
 tidy, visualize, and analyze data. We will also focus on how to make the 
 aforementioned procedures reproducible and shareable. Students will develop a 
 foundation in programming in R, as well as learning the most common tools at 
-the disposal of todays data scientist (i.e. GitHub, Knitr, etc.). 
-
+the disposal of todays data scientist (i.e. GitHub, Knitr, etc.).  
 **Prerequisites**: No prior experience with statistics or programming is necessary.
 
 
@@ -168,8 +174,7 @@ Details will be provided beforehand.
 
 ### Research Project
 
-#### Overview
-
+\textcolor{RUred}{Overview}:
 Each student will complete a research project in which they put in practice 
 the tools learned over the course of the semester. 
 The primary focus will be on managing the project in an automatic and reproducible way so that it can be shared with other collaborators. 
@@ -192,22 +197,19 @@ Students have two options regarding the type of project they do:
 All projects require the prior approval of the professor. 
 Project due dates will be established in class, but can be expected to be due several days before the university assigned final exam (though there is no exam).
 
-#### Paper
-
+\textcolor{RUred}{Paper}:
 The manuscript will be a write up of the methods/results sections of a research 
 article. 
 The focus is on clearly and accurately explaining the statistical analyses used in the project and appropriately interpreting the results. 
 The paper must be a literate document written in RMarkdown using ```papaja```. 
 We will demo this in class.
 
-#### Presentation
-
+\textcolor{RUred}{Presentation}:
 Students will present their work in a semi-finished state during the final 
 week of the semester (10 min. presentation + 5 min. for questions). 
 The slides of this presentation are part of the project and must also be hosted on GitHub.
 
-#### Peer review
-
+\textcolor{RUred}{Peer review}:
 Each student is required to evaluate the project of two other students. 
 They will fork the project in order to evaluate the reproducibility of the code 
 and the statistical validity of the analysis. 
@@ -296,57 +298,10 @@ To begin this process, please complete the Registration form on the ODS web site
 [https://ods.rutgers.edu/students/registration-form](https://ods.rutgers.edu/students/registration-form).
 
 
-
-
-
 \clearpage
 
 \phantom{.}
 \vspace{0.2in}
 
-|     | Week |  Date |                               Topic                               |
-| :-- | :--: | :---: | :---------------------------------------------------------------- |
-|     |  1   | 01/21 | Intro, Setup, GitHub, PA1 assigned                                |
-|     |      |       |                                                                   |
-|     |  2   | 01/28 | Stats: Variables, distributions                                   |
-|     |      |       | Programming: RStudio projects, RMarkdown, ggplot                  |
-|     |      |       |                                                                   |
-|     |  3   | 02/04 | Stats: Hypothesis testing, comparing means                        |
-|     |      |       | Programming: PA2 assigned, R basics, getting/tidying data, ggplot |
-|     |      |       |                                                                   |
-|     |  4   | 02/11 | Stats: Bivariate correlation                                      |
-|     |      |       | Programming: R basics, tidying/transforming data, ggplot          |
-|     |      |       |                                                                   |
-|     |  5   | 02/18 | Stats: The linear model: regression                               |
-|     |      |       | Programming: PA3 assigned, R basics, GitHub Pages                 |
-|     |      |       |                                                                   |
-|     |  6   | 02/25 | Stats: The linear model/regression                                |
-|     |      |       | Programming: R basics, HTML presentations, slidify                |
-|     |      |       |                                                                   |
-|     |  7   | 03/04 | Stats: The linear model/regression                                |
-|     |      |       | Programming: PA4 assigned, HTML presentations, xaringan           |
-|     |      |       |                                                                   |
-|     |  8   | 03/11 | Stats: The linear model/regression                                |
-|     |      |       | Programming: papaja                                               |
-|     |      |       |                                                                   |
-|     |      | 03/12 | **Spring break**                                                  |
-|     |      |       |                                                                   |
-|     |  9   | 03/18 | Stats: General Linear Model                                       |
-|     |      |       | Programming: modeling tips and tricks                             |
-|     |      |       |                                                                   |
-|     |  10  | 03/25 | Stats: General Linear Model                                       |
-|     |      |       | Programming: modeling tips and tricks                             |
-|     |      |       |                                                                   |
-|     |  11  | 04/01 | Stats: Generalized Linear Model                                   |
-|     |      |       | **Online presentations due**                                      |
-|     |      |       |                                                                   |
-|     |  12  | 04/08 | Stats: Generalized Linear Model                                   |
-|     |      |       | **Online presentation comments due**                              |
-|     |      |       |                                                                   |
-|     |  13  | 04/15 | Research project presentations, residuals                         |
-|     |      |       |                                                                   |
-|     |  14  | 05/22 | Linear mixed effects models                                       |
-|     |      |       |                                                                   |
-|     |  15  | 05/29 | Bayesian data analysis                                            |
-|     |      |       |                                                                   |
-|     |  16  | 05/?? | Final exam day (Projects due)                                     |
+```{r, temario-589, child="./calendar/calendar_s2021.Rmd"}
+```
