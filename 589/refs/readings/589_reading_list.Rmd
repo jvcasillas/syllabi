@@ -1,6 +1,6 @@
 ---
-geometry       : vmargin=1.0in, hmargin=0.75in
-bibliography   : ../bib/span589.bib
+geometry       : vmargin=1.0in, hmargin=0.75in, headsep=0.5in
+bibliography   : ../bib/ds4ling_refs.bib
 csl            : ../bib/apa.csl
 output:
   pdf_document:
@@ -27,7 +27,7 @@ discussed *in* the week 2 class, thus they should be read *before*.).
 
 ```{r, eval=TRUE, echo=FALSE, cache=FALSE, message=FALSE, warnings=FALSE}
 library(RefManageR)
-bib <- ReadBib("../bib/span589.bib", check = FALSE)
+bib <- ReadBib("../bib/ds4ling_refs.bib", check = FALSE)
 ```
 
 
@@ -396,18 +396,7 @@ writeLines(ui); print(bib["qass93_ch5"],
 
 
 
-
-# Week 11 (exam week): 
-
-
-
-
-
-
-
-
-
-# Week 12: 
+# Week 11: 
 
 ### Reading
 
@@ -431,7 +420,7 @@ writeLines(ui); print(bib["gelman_hill_ch6"],
 - [Shiny GLM](https://jvcasill.shinyapps.io/shiny_glm/)
 - [When to use logistic regression](http://logisticregressionanalysis.com/33-when-to-use-logistic-regression/)
 - [Why regular regression does NOT work](http://logisticregressionanalysis.com/55-why-regular-regression-does-not-work/)
-- [What it (multivariate) logistic regression](http://logisticregressionanalysis.com/86-what-is-logistic-regression/)
+- [What is (multivariate) logistic regression](http://logisticregressionanalysis.com/86-what-is-logistic-regression/)
 
 
 
@@ -445,7 +434,7 @@ writeLines(ui); print(bib["gelman_hill_ch6"],
 
 
 
-# Week 13: 
+# Week 12: 
 
 ### Reading
 
@@ -467,9 +456,17 @@ writeLines(ui); print(bib["gelman_hill_ch5"],
 
 
 
+# Week 13: 
 
+### Reading
 
+- TBD
 
+# Week 14: 
+
+### Reading
+
+- TBD
 
 
 

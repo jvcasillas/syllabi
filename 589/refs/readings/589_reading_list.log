@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.8)  12 JAN 2021 12:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.8)  13 JAN 2021 21:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -530,9 +530,9 @@ LaTeX Info: Redefining \nameref on input line 100.
 * \textheight=650.43001pt
 * \oddsidemargin=-18.06749pt
 * \evensidemargin=-18.06749pt
-* \topmargin=-37.0pt
+* \topmargin=-48.135pt
 * \headheight=12.0pt
-* \headsep=25.0pt
+* \headsep=36.135pt
 * \topskip=10.0pt
 * \footskip=30.0pt
 * \marginparwidth=65.0pt
@@ -601,7 +601,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 175.
 
-<ru_logo.pdf, id=163, 476.78125pt x 129.48375pt>
+<ru_logo.pdf, id=175, 476.78125pt x 129.48375pt>
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
 Package pdftex.def Info: ru_logo.pdf  used on input line 210.
@@ -691,15 +691,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [4]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 550.
+(hyperref)                than one, level fixed on input line 547.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 592.
+(hyperref)                than one, level fixed on input line 589.
 
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 625.
+Package pdftex.def Info: ru_logo.pdf  used on input line 626.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -709,28 +709,49 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-25.74313pt}.
 
-[5] (./589_reading_list.aux)
+[5]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 626.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 638.
+
+File: ru_logo.pdf Graphic file (type pdf)
+<use ru_logo.pdf>
+Package pdftex.def Info: ru_logo.pdf  used on input line 646.
+(pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 37.74313pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.74313pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-25.74313pt}.
+
+[6] (./589_reading_list.aux)
 Package rerunfilecheck Info: File `589_reading_list.out' has not changed.
-(rerunfilecheck)             Checksum: 276D62965FFC87B32D693D3348F30C3E;4242.
+(rerunfilecheck)             Checksum: D7AD77F5F567EC33228F27ACF4C1DACE;4443.
  ) 
 Here is how much of TeX's memory you used:
- 14064 strings out of 481240
- 207038 string characters out of 5913982
- 536036 words of memory out of 5000000
- 30584 multiletter control sequences out of 15000+600000
+ 14077 strings out of 481240
+ 207156 string characters out of 5913982
+ 536160 words of memory out of 5000000
+ 30590 multiletter control sequences out of 15000+600000
  443032 words of font info for 101 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 68i,15n,70p,355b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,16n,70p,355b,419s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/casillas/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/U
 sers/casillas/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/c
 asillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/cas
 illas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/casil
 las/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/casillas
 /Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on 589_reading_list.pdf (5 pages, 147056 bytes).
+Output written on 589_reading_list.pdf (6 pages, 147804 bytes).
 PDF statistics:
- 313 PDF objects out of 1000 (max. 8388607)
- 297 compressed objects within 3 object streams
- 78 named destinations out of 1000 (max. 500000)
- 18726 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 335 PDF objects out of 1000 (max. 8388607)
+ 317 compressed objects within 4 object streams
+ 85 named destinations out of 1000 (max. 500000)
+ 18750 words of extra memory for PDF output out of 20736 (max. 10000000)
 

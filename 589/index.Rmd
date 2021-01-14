@@ -4,7 +4,7 @@ author       : ""
 date         : ""
 fontsize     : 10pt
 geometry     : vmargin=1in, hmargin=0.75in, headsep=.5in
-bibliography : refs/bib/span589.bib
+bibliography : refs/bib/ds4ling_refs.bib
 csl          : refs/bib/apa.csl
 output:
   pdf_document:
@@ -60,7 +60,7 @@ the disposal of todays data scientist (i.e. GitHub, Knitr, etc.).
 
 ```{r, eval=TRUE, echo=FALSE, cache=FALSE, warning=FALSE, message=FALSE}
 library(RefManageR)
-bib <- ReadBib("./refs/bib/span589.bib", check = FALSE)
+bib <- ReadBib("./refs/bib/ds4ling_refs.bib", check = FALSE)
 ui <- "- "
 ```
 
