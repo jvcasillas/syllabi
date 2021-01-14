@@ -1,0 +1,571 @@
+---
+title:
+author: ""
+date: ""
+fontsize: 10pt
+geometry: vmargin=1.0in, hmargin=0.75in, headsep=0.75in
+output:
+  pdf_document:
+    toc: no
+    highlight: pygments
+    includes:
+      in_header: header.tex
+---
+
+
+\normalsize
+
+Profesor: Joseph V. Casillas, Ph.D.  
+Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
+Oficina: AB 5174  
+Horas de consulta: lunes 9:00am o mediante cita
+
+# Resumen del curso
+
+## Descripción
+
+Español 202: Cultura y composición (en conjunto con Español 201, que inicia la secuencia intermedia avanzada del aprendizaje de la lengua española), continúa con el desarrollo de la competencia comunicativa adquirida en español en español 139. En particular, en este curso se desarrollarán las habilidades lingüísticas que corresponden a la comunicación escrita y a la comprensión lectora. Además, se pondrá énfasis en las competencias culturales, tecnológicas y comunicativas en el aprendizaje del español y en la preparación para la secuencia de cursos 215/265/325. Las discusiones, talleres y actividades de la clase se centrarán en lecturas, películas y otros materiales que tratan varios aspectos interdisciplinarios de las culturas hispánicas, tanto del presente como del pasado.
+
+## Requisitos
+
+- Placement exam o Español 139 (01:940:139); 201 y 202 pueden tomarse en cualquier orden.  
+
+\vspace{.1in}
+
+\hrule
+\textcolor{RUred}{IMPORTANT NOTICE}  
+As per SAS policy, a student cannot earn credit for language courses taken below their foreign language placement. Please verify that you are enrolled in a course that corresponds to your placement level, even if Webreg allow you to register for the course. Please go to the SAS website linked [here](http://sasundergrad.rutgers.edu/academics/courses/registration-and-course-policies/foreign-language-courses) to learn of SAS academic policy on foreign languages. You may also visit the Department of Spanish and Portuguese [website](http://span-port.rutgers.edu/undergraduate).  
+Placement exam results can be found in Degree Navigator under your course list. Results will be at the bottom of page. If you have questions about your placement, contact Prof. Dámaris Otero-Torres, Undergraduate Director, via e-mail at dotero@spanport.rutgers.edu during the first two weeks of classes (before the end of the add/drop period). It is your responsibility to be enrolled in the language course that corresponds to your placement.
+\vspace{.1in}
+\hrule
+
+
+
+
+## Fechas importantes
+
+La asignatura comienza el día 19 de enero y termina el día 3 de mayo. 
+El último día para dejar la clase sin sacar "w" es el día 26 de enero. 
+
+## Objetivos del curso
+
+Al terminar la asignatura, el alumno podrá...
+
+- **Escribir en español** sobre una variedad de temas en contextos formales e informales, con particular énfasis en la argumentación escrita y en la capacidad de producir textos para audiencias específicas.
+- **Demostrar comprensión de textos originales escritos en español** de géneros diversos sobre temas variados, y apreciación de los elementos culturales de relevancia para el mundo hispanohablante que dichos textos contienen; dicha comprensión hará posible la discusión de estos textos de forma crítica tanto oralmente como por escrito.
+- **Conversar en español** con hablantes nativos y estudiantes de español como segunda lengua sobre temáticas diversas, con precisión gramatical, utilizando correctamente los distintos modos y tiempos verbales.
+- **Demostrar comprensión del español hablado** en grado suficiente como para entender los elementos centrales y detalles relevantes de conversaciones (comunicación interpersonal) y presentaciones (comunicación exposicional) en distintos contextos y medios, sobre temáticas relacionadas con el mundo hispanohablante.
+- **Desarrollar competencia cultural, tecnológica y de pensamiento crítico** por medio de presentaciones digitales, discusión de temas controvertidos y el establecimiento de conexiones con la propia cultura y el resto del mundo. 
+
+## Materiales
+
+### Requeridos
+
+Todos los materiales se pueden comprar en cualquier librería de Rutgers (Barnes & Noble) o por internet. 
+
+\begin{center}
+\includegraphics[width=.5\textwidth]{texts.png}
+\end{center}
+
+- Bacon et al. (2010). [Leyendas del mundo hispano](AMAZON LINK). 3rd Edition. Pearson. ISBN: 978-0-205-69650-5.
+- Tuten et al. (2010). [La cultura del mundo hispano (reader)](LINK). Custom Edition. Cengage. ISBN: 978-1-111-97333-9.
+
+### Web
+
+- Página de Canvas: https://rutgers.instructure.com/courses/107039
+- Películas en línea
+	- [Crude](https://www.youtube.com/watch?v=BvrZRvgwBS8)
+	- [Buena Vista Social Club](http://www.veoh.com/watch/v78967281pJy82BWQ)
+	- [Como agua para chocolate](http://tu.tv/videos/como-agua-para-chocolate-pelicula-comple)
+- Cortometrajes (ver calendario)
+
+### Recomendaciones
+
+- Un buen diccionario bilingüe español/inglés (sobre 90.000 acepciones). Algunos ejemplos son The University of Chicago Spanish Dictionary, Oxford New Spanish Dictionary y Collins Spanish Dictionary. [WordReference](http://www.wordreference.com/) es una excelente opción gratuita en línea, que incluye diccionarios monolingües y de sinónimos.
+- Ortografía escolar de la lengua española, RAE u otro manual de ortografía y redacción similar:
+[http://www.cenidet.edu.mx/subaca](http://www.cenidet.edu.mx/subaca/web-dda/docs/ortografia_basica.pdf)
+- [Manual de uso del español (B/C)](http://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=gramatica+de+uso) o similar: [http://www.uoc.edu/](http://www.uoc.edu/serveilinguistic/pdf/Guia-espanyol-20130129.pdf)
+
+## Reglas departamentales y políticas del curso
+
+### Estudiantes con dificultades de aprendizaje 
+
+Rutgers University welcomes students with disabilities into all of the University's educational programs. In order to receive consideration for reasonable accommodations, a student with a disability must contact the appropriate disability services office at the campus where you are officially enrolled, participate in an intake interview, and provide documentation: [https://ods.rutgers.edu/students/documentation-guidelines](https://ods.rutgers.edu/students/documentation-guidelines).  
+
+If the documentation supports your request for reasonable accommodations, your campus’s disability services office will provide you with a Letter of Accommodations. Please share this letter with your instructors and discuss the accommodations with them as early in your courses as possible. To begin this process, please complete the Registration form on the ODS web site at: [https://ods.rutgers.edu/students/registration-form](https://ods.rutgers.edu/students/registration-form).
+
+### Política de asistencia
+
+La asistencia al curso es obligatoria. Se permite un máximo de tres (3) ausencias injustificadas durante el semestre: cada ausencia adicional a partir de tres restará un (1) punto de la nota final, a menos que se justifique con documentación adecuada. Además, cada estudiante debe llegar a tiempo y en condiciones de participar en la clase; tres (3) atrasos constituyen una (1) ausencia.  
+
+Quien falte a una clase, examen o cualquier evaluación, debe reportar la razón en las 24 horas previas o posteriores a su ausencia a través de la página oficial de Rutgers para notificar ausencias: [https://sims.rutgers.edu/ssra/](https://sims.rutgers.edu/ssra/); el instructor recibirá un correo electrónico automáticamente. Sin embargo, notificar la ausencia no garantiza su justificación: cada instructor puede pedir evidencia antes de admitir la excusa. Finalmente, quien se ausente por razones religiosas debería notificarlo antes de la fecha correspondiente. Aquí pueden consultar la lista oficial de festividades religiosas excusadas en Nueva Jersey: [http://www.state.nj.us/education/genfo/holidays1415.htm](http://www.state.nj.us/education/genfo/holidays1415.htm).
+
+### Integridad académica
+
+Cada estudiante de Rutgers debe mantener principios de integridad académica. De acuerdo con el manual de estudiantes de la universidad, una conducta éticamente adecuada incluye no hacer trampa, copiar, plagiar ni impedir el acceso de materiales e información a otros. Un estudiante que ayude a otro a realizar estas acciones también estará en falta. De los actos mencionados, uno de los más graves es el plagio, que nuestra universidad define de la siguiente manera:
+
+
+\vspace{0.3in}
+\hrule  
+\textcolor{RUred}{Plagiarism} is the use of another person’s words, ideas, or results without giving that person appropriate credit. To avoid plagiarism, every direct quotation must be identified by quotation marks or appropriate indentation and both direct quotation and paraphrasing must be cited properly according to the accepted format for the particular discipline or as required by the instructor in a course. Some common examples of plagiarism are:
+
+- Copying word for word (i.e. quoting directly) from an oral, printed, or electronic source without proper attribution.
+- Paraphrasing without proper attribution, i.e., presenting in one’s own words another person’s written words or ideas
+as if they were one’s own.
+- Submitting a purchased or downloaded term paper or other materials to satisfy a course requirement.
+- Incorporating into one’s work graphs, drawings, photographs, diagrams, tables, spreadsheets, computer programs, or other nontextual material from other sources without proper attribution.
+
+\scriptsize{Rutgers University Academic Integrity Policy, p. 2: http://academicintegrity.rutgers.edu/files/documents/AI\_Policy\_2013.pdf}
+\vspace{.1in}
+\hrule
+
+\vspace{0.3in}
+\normalsize
+
+Para más información, visiten http://academicintegrity.rutgers.edu/. Para ver formas en que podemos evitar el plagio, visiten http://www.libraries.rutgers.edu/avoid_plagiarism. Cuando sea necesario utilizar fuentes para una tarea, cada estudiante podrá utilizar el sistema propio de su disciplina para citar textos. En caso de duda, es posible utilizar el estándar de la Modern Language Association, el más común para estudiantes de idiomas, descrito con detalle en la MLA Formatting and Style Guide de Purdue University: https://owl.english.purdue.edu/owl/section/2/11/.  
+
+El Departamento de Español y Portugués conoce la existencia de sistemas de traducción automática online: su uso no está permitido, pues va en contra de la política de integridad académica. Si hay signos claros acerca del uso de traducción automática en una tarea, podrá investigarse el caso.
+
+### Conducta en clase:
+
+- **En clase**: Para mantener un ambiente excelente apropiado para el aprendizaje, respeta las 7 reglas capitales:
+	1. Llegue a clase a tiempo.
+	2. No coma, ni beba.
+	3. Llegue a clase preparado para participar. **Recuerde**: Va a cometer errores y es normal. Demuestre respeto y madurez. Participe siempre.
+	4. No use su teléfono celular o tableta o computadora.
+	5. No lea el periódico, use su computadora o tenga materiales de otros cursos.
+	6. Si llega tarde, no interrumpa la clase.
+	7. No interrumpa la clase si tiene una situación privada o personal que puede tratarse después de clase.
+
+\vspace{.1in}
+\hrule
+\textcolor{RUred}{ATTENTION}: MOBILE DEVICES POLICY  
+Cell phones must be turned off at the beginning of each class period. If a student disregards this policy, they will be marked for one absence each time they are observed using a cell phone (for texting, calls, or internet use) during the class period
+\vspace{.1in}
+\hrule
+
+- **Etiqueta digital o “Netiquette”**: Como regla general, sea muy cuidadoso a la hora de comunicarse con el profesor y sus compañeros por escrito. Se espera que sea absolutamente respetuoso tanto en privado como público. Cuando envíe un correo electrónico considere lo siguiente:
+	- Use su dirección de correo de la universidad
+	- Incluya información del curso en “Asunto”
+	- Nunca use expresiones informales y diríjase formalmente
+	- Sea claro, preciso y conciso
+	- Dé las gracias
+	- Use su nombre completo e identifique el curso en el que está matriculado.
+
+
+\vspace{.1in}
+\hrule
+Ejemplo de un mensaje apropiado:
+
+\footnotesize
+De: astudent@yourinstitution.edu  
+Fecha: October 24, 2016 11:45:48 AM EST-04:00  
+A: nieri@rci.rutgers.edu  
+Asunto: clarificación presentación oral - Español 202 sección 2  
+
+Estimado Prof. Casillas,  
+Me llamo \emph{Estudiante Confundido} y estoy en su curso de español 202  
+sección 2. Estoy leyendo las instrucciones para la presentación oral  
+y no entendí uno de los requisitos. ¿Qué quiere decir con “grabar y  
+entregar”? Muchas gracias por su tiempo.  
+
+Atentamente,  
+Estudiante Confundido  
+Span 202 Spring 2021 
+
+\vspace{.1in}
+\hrule
+
+\normalsize
+
+- **Comunicación electrónica**: Los estudiantes deben esperar una respuesta del profesor en un período de 24 horas (lunes-jueves). Estudiantes que envíen mensajes durante el fin de semana (viernes-domingo), deberán esperar una respuesta del profesor el lunes de la semana siguiente después de clase.
+
+
+## Requisitos generales del curso y tareas
+
+Importante: No se aceptarán tareas ni materiales atrasados. Si alguien debe faltar por razones de fuerza mayor cuando hay una actividad con nota (por ejemplo, talleres de lectura y revisión), debe enviar sus materiales para que el resto de la clase pueda revisarlos. Si un estudiante sabe que una situación especial le obligará a faltar a clase, debe avisar con la mayor rapidez posible y entregar el material requerido con prontitud.
+
+### Participación y preparación 
+
+Los estudiantes tienen que participar activamente en todas las clases. Se espera que cada estudiante participe activamente en todas las sesiones, tanto interactuando con el resto de la clase como colaborando en las distintas actividades de grupo, talleres de escritura, etc. Para poder participar efectivamente, hay que preparar los materiales y hacer las tareas completas según se especifica en el sílabo antes de ir a clase.  
+
+La nota de participación se medirá mediante una rúbrica disponible en Sakai y tendrá en cuenta tanto la cantidad como la calidad. Es normal cometer errores cuando estamos aprendiendo lengua: no se tendrán en cuenta, a menos que demuestren con claridad preparación insuficiente para la clase.  
+
+Como apoyo adicional, los laboratorios de idiomas de Rutgers ofrecen espacios dedicados exclusivamente al aprendizaje de lenguas. Las tareas se pueden hacer en cualquier laboratorio de lenguas de la Escuela de Artes y Ciencias (SAS) (http://langins.rutgers.edu). Los dos laboratorios de lengua son:
+
+- College Avenue Campus (CAC), College Avenue Language Lab, Room 119
+- Douglass Campus (DC), Ruth Adams Building, Room 102
+
+### Tareas que serán evaluadas
+
+1. **Portafolio de desarrollo de destrezas orales y escritas (6 tareas)**: Los estudiantes completarán durante el semestre una serie de tareas relacionadas al material del curso para desarrollar habilidades de la lengua española a un nivel avanzado. Instrucciones disponibles en Sakai.
+2. **Presentación oral (1)**: Esta presentación se realizará durante la semana 14 del semestre y tendrá un formato de conferencia cultural y tratará de temas culturales del mundo hispanohablante. Como parte de la presentación oral, el estudiante utilizará tecnología. Se evaluará la presentación con una rúbrica proporcionada por el profesor. Parte de esta nota incluirá preguntas realizadas por la audiencia durante las presentaciones. Si el estudiante falta perderá puntos en su nota de presentación oral. Instrucciones disponibles en Sakai.
+3. **Composiciones en clase (2)**: A partir de un tema que se revelará el día mismo de la composición, cada estudiante deberá escribir un texto en 50 minutos, utilizando diccionarios y manuales de gramática (en papel o digitales). El profesor revisará este borrador mediante códigos de corrección disponibles en Sakai y cada estudiante tendrá 40 minutos en una clase posterior para elaborar la versión final a partir de las correcciones, tanto en aspectos formales como de contenido.
+4. **Ensayo Final (1)**: Este ensayo tratará sobre un tema cultural de interés personal o académico para cada estudiante, siempre que dicho tema se ponga en relación con las culturas hispánicas, y tendrá una extensión de 2-3 páginas (sin incluir imágenes ni bibliografía). Este ensayo es el componente escrito de la presentación oral.
+5. **Pruebas cortas de comprobación de lectura (5)**: Como forma de evaluar la comprensión de los textos que leeremos durante el semestre, tendremos pruebas al inicio de cinco clases. Los controles durarán un máximo de 15 minutos. La nota más baja de estos cinco controles no se tendrá en cuenta para la nota final.
+6. **Reflexión escrita (1)**: El último día de clases, cada estudiante escribirá durante 50 minutos una breve reflexión sobre los contenidos culturales del curso a partir de una pregunta proporcionada por el profesor. En este texto, además, se pondrán en práctica las habilidades formales desarrolladas en el curso (organización del texto, argumentación, etcétera).
+
+
+
+## Evaluación y distribución de las notas
+
+\begin{center}
+\begin{tabular}{lrp{0.75in}lr}
+\toprule
+Componente                          & Porcentaje & & \multicolumn{2}{c}{Distribución de notas}         \\
+\cmidrule(lr){1-2}
+\cmidrule(lr){4-5}
+Participación                       & 20\%       & & A                                                    & 92--100 \\
+Portafolio                          & 12\%       & & B+                                                   & 87--91 \\
+Presentación oral                   & 10\%       & & B                                                    & 80--86 \\
+Composiciones en clase (2)          & 22\%       & & C+                                                   & 77--79 \\
+Ensayo final                        & 12\%       & & C                                                    & 70--76 \\
+Pruebas de comprobación lectora (5) & 10\%       & & D                                                    & 65--79 \\
+Reflexión escrita                   & 12\%       & & F                                                    & 0--64 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+
+
+\vspace{0.5in}
+
+# CALENDARIO DEL CURSO
+
+Clave/MYL: Mitos y Leyendas  
+CR: Cultura del mundo hispano-Reader 
+
+## Semana 1 
+
+\hrule
+Objetivos de la primera semana de clase  
+
+- Introducción al curso
+- Evaluación indiviual de las destrezas lingüísticas
+- Discusión sobre la cultura
+- Comprensión de la metodología y contenido del curso
+
+\begin{tabular}{S M H}
+\toprule
+ & --    & \textbf{Tarea antes de ir a clase}: \newline
+  Imprime los siguientes documentos: \newline
+  - sílabo del curso \newline
+  - Student questionnaire (rellenar y entregar el primer día de clase) \\
+\cmidrule(lr){1-3}
+ \multirow{1}{*}{\large{\textbf{1}}} & jueves \newline 8 de \newline septiembre & \textbf{Introducción al curso} \newline 
+  - Presentaciones, sílabo, cuestionario del primer día \newline 
+  - Prueba diagnóstica (1 par.): ¿Qué es cultura? ¿Cómo se relaciona el presente y el pasado cultural? \newline 
+  \textcolor{RUred}{Tarea}: \newline
+  - \textcolor{blue}{MYL}: leer ``Leyendas de tu mundo'' p. 1--5, hacer actividades p-1 y p-3 \newline 
+  - \textcolor{blue}{Sakai}: revisar estrategias de compresnsión lectora \\
+\bottomrule
+\end{tabular}
+
+
+
+\vspace{0.5in}
+
+## Semanas 2, 3 y 4
+
+\hrule
+Objetivos de la Unidad 1
+
+- Hablar sobre productos, prácticas y perspectivas culturales del presente y el pasado
+- Desarrollo de destrezas lectoras y auditivas: comprensión de textos
+- Expresión oral y escrita con precisión gramatical para un registro formal
+- Desarrollo de destreza escritora en un ambiente formal e informal
+- Desarrollo de vocabulario y paráfrasis
+- Expresar opinión
+- Expresarse organizadamente y con cohesión
+
+### Semana 2
+
+\begin{tabular}{S M H}
+\toprule
+ \multirow{1}{*}{\large{\textbf{2}}} & lunes \newline 12 de \newline septiembre & \textbf{Unidad 1} -- Modos de ver, pensar y vivir de ayer y hoy: Mitos, leyendas y el mundo de hoy \newline
+  - Repaso: estrategias de comprensión lectora \newline
+  - \textbf{MYL}: Leyendas del mundo hispano p. 1--5 \newline
+  - Expresar opinión \newline
+  \newline
+  \textcolor{RUred}{Comenzar a trabajar con el portafolio} \newline
+  \textcolor{blue}{Tarea}: \textbf{MYL}: ``La creación del inca'' p. 9--14, hacer actividades 1-6 y 1-7 \\
+\cmidrule(lr){1-3}
+ \multirow{1}{*}{\large{\textbf{3}}} & jueves \newline 15 de \newline septiembre & - \textbf{MYL}: ``La creación del inca'' p. 9--17 (Perú/Bolivia) \newline
+  \textcolor{blue}{Tarea}: \textbf{Sakai}: Leer ``Taller de redacción y estilo 1'', hacer actividades identificadas ``en casa'', Revisar instrucciones para Portafolio 1 y preparar. \\
+\bottomrule
+\end{tabular}
+
+### Semana 3
+
+\begin{tabular}{S M H}
+\toprule
+ \multirow{1}{*}{\large{\textbf{4}}} & lunes \newline 19 de \newline septiembre & \textbf{Taller de redacción y estilo 1} \newline
+  - Repaso de ortografía \newline
+  - Conectores para organizar un texto, expresar causa y consecuencia \newline
+  \newline
+  \textcolor{RUred}{Entregar Portafolio 1 en clase.} \newline
+  \textcolor{blue}{Tarea}: \textbf{CR}: Leer ``Autopsia de una civilización'' pp. 42--43; hacer actividades (handout). Ver Mito de la creación Popul Vuh: \newline 
+  \phantom{---} https://www.youtube.com/watch?v=TDt9rQrGp1I \newline
+  y escribir un resumen de 1 párrafo \\
+\cmidrule(lr){1-3}
+ \multirow{1}{*}{\large{\textbf{5}}} & jueves \newline 22 de \newline septiembre & - La cultura maya: Mito de la creación Popul Vuh (Guatemala) \newline 
+  https://www.youtube.com/watch?v=TDt9rQrGp1I \newline
+  - CR: ``Autopsia de una civilización'' 42--43 \newline
+  \textcolor{blue}{Tarea}: \textbf{MYL}: Leer ``La llorona'' p. 69--74, hacer actividades 7-3 y 7-7 \\
+\bottomrule
+\end{tabular}
+
+### Semana 4
+
+\begin{tabular}{S M H}
+\toprule
+ \multirow{1}{*}{\large{\textbf{6}}} & lunes \newline 26 de \newline septiembre & - \textbf{MYL}: ``La llorona'' p. 69--78 (México) \newline
+  \textcolor{blue}{Tarea}: Leer ``La malinche'' (handout) se distribuirá en clase. \\
+\cmidrule(lr){1-3}
+ \multirow{1}{*}{\large{\textbf{7}}} & jueves \newline 29 de \newline septiembre & - Prueba de escritura en clase 1 (Primera versión, 50 minutos) \newline
+  - ``La Malinche'' (handout) \newline
+  \textcolor{blue}{Tarea}: \textbf{MYL}: Leer ``Los amantes de Teruel'' p. 29--35, hacer actividades 3-4 y 3-7 \\
+\bottomrule
+\end{tabular}
+
+
+
+\vspace{0.5in}
+
+## Semanas 5, 6 y 7
+
+\hrule
+Objetivos de la Unidad 2  
+
+- Hablar sobre productos, prácticas y perspectivas culturales sobre el amor y la espiritualidad 
+- Desarrollo de destrezas lectoras y auditivas: comprensión de textos
+- Expresión oral y escrita con precisión gramatical para un registro formal
+- Desarrollo de destreza escritora en un ambiente formal e informal
+- Desarrollo de vocabulario y paráfrasis
+- Expresarse organizadamente con extensión y con cohesión
+
+
+### Semana 5
+
+\begin{tabular}{S M H}
+\toprule
+ \multirow{1}{*}{\large{\textbf{8}}} & lunes \newline 3 de \newline octubre & Unidad 2 – Modos de conducta y vida: Amor y espiritualidad \newline
+  - MYL: ``Los amantes de Teruel'' (España) \newline
+  \textcolor{blue}{Tarea}: Ver 2 documentales cortos: \newline
+  - ``Granada, el último reinado nazarí'' en 
+  http://www.dailymotion.com/video/xt1trq\_al-andalus-granada-el-ultimo-reino-nazari\_travel \newline
+  - ``La vida morisca'' en 
+  https://www.youtube.com/watch?v=Prp8h9uJ1gQ \newline
+  - hacer actividades en el handout \\
+\cmidrule(lr){1-3}
+ \multirow{1}{*}{\large{\textbf{9}}} & jueves \newline 6 de \newline octubre & - Prueba de escritura en clase 1 - Revisión 35 minutos \newline
+  - ``Granada, el último reino nazarí'' (hispano- árabe) \newline
+  - La vida morisca \newline
+  \textcolor{blue}{Tarea}: \textbf{MYL}, Leer ``El abencerraje y la hermosa jarifa'' p. 49--55 y hacer actividad 5-5 \\
+\bottomrule
+\end{tabular}
+
+
+
+### Semana 6
+
+\begin{tabular}{S M H}
+\toprule
+ \multirow{1}{*}{\large{\textbf{10}}} & lunes \newline 10 de \newline octubre & - MYL: ``El abencerraje y la hermosa jarifa'' p. 49--58 (hispano-árabe) \newline
+  \textcolor{blue}{Tarea}: Sakai, Leer ``Taller de redacción y estilo 2'' hacer actividades identificadas ``en casa'' y Revisar instrucciones del portafolio 2 \\
+\cmidrule(lr){1-3}
+ \multirow{1}{*}{\large{\textbf{11}}} & jueves \newline 13 de \newline octubre & Taller de redacción y estilo 2 (TBA) \newline
+  \textcolor{RUred}{Entregar Portafolio 2} \newline
+  \textcolor{blue}{Tarea}: \newline
+  - CR, Leer ``La santería, espiritualidades africanas en América'' en 
+  http://www.bowdoin.edu/~eyepes/latam/santeria.htm \newline
+  - hacer actividades (handout) \newline
+  - MYL, Leer ``La virgen de la caridad del cobre'', p. 79--85 y hacer actividad 8-6 \\
+\bottomrule
+\end{tabular}
+
+
+### Semana 7
+
+\begin{tabular}{S M H}
+\toprule
+ \multirow{1}{*}{\large{\textbf{12}}} & lunes \newline 17 de \newline octubre & - ``La santería, espiritualidades africanas en América'' \newline
+  - MYL ``La virgen de la Caridad del Cobre'' p. 79--88 (herencia africana) \newline
+  \textcolor{blue}{Tarea}: \newline
+  - Sakai, leer ``Taller de redacción y estilo 3'' hacer actividades identificadas ``en casa'' \newline
+  - Revisar instrucciones para Portafolio 3 y preparar \\
+\cmidrule(lr){1-3}
+ \multirow{1}{*}{\large{\textbf{13}}} & jueves \newline 20 de \newline octubre & Taller de redacción y estilo 3 (TBA) \newline
+  \textcolor{RUred}{Entregar Portafolio 3} \newline
+  \textcolor{blue}{Tarea}: \newline
+  - CR: Leer ``El sabor africano del Caribe'' y ver escenas de ``Como agua para chocolate'' y hacer actividades TBA \\
+\bottomrule
+\end{tabular}
+
+
+
+\vspace{0.5in}
+
+## Semanas 8 y 9
+
+\hrule
+Objetivos de la Unidad 3
+
+- Hablar sobre productos, prácticas y perspectivas culturales en la música, el arte y la comida 
+- Desarrollo de destrezas lectoras y auditivas: comprensión de textos
+- Expresión oral y escrita con precisión gramatical para un registro formal
+- Desarrollo de destreza escritora en un ambiente formal e informal
+- Desarrollo de vocabulario y paráfrasis
+- Expresarse con extensión y con cohesión defendiendo un punto de vista
+
+
+### Semana 8
+
+\begin{tabular}{S M H}
+\toprule
+ \multirow{1}{*}{\large{\textbf{14}}} & lunes \newline 24 de \newline octubre & Unidad 3 – Modos de vivir, conocer y expresarse: comida, música, y arte \newline
+  - El sabor africano del Caribe (herencia africana) \newline
+  - Escenas de Como agua para chocolate (tradiciones) \newline
+  \textcolor{blue}{Tarea}: Ver Buena Vista Club Social en : http://www.veoh.com/watch/v78967281pJy82BWQ \\
+\cmidrule(lr){1-3}
+ \multirow{1}{*}{\large{\textbf{15}}} & jueves \newline 27 de \newline octubre & Discusión de la película \newline
+  \textcolor{blue}{Tarea}: CR: Leer Realidad y Arte en Latinoamérica p. 174--179 \\
+\bottomrule
+\end{tabular}
+
+### Semana 9
+
+\begin{tabular}{S M H}
+\toprule
+ \multirow{1}{*}{\large{\textbf{16}}} & lunes \newline 31 de \newline octubre & - CR: Realidad y arte en Latinoamérica p. 174--179 \newline
+  \textcolor{blue}{Tarea}: Sakai: Leer ``Taller de redacción y estilo 4'' hacer actividades identificadas ``en casa'' Sakai: Revisar instrucciones para Portafolio 4 y preparar \\
+\cmidrule(lr){1-3}
+ \multirow{1}{*}{\large{\textbf{17}}} & jueves \newline 3 de \newline noviembre & Taller de redacción y estilo 4 \newline
+  - Preparación del texto escrito que acompaña la presentación oral \newline 
+  \textcolor{RUred}{Entregar Portafolio 4} \newline
+  \textcolor{blue}{Tarea}: CR: Leer ``Política latinoamericana: pasos a la democracia.'' p. 109--112 y hacer actividades (handout) \\
+\bottomrule
+\end{tabular}
+
+
+
+
+
+\vspace{0.25in}
+
+## Semanas 10-15:
+
+\hrule
+Objetivos de la Unidad 4
+
+- Relacionar productos, prácticas y perspectivas culturales del presente con el pasado 
+- Hablar de temas de la actualidad tomando en cuenta la cultura y su legado
+- Hacer una presentación de tema cultural de interés usando tecnología
+- Escribir un ensayo sobre legado cultural de un tema de interés
+- Evaluar mi progreso lingüístico
+- Comprender textos de diversos tipos tanto orales como escritos 
+- Revisar mi trabajo efectivamente
+
+### Semana 10
+
+\begin{tabular}{S M H}
+\toprule
+\multirow{1}{*}{\large{\textbf{18}}} & lunes \newline 7 de \newline noviembre & Unidad 4 – Modos de ver, ser y vivir: ecología, política, economía y globalización \newline 
+- CR: La política latinoamericana: pasos a la democracia \newline
+- Entregar tema presentación final \newline
+\textcolor{blue}{Tarea}: Leer: \newline
+- CR: ``Corrientes cambiantes de la economías latinoamericanas'' p. 151--154 \newline
+- CR: ¿Quién es Carlos Slim? p. 147--8. Hacer actividades del handout \\
+\cmidrule(lr){1-3}
+\multirow{1}{*}{\large{\textbf{19}}} & jueves \newline 10 de \newline noviembre & - CR: ``Corrientes cambiantes de la economías latinoamericanas'', p. 151--4 \newline
+- CR: ¿Quién es Carlos Slim? p. 147--148 \newline
+\textcolor{blue}{Tarea}: Leer CR: ``Modernización, globalización y delincuencia'' p. 217--221 y MYL: Los cadejos. p. 123--128 y hacer actividad 12-4\\
+\bottomrule
+\end{tabular}
+
+
+### Semana 11
+
+\begin{tabular}{S M H}
+\toprule
+\multirow{1}{*}{\large{\textbf{20}}} & lunes \newline 14 de \newline noviembre & - CR: ``Modernización, globalización y delincuencia'' \newline
+- MYL: ``Los cadejos,'' p. 123--132 (Centroamérica) \newline
+\textcolor{blue}{Tarea}: Leer CR: ``La identidad y los McDonalds'' p. 245--247 \\
+\cmidrule(lr){1-3}
+\multirow{1}{*}{\large{\textbf{21}}} & jueves \newline 17 de \newline noviembre & - La identidad y los McDonalds \newline
+- Prueba 2 Composición en clase 2: Primera versión – 50 minutos \newline
+\textcolor{blue}{Tarea}: Trabajar en el borrador escrito de la presentación oral \\
+\bottomrule
+\end{tabular}
+
+
+### Semana 12
+
+\begin{tabular}{S M H}
+\toprule
+\multirow{1}{*}{\large{\textbf{22}}} & lunes \newline 21 de \newline noviembre & - Taller de preparación para las presentaciones orales: parte oral \newline
+- Entregar borrador escrito de la presentación oral \newline
+\textcolor{blue}{Tarea}: \newline
+- CR: ``Latinoamérica y el medio ambiente ¿Entre la espada y la pared?'' p. 131--134; \newline
+- ver Crude en https://www.youtube.com/watch?v=BvrZRvgwBS8 \\
+\cmidrule(lr){1-3}
+\multirow{1}{*}{\large{\textbf{}}} & jueves \newline 24 de \newline noviembre & Día de acción de gracias (no hay clase) \\
+\bottomrule
+\end{tabular}
+
+
+### Semana 13
+
+\begin{tabular}{S M H}
+\toprule
+\multirow{1}{*}{\large{\textbf{23}}} & lunes \newline 28 de \newline noviembre & - CR: ``Latinoamérica y el medio ambiente: ¿Entre la espada y la pared?'' \newline
+- Crude, 2009 - discusión película \\
+\cmidrule(lr){1-3}
+\multirow{1}{*}{\large{\textbf{24}}} & jueves \newline 1 de \newline diciembre & Taller de redacción y estilo 5 \newline
+- Revisión y corrección: los detalles \newline
+\textcolor{blue}{Tarea}: Compilar portafolio y completar tareas de porfolio pendientes \\
+\bottomrule
+\end{tabular}
+
+
+### Semana 14
+
+\begin{tabular}{S M H}
+\toprule
+\multirow{1}{*}{\large{\textbf{25}}} & lunes \newline 5 de \newline diciembre & - Análisis de desarrollo de las competencias lingüísticas y culturales \newline
+- Prueba de escritura en clase 2 - Revisión 50 minutos \newline 
+Entrega de Portafolio \\
+\cmidrule(lr){1-3}
+\multirow{1}{*}{\large{\textbf{26}}} & jueves \newline 8 de \newline diciembre & Presentaciones orales \\
+\bottomrule
+\end{tabular}
+
+
+### Semana 15
+
+
+\begin{tabular}{S M H}
+\toprule
+\multirow{1}{*}{\large{\textbf{27}}} & lunes \newline 12 de \newline diciembre & Presentaciones orales \newline
+ Entrega de Ensayo final \newline
+ \textcolor{RUred}{Último día de clase}\\
+\bottomrule
+\end{tabular}
+
+### Examen final
+
+\begin{tabular}{S M H}
+\toprule
+\multirow{1}{*}{\large{\textbf{}}} & jueves \newline 22  de \newline diciembre & Reflexión final \newline
+\textcolor{RUred}{12:00 pm}\\
+\bottomrule
+\end{tabular}
+
+\vspace{.2in}
+
+
+(Sujeto a cambios de acuerdo a las necesidades del grupo)
+
+
+
+
