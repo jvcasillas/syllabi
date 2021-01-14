@@ -149,7 +149,7 @@ Part of this grade is derived from reading summaries. Students will occasionally
 
 ### Programming assignments
 
-Students will complete 4 programming assignments over the course of the 
+Students will complete 5 programming assignments over the course of the 
 semester. 
 These assignments are designed in a way so that the student must demonstrate adequate knowledge of basic programming and statistical principles covered in class. 
 The skills required in each assignment are cumulative, each building on the material learned in the previous weeks. 
