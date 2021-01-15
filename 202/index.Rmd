@@ -3,7 +3,7 @@ title:
 author: ""
 date: ""
 fontsize: 10pt
-geometry: vmargin=1.0in, hmargin=0.75in, headsep=0.75in
+geometry: vmargin=1.25in, hmargin=0.75in, headsep=0.75in
 output:
   pdf_document:
     toc: no
@@ -236,8 +236,7 @@ Reflexión escrita                   & 10\%       & &               \\
 Clave/MYL: Mitos y Leyendas  
 CR: Cultura del mundo hispano-Reader 
 
-## Semana 1 
-
+## Unidad preliminar - Semana 1 
 \hrule
 Objetivos de la primera semana de clase  
 
@@ -246,16 +245,16 @@ Objetivos de la primera semana de clase
 - Discusión sobre la cultura
 - Comprensión de la metodología y contenido del curso
 
-\begin{tabular}{S M H}
+\begin{tabular}{M H}
 \toprule
- \multirow{1}{*}{\large{\textbf{1}}} &  & \textbf{Introducción al curso} \newline 
+  \large{\textbf{1}} & \textbf{Introducción al curso} \newline 
   - Presentaciones mediante flipgrid \newline 
   - Prueba diagnóstica (1 par., mediante Canvas): ¿Qué es cultura? ¿Cómo se relaciona el presente y el pasado cultural? \newline 
   \textbf{Tarea}: \newline
   - \textcolor{RUred}{Canvas}: Lee el sílabo del curso \newline
   - \textcolor{RUred}{Canvas}: Student questionnaire (rellenar y entregar) \newline
   - \textcolor{RUred}{Canvas}: Revisar estrategias de compresnsión lectora \newline
-  - \textcolor{blue}{MYL (1.1)}: leer ``Leyendas de tu mundo'' p. 1--5, hacer actividades p-1 y p-3 (Canvas) \\
+  - \textcolor{blue}{MYL (0.1)}: leer ``Leyendas de tu mundo'' p. 1--5, hacer actividades p-1 y p-3 (Canvas) \\
 \bottomrule
 \end{tabular}
 
@@ -263,8 +262,7 @@ Objetivos de la primera semana de clase
 
 \vspace{0.5in}
 
-## Semanas 2, 3 y 4
-
+## Unidad 1 - Semanas 2, 3 y 4
 \hrule
 Objetivos de la Unidad 1
 
@@ -278,51 +276,48 @@ Objetivos de la Unidad 1
 
 ### Semana 2
 
-\begin{tabular}{S M H}
+\begin{tabular}{M H}
 \toprule
- \multirow{1}{*}{\large{\textbf{2}}} & lunes \newline 12 de \newline septiembre & \textbf{Unidad 1} -- Modos de ver, pensar y vivir de ayer y hoy: Mitos, leyendas y el mundo de hoy \newline
+  \large{\textbf{2}} & \textbf{Unidad 1} -- Modos de ver, pensar y vivir de ayer y hoy: Mitos, leyendas y el mundo de hoy \newline
   - Repaso: estrategias de comprensión lectora \newline
-  - \textbf{MYL}: Leyendas del mundo hispano p. 1--5 \newline
+  - \textbf{MYL}: Discusión: Leyendas del mundo hispano p. 1--5 \newline
   - Expresar opinión \newline
   \newline
   \textcolor{RUred}{Comenzar a trabajar con el portafolio} \newline
-  \textcolor{blue}{Tarea}: \textbf{MYL}: ``La creación del inca'' p. 9--14, hacer actividades 1-6 y 1-7 \\
-\cmidrule(lr){1-3}
- \multirow{1}{*}{\large{\textbf{3}}} & jueves \newline 15 de \newline septiembre & - \textbf{MYL}: ``La creación del inca'' p. 9--17 (Perú/Bolivia) \newline
-  \textcolor{blue}{Tarea}: \textbf{Sakai}: Leer ``Taller de redacción y estilo 1'', hacer actividades identificadas ``en casa'', Revisar instrucciones para Portafolio 1 y preparar. \\
+  \textbf{Tarea}: \newline
+  - \textcolor{blue}{MYL (1.1)}: ``La creación del inca'' p. 9--17, hacer actividades 1-6 y 1-7 \newline
+  - \textcolor{RUred}{Canvas}: Leer ``Taller de redacción y estilo 1'', hacer actividades identificadas ``en casa'' \newline
+  Revisar instrucciones para Portafolio 1 y preparar. \\
 \bottomrule
 \end{tabular}
 
 ### Semana 3
 
-\begin{tabular}{S M H}
+\begin{tabular}{M H}
 \toprule
- \multirow{1}{*}{\large{\textbf{4}}} & lunes \newline 19 de \newline septiembre & \textbf{Taller de redacción y estilo 1} \newline
+  \large{\textbf{3}} & \textbf{Taller de redacción y estilo 1} \newline
   - Repaso de ortografía \newline
   - Conectores para organizar un texto, expresar causa y consecuencia \newline
   \newline
-  \textcolor{RUred}{Entregar Portafolio 1 en clase.} \newline
-  \textcolor{blue}{Tarea}: \textbf{CR}: Leer ``Autopsia de una civilización'' pp. 42--43; hacer actividades (handout). Ver Mito de la creación Popul Vuh: \newline 
-  \phantom{---} https://www.youtube.com/watch?v=TDt9rQrGp1I \newline
-  y escribir un resumen de 1 párrafo \\
-\cmidrule(lr){1-3}
- \multirow{1}{*}{\large{\textbf{5}}} & jueves \newline 22 de \newline septiembre & - La cultura maya: Mito de la creación Popul Vuh (Guatemala) \newline 
+  \textcolor{RUred}{Entregar Portafolio 1 (Canvas)} \newline
+  \textbf{Tarea}: \newline 
+  - \textcolor{blue}{CR (1.1)}: Leer ``Autopsia de una civilización'' pp. 42--43; hacer actividades (handout en canvas). \newline
+  - La cultura maya: Ver ``Mito de la creación Popul Vuh'' (Guatemala) y escribir un resumen de 1 párrafo (entregar por canvas): 
   https://www.youtube.com/watch?v=TDt9rQrGp1I \newline
-  - CR: ``Autopsia de una civilización'' 42--43 \newline
-  \textcolor{blue}{Tarea}: \textbf{MYL}: Leer ``La llorona'' p. 69--74, hacer actividades 7-3 y 7-7 \\
+  - \textcolor{blue}{MYL (1.2)}: Leer ``La llorona'' p. 69--74, hacer actividades 7-3 y 7-7 \\
 \bottomrule
 \end{tabular}
 
 ### Semana 4
 
-\begin{tabular}{S M H}
+\begin{tabular}{M H}
 \toprule
- \multirow{1}{*}{\large{\textbf{6}}} & lunes \newline 26 de \newline septiembre & - \textbf{MYL}: ``La llorona'' p. 69--78 (México) \newline
-  \textcolor{blue}{Tarea}: Leer ``La malinche'' (handout) se distribuirá en clase. \\
-\cmidrule(lr){1-3}
- \multirow{1}{*}{\large{\textbf{7}}} & jueves \newline 29 de \newline septiembre & - Prueba de escritura en clase 1 (Primera versión, 50 minutos) \newline
-  - ``La Malinche'' (handout) \newline
-  \textcolor{blue}{Tarea}: \textbf{MYL}: Leer ``Los amantes de Teruel'' p. 29--35, hacer actividades 3-4 y 3-7 \\
+  \large{\textbf{4}}  & - \textbf{MYL}: Discusión ``La llorona'' p. 69--78 (México) \newline
+  \newline
+  \textbf{Tarea}: \newline
+  - Leer ``La malinche'' (handout en canvas) \newline
+  - Prueba de escritura 1 (Primera versión, 50 minutos) \newline
+  - \textcolor{blue}{MYL (1.3)}: Leer ``Los amantes de Teruel'' p. 29--35, hacer actividades 3-4 y 3-7 \\
 \bottomrule
 \end{tabular}
 
@@ -330,7 +325,7 @@ Objetivos de la Unidad 1
 
 \vspace{0.5in}
 
-## Semanas 5, 6 y 7
+## Unidad 2 - Semanas 5, 6 y 7
 
 \hrule
 Objetivos de la Unidad 2  
@@ -345,58 +340,52 @@ Objetivos de la Unidad 2
 
 ### Semana 5
 
-\begin{tabular}{S M H}
+\begin{tabular}{M H}
 \toprule
- \multirow{1}{*}{\large{\textbf{8}}} & lunes \newline 3 de \newline octubre & Unidad 2 – Modos de conducta y vida: Amor y espiritualidad \newline
-  - MYL: ``Los amantes de Teruel'' (España) \newline
-  \textcolor{blue}{Tarea}: Ver 2 documentales cortos: \newline
-  - ``Granada, el último reinado nazarí'' en 
-  http://www.dailymotion.com/video/xt1trq\_al-andalus-granada-el-ultimo-reino-nazari\_travel \newline
-  - ``La vida morisca'' en 
-  https://www.youtube.com/watch?v=Prp8h9uJ1gQ \newline
-  - hacer actividades en el handout \\
-\cmidrule(lr){1-3}
- \multirow{1}{*}{\large{\textbf{9}}} & jueves \newline 6 de \newline octubre & - Prueba de escritura en clase 1 - Revisión 35 minutos \newline
-  - ``Granada, el último reino nazarí'' (hispano- árabe) \newline
-  - La vida morisca \newline
-  \textcolor{blue}{Tarea}: \textbf{MYL}, Leer ``El abencerraje y la hermosa jarifa'' p. 49--55 y hacer actividad 5-5 \\
+  \large{\textbf{5}}  & Unidad 2 – Modos de conducta y vida: Amor y espiritualidad \newline
+  - MYL: Discusión de ``Los amantes de Teruel'' (España) \newline
+  \newline
+  \textbf{Tarea}: \newline
+  - Ver 2 documentales cortos y hacer actividades del handout (canvas): \newline
+  \phantom{...} (1) ``Granada, el último reinado nazarí'': https://www.dailymotion.com/video/xt1trq \newline
+  \phantom{...} (2) ``La vida morisca'': https://www.youtube.com/watch?v=Prp8h9uJ1gQ \newline
+  - Prueba de escritura 1 (cont.) - revisión 35 minutos \newline
+  - \textcolor{blue}{MYL (2.1)}: Leer ``El abencerraje y la hermosa jarifa'' p. 49--58 y hacer actividad 5-5 \\
 \bottomrule
 \end{tabular}
 
 
 
+
 ### Semana 6
 
-\begin{tabular}{S M H}
+\begin{tabular}{M H}
 \toprule
- \multirow{1}{*}{\large{\textbf{10}}} & lunes \newline 10 de \newline octubre & - MYL: ``El abencerraje y la hermosa jarifa'' p. 49--58 (hispano-árabe) \newline
-  \textcolor{blue}{Tarea}: Sakai, Leer ``Taller de redacción y estilo 2'' hacer actividades identificadas ``en casa'' y Revisar instrucciones del portafolio 2 \\
-\cmidrule(lr){1-3}
- \multirow{1}{*}{\large{\textbf{11}}} & jueves \newline 13 de \newline octubre & Taller de redacción y estilo 2 (TBA) \newline
-  \textcolor{RUred}{Entregar Portafolio 2} \newline
-  \textcolor{blue}{Tarea}: \newline
-  - CR, Leer ``La santería, espiritualidades africanas en América'' en 
-  http://www.bowdoin.edu/~eyepes/latam/santeria.htm \newline
-  - hacer actividades (handout) \newline
-  - MYL, Leer ``La virgen de la caridad del cobre'', p. 79--85 y hacer actividad 8-6 \\
+  \large{\textbf{6}} & - MYL: Discusión de ``El abencerraje y la hermosa jarifa'' \newline
+  \newline
+  \textbf{Tarea}: \newline
+  - Leer ``Taller de redacción y estilo 2'' y hacer actividades identificadas ``en casa'' \newline
+  - Taller de redacción y estilo 2 (canvas) \newline
+  - \textcolor{RUred}{Entregar Portafolio 2} \newline
+  - \textcolor{blue}{CR (2.1)}: Leer ``La santería, espiritualidades africanas en América'' 
+  \href{https://human.libretexts.org/Courses/Saint_Mary%27s_College_(Notre_Dame_IN)/Aprende_Espanol_con_Libretexts_(Learn_Spanish_with_Libretexts)/La_santeria%3A_Espiritualidades_africanas_en_America}{(disponible aquí)} y hacer actividades (handout en canvas) \newline
+  - \textcolor{blue}{MYL (2.2)}: Leer ``La virgen de la caridad del cobre'', p. 79--88 y hacer actividad 8-6 \\
 \bottomrule
 \end{tabular}
 
 
 ### Semana 7
 
-\begin{tabular}{S M H}
+\begin{tabular}{M H}
 \toprule
- \multirow{1}{*}{\large{\textbf{12}}} & lunes \newline 17 de \newline octubre & - ``La santería, espiritualidades africanas en América'' \newline
-  - MYL ``La virgen de la Caridad del Cobre'' p. 79--88 (herencia africana) \newline
-  \textcolor{blue}{Tarea}: \newline
-  - Sakai, leer ``Taller de redacción y estilo 3'' hacer actividades identificadas ``en casa'' \newline
-  - Revisar instrucciones para Portafolio 3 y preparar \\
-\cmidrule(lr){1-3}
- \multirow{1}{*}{\large{\textbf{13}}} & jueves \newline 20 de \newline octubre & Taller de redacción y estilo 3 (TBA) \newline
-  \textcolor{RUred}{Entregar Portafolio 3} \newline
-  \textcolor{blue}{Tarea}: \newline
-  - CR: Leer ``El sabor africano del Caribe'' y ver escenas de ``Como agua para chocolate'' y hacer actividades TBA \\
+  \large{\textbf{7}} & - Discusión de ``La santería, espiritualidades africanas en América'' \newline
+  - MYL: Discusión de ``La virgen de la Caridad del Cobre'' p. 79--88 (herencia africana) \newline
+  \newline
+  \textbf{Tarea}: \newline
+  - Leer ``Taller de redacción y estilo 3'' hacer actividades identificadas ``en casa'' \newline
+  - Revisar instrucciones para Portafolio 3 y preparar \newline
+  - \textcolor{RUred}{Entregar Portafolio 3} \newline
+  - \textcolor{blue}{CR (2.2)}: Leer ``El sabor africano del Caribe'', ver escenas de ``Como agua para chocolate'' y hacer actividades indicadas en Canvas \\
 \bottomrule
 \end{tabular}
 
@@ -404,7 +393,7 @@ Objetivos de la Unidad 2
 
 \vspace{0.5in}
 
-## Semanas 8 y 9
+## Unidad 3 - Semanas 8 y 9
 
 \hrule
 Objetivos de la Unidad 3
@@ -419,29 +408,32 @@ Objetivos de la Unidad 3
 
 ### Semana 8
 
-\begin{tabular}{S M H}
+\begin{tabular}{M H}
 \toprule
- \multirow{1}{*}{\large{\textbf{14}}} & lunes \newline 24 de \newline octubre & Unidad 3 – Modos de vivir, conocer y expresarse: comida, música, y arte \newline
-  - El sabor africano del Caribe (herencia africana) \newline
-  - Escenas de Como agua para chocolate (tradiciones) \newline
-  \textcolor{blue}{Tarea}: Ver Buena Vista Club Social en : http://www.veoh.com/watch/v78967281pJy82BWQ \\
-\cmidrule(lr){1-3}
- \multirow{1}{*}{\large{\textbf{15}}} & jueves \newline 27 de \newline octubre & Discusión de la película \newline
-  \textcolor{blue}{Tarea}: CR: Leer Realidad y Arte en Latinoamérica p. 174--179 \\
+  \large{\textbf{8}} & Unidad 3 – Modos de vivir, conocer y expresarse: comida, música, y arte \newline
+  - Discusión de ``El sabor africano del Caribe'' (herencia africana) \newline
+  - Discusión de las escenas de ``Como agua para chocolate'' (tradiciones) \newline
+  \newline
+  \textbf{Tarea}: \newline
+  - Ver Buena Vista Club Social y discutir en canvas: \newline 
+  http://www.veoh.com/watch/v78967281pJy82BWQ \newline
+  - \textcolor{blue}{CR (3.1)}: Leer Realidad y Arte en Latinoamérica p. 174--179 \\
 \bottomrule
 \end{tabular}
 
 ### Semana 9
 
-\begin{tabular}{S M H}
+\begin{tabular}{M H}
 \toprule
- \multirow{1}{*}{\large{\textbf{16}}} & lunes \newline 31 de \newline octubre & - CR: Realidad y arte en Latinoamérica p. 174--179 \newline
-  \textcolor{blue}{Tarea}: Sakai: Leer ``Taller de redacción y estilo 4'' hacer actividades identificadas ``en casa'' Sakai: Revisar instrucciones para Portafolio 4 y preparar \\
-\cmidrule(lr){1-3}
- \multirow{1}{*}{\large{\textbf{17}}} & jueves \newline 3 de \newline noviembre & Taller de redacción y estilo 4 \newline
+  \large{\textbf{9}} & - CR: Discusión de ``Realidad y arte en Latinoamérica'' p. 174--179 \newline
+  \newline
+  \textbf{Tarea}: \newline
+  - Leer ``Taller de redacción y estilo 4'' hacer actividades identificadas ``en casa'' \newline
+  - Revisar instrucciones para Portafolio 4, preparar y entregar \newline
+  - Taller de redacción y estilo 4 \newline
   - Preparación del texto escrito que acompaña la presentación oral \newline 
-  \textcolor{RUred}{Entregar Portafolio 4} \newline
-  \textcolor{blue}{Tarea}: CR: Leer ``Política latinoamericana: pasos a la democracia.'' p. 109--112 y hacer actividades (handout) \\
+  - \textcolor{RUred}{Entregar Portafolio 4} \newline
+  - \textcolor{blue}{CR (3.2)}: Leer ``Política latinoamericana: pasos a la democracia.'' p. 109--112 y hacer actividades (handout) \\
 \bottomrule
 \end{tabular}
 
@@ -451,7 +443,7 @@ Objetivos de la Unidad 3
 
 \vspace{0.25in}
 
-## Semanas 10-15:
+## Unidad 4 - Semanas 10-15:
 
 \hrule
 Objetivos de la Unidad 4
@@ -466,75 +458,72 @@ Objetivos de la Unidad 4
 
 ### Semana 10
 
-\begin{tabular}{S M H}
+\begin{tabular}{M H}
 \toprule
-\multirow{1}{*}{\large{\textbf{18}}} & lunes \newline 7 de \newline noviembre & Unidad 4 – Modos de ver, ser y vivir: ecología, política, economía y globalización \newline 
-- CR: La política latinoamericana: pasos a la democracia \newline
-- Entregar tema presentación final \newline
-\textcolor{blue}{Tarea}: Leer: \newline
-- CR: ``Corrientes cambiantes de la economías latinoamericanas'' p. 151--154 \newline
-- CR: ¿Quién es Carlos Slim? p. 147--8. Hacer actividades del handout \\
-\cmidrule(lr){1-3}
-\multirow{1}{*}{\large{\textbf{19}}} & jueves \newline 10 de \newline noviembre & - CR: ``Corrientes cambiantes de la economías latinoamericanas'', p. 151--4 \newline
-- CR: ¿Quién es Carlos Slim? p. 147--148 \newline
-\textcolor{blue}{Tarea}: Leer CR: ``Modernización, globalización y delincuencia'' p. 217--221 y MYL: Los cadejos. p. 123--128 y hacer actividad 12-4\\
+  \large{\textbf{10}} & Unidad 4 – Modos de ver, ser y vivir: ecología, política, economía y globalización \newline 
+  - CR: Discusión de ``La política latinoamericana: pasos a la democracia'' \newline
+  \newline
+  \textbf{Tarea}: \newline
+  - \textcolor{RUred}{Entregar tema presentación final} \newline
+  - \textcolor{blue}{CR (4.1)}: ``Corrientes cambiantes de la economías latinoamericanas'' p. 151--154 \newline
+  - \textcolor{blue}{CR (4.2)}: ``¿Quién es Carlos Slim?'' p. 147--8. Hacer actividades del handout \newline
+  - \textcolor{blue}{CR (4.3)}: ``Modernización, globalización y delincuencia'' p. 217--221 \newline
+  - \textcolor{blue}{MYL (4.1)}: ``Los cadejos'' p. 123--128 y hacer actividad 12-4 \\
 \bottomrule
 \end{tabular}
 
 
 ### Semana 11
 
-\begin{tabular}{S M H}
+\begin{tabular}{M H}
 \toprule
-\multirow{1}{*}{\large{\textbf{20}}} & lunes \newline 14 de \newline noviembre & - CR: ``Modernización, globalización y delincuencia'' \newline
-- MYL: ``Los cadejos,'' p. 123--132 (Centroamérica) \newline
-\textcolor{blue}{Tarea}: Leer CR: ``La identidad y los McDonalds'' p. 245--247 \\
-\cmidrule(lr){1-3}
-\multirow{1}{*}{\large{\textbf{21}}} & jueves \newline 17 de \newline noviembre & - La identidad y los McDonalds \newline
-- Prueba 2 Composición en clase 2: Primera versión – 50 minutos \newline
-\textcolor{blue}{Tarea}: Trabajar en el borrador escrito de la presentación oral \\
+  \large{\textbf{11}} & - CR: Discusión de ``Modernización, globalización y delincuencia'' \newline
+  - MYL: Discusión de ``Los cadejos,'' p. 123--132 (Centroamérica) \newline
+  \newline
+  \textbf{Tarea}: \newline
+  - \textcolor{blue}{CR (4.4)}: Leer ``La identidad y los McDonalds'' p. 245--247 \newline
+  - Prueba de escritura 2 (primera versión, 50 minutos) \newline
+  - Trabajar en el borrador escrito de la presentación oral \\
 \bottomrule
 \end{tabular}
 
 
 ### Semana 12
 
-\begin{tabular}{S M H}
+\begin{tabular}{M H}
 \toprule
-\multirow{1}{*}{\large{\textbf{22}}} & lunes \newline 21 de \newline noviembre & - Taller de preparación para las presentaciones orales: parte oral \newline
-- Entregar borrador escrito de la presentación oral \newline
-\textcolor{blue}{Tarea}: \newline
-- CR: ``Latinoamérica y el medio ambiente ¿Entre la espada y la pared?'' p. 131--134; \newline
-- ver Crude en https://www.youtube.com/watch?v=BvrZRvgwBS8 \\
-\cmidrule(lr){1-3}
-\multirow{1}{*}{\large{\textbf{}}} & jueves \newline 24 de \newline noviembre & Día de acción de gracias (no hay clase) \\
+  \large{\textbf{12}} & - Taller de preparación para las presentaciones orales: parte oral \newline
+  \newline
+  \textbf{Tarea}: \newline
+  - Entregar borrador escrito de la presentación oral \newline
+  - \textcolor{blue}{CR (4.5)}: ``Latinoamérica y el medio ambiente ¿Entre la espada y la pared?'' p. 131--134 \newline
+  - Ver Crude en https://www.youtube.com/watch?v=BvrZRvgwBS8 \\
 \bottomrule
 \end{tabular}
 
 
 ### Semana 13
 
-\begin{tabular}{S M H}
+\begin{tabular}{M H}
 \toprule
-\multirow{1}{*}{\large{\textbf{23}}} & lunes \newline 28 de \newline noviembre & - CR: ``Latinoamérica y el medio ambiente: ¿Entre la espada y la pared?'' \newline
-- Crude, 2009 - discusión película \\
-\cmidrule(lr){1-3}
-\multirow{1}{*}{\large{\textbf{24}}} & jueves \newline 1 de \newline diciembre & Taller de redacción y estilo 5 \newline
-- Revisión y corrección: los detalles \newline
-\textcolor{blue}{Tarea}: Compilar portafolio y completar tareas de porfolio pendientes \\
+  \large{\textbf{13}} & - CR: Discusión de ``Latinoamérica y el medio ambiente: ¿Entre la espada y la pared?'' \newline 
+  - Discusión de Crude \newline
+  - Taller de redacción y estilo 5 \newline
+  - Revisión y corrección: los detalles \newline
+  \textbf{Tarea}: \newline
+  - Compilar portafolio y completar tareas de porfolio pendientes \\
 \bottomrule
 \end{tabular}
 
 
 ### Semana 14
 
-\begin{tabular}{S M H}
+\begin{tabular}{M H}
 \toprule
-\multirow{1}{*}{\large{\textbf{25}}} & lunes \newline 5 de \newline diciembre & - Análisis de desarrollo de las competencias lingüísticas y culturales \newline
-- Prueba de escritura en clase 2 - Revisión 50 minutos \newline 
-Entrega de Portafolio \\
-\cmidrule(lr){1-3}
-\multirow{1}{*}{\large{\textbf{26}}} & jueves \newline 8 de \newline diciembre & Presentaciones orales \\
+  \large{\textbf{14}} & - Análisis de desarrollo de las competencias lingüísticas y culturales \newline
+  - Prueba de escritura 2 (Revisión 50 minutos) \newline 
+  - \textcolor{RUred}{Entrega de Portafolio} \newline
+  - Presentaciones orales \\
 \bottomrule
 \end{tabular}
 
@@ -542,20 +531,19 @@ Entrega de Portafolio \\
 ### Semana 15
 
 
-\begin{tabular}{S M H}
+\begin{tabular}{M H}
 \toprule
-\multirow{1}{*}{\large{\textbf{27}}} & lunes \newline 12 de \newline diciembre & Presentaciones orales \newline
- Entrega de Ensayo final \newline
- \textcolor{RUred}{Último día de clase}\\
+  \large{\textbf{15}} & Entrega de Ensayo final \newline
+  \textcolor{RUred}{Fin de la sesión}\\
 \bottomrule
 \end{tabular}
 
 ### Examen final
 
-\begin{tabular}{S M H}
+\begin{tabular}{M H}
 \toprule
-\multirow{1}{*}{\large{\textbf{}}} & jueves \newline 22  de \newline diciembre & Reflexión final \newline
-\textcolor{RUred}{12:00 pm}\\
+\large{\textbf{}} & Reflexión final \newline
+\textcolor{RUred}{TBD}\\
 \bottomrule
 \end{tabular}
 

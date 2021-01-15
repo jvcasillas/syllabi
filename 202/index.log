@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.8)  14 JAN 2021 15:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.14)  15 JAN 2021 00:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **index.tex
 (./index.tex
-LaTeX2e <2020-10-01> patch level 3
-L3 programming layer <2020-12-07> xparse <2020-03-03> (/Users/casillas/Library/
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03> (/Users/casillas/Library/
 TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
@@ -405,7 +405,7 @@ Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
 )
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdfte
 x.def
-File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count284
 \l__pdf_internal_box=\box51
 ) (./index.aux)
@@ -497,14 +497,14 @@ LaTeX Info: Redefining \nameref on input line 99.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
-* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* v-part:(T,H,B)=(90.3375pt, 614.295pt, 90.3375pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=505.89pt
-* \textheight=650.43001pt
+* \textheight=614.295pt
 * \oddsidemargin=-18.06749pt
 * \evensidemargin=-18.06749pt
-* \topmargin=-66.2025pt
+* \topmargin=-48.135pt
 * \headheight=12.0pt
 * \headsep=54.2025pt
 * \topskip=10.0pt
@@ -570,7 +570,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 <ru_logo.pdf, id=164, 476.78125pt x 129.48375pt>
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 200.
+Package pdftex.def Info: ru_logo.pdf  used on input line 194.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -597,7 +597,7 @@ man-ual de or-tografía y redac-ción sim-i-lar:
 
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 291.
+Package pdftex.def Info: ru_logo.pdf  used on input line 278.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -627,7 +627,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 467.
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 501.
+Package pdftex.def Info: ru_logo.pdf  used on input line 483.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -640,7 +640,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [4]
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 615.
+Package pdftex.def Info: ru_logo.pdf  used on input line 581.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -651,12 +651,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-34.48878pt}.
 
 [5]
-Overfull \vbox (2.0pt too high) detected at line 646
- []
-
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 683.
+Package pdftex.def Info: ru_logo.pdf  used on input line 659.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -667,72 +664,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-34.48878pt}.
 
 [6]
-Overfull \vbox (2.0pt too high) detected at line 691
- []
-
-
-Overfull \hbox (2.71912pt too wide) in paragraph at lines 691--691
- \T1/lmr/m/n/10 (-20) septiembre| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 691--698
+Underfull \hbox (badness 10000) in paragraph at lines 693--703
 
  []
 
 
-Overfull \vbox (2.0pt too high) detected at line 699
- []
+Underfull \hbox (badness 10000) in paragraph at lines 711--721
 
-
-Overfull \hbox (2.71912pt too wide) in paragraph at lines 699--699
- \T1/lmr/m/n/10 (-20) septiembre| 
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 709
- []
-
-
-Overfull \hbox (2.71912pt too wide) in paragraph at lines 709--709
- \T1/lmr/m/n/10 (-20) septiembre| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 709--717
-
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 718
- []
-
-
-Overfull \hbox (2.71912pt too wide) in paragraph at lines 718--718
- \T1/lmr/m/n/10 (-20) septiembre| 
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 730
- []
-
-
-Overfull \hbox (2.71912pt too wide) in paragraph at lines 730--730
- \T1/lmr/m/n/10 (-20) septiembre| 
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 733
- []
-
-
-Overfull \hbox (2.71912pt too wide) in paragraph at lines 733--733
- \T1/lmr/m/n/10 (-20) septiembre| 
  []
 
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 754.
+Package pdftex.def Info: ru_logo.pdf  used on input line 725.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -743,52 +686,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-34.48878pt}.
 
 [7]
-Overfull \vbox (2.0pt too high) detected at line 771
+Underfull \hbox (badness 10000) in paragraph at lines 729--735
+
  []
 
 
-Overfull \vbox (2.0pt too high) detected at line 780
+Underfull \hbox (badness 10000) in paragraph at lines 771--780
+
  []
 
 
-Overfull \vbox (2.0pt too high) detected at line 792
- []
+Underfull \hbox (badness 10000) in paragraph at lines 788--797
 
-
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 792--792
- []|[]| 
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 795
- []
-
-
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 795--795
- []|[]| 
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 810
- []
-
-
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 810--810
- []|[]| 
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 816
- []
-
-
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 816--816
- []|[]| 
  []
 
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 830.
+Package pdftex.def Info: ru_logo.pdf  used on input line 801.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -799,62 +713,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-34.48878pt}.
 
 [8]
-Overfull \vbox (2.0pt too high) detected at line 855
+Underfull \hbox (badness 10000) in paragraph at lines 805--813
+
  []
 
 
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 855--855
- []|[]| 
+Underfull \hbox (badness 10000) in paragraph at lines 848--856
+
  []
 
 
-Overfull \vbox (2.0pt too high) detected at line 860
- []
+Underfull \hbox (badness 10000) in paragraph at lines 864--873
 
-
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 860--860
- []|[]| 
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 870
- []
-
-
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 870--870
- []|[]| 
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 873
- []
-
-
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 873--873
- []|[]| 
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 914
- []
-
-
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 914--914
- []|[]| 
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 921
- []
-
-
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 921--921
- []|[]| 
  []
 
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 928.
+Package pdftex.def Info: ru_logo.pdf  used on input line 877.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -865,75 +740,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-34.48878pt}.
 
 [9]
-Overfull \vbox (2.0pt too high) detected at line 932
+Underfull \hbox (badness 10000) in paragraph at lines 910--919
+
  []
 
 
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 932--932
- []|[]| 
+Underfull \hbox (badness 10000) in paragraph at lines 927--934
+
  []
 
 
-Overfull \vbox (2.0pt too high) detected at line 936
- []
+Underfull \hbox (badness 10000) in paragraph at lines 942--948
 
-
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 936--936
- []|[]| 
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 947
- []
-
-
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 947--947
- []|[]| 
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 953
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 962
- []
-
-
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 962--962
- []|[]| 
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 965
- []
-
-
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 965--965
- []|[]| 
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 976
- []
-
-
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 976--976
- []|[]| 
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 980
- []
-
-
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 980--980
- []|[]| 
  []
 
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 985.
+Package pdftex.def Info: ru_logo.pdf  used on input line 952.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -944,21 +767,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-34.48878pt}.
 
 [10]
-Overfull \vbox (2.0pt too high) detected at line 989
- []
-
-
-Overfull \hbox (6.27257pt too wide) in paragraph at lines 989--989
- []|[]| 
- []
-
-
-Overfull \vbox (2.0pt too high) detected at line 1000
- []
-
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 1009.
+Package pdftex.def Info: ru_logo.pdf  used on input line 1001.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -970,16 +781,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [11] (./index.aux)
 Package rerunfilecheck Info: File `index.out' has not changed.
-(rerunfilecheck)             Checksum: 6BD513943861196DF5250334DD8231A7;5426.
+(rerunfilecheck)             Checksum: 5B3B2734E02E6838A8D5AB9A2DC8DFE8;5791.
  ) 
 Here is how much of TeX's memory you used:
- 13425 strings out of 481240
- 197985 string characters out of 5913982
- 536681 words of memory out of 5000000
- 29904 multiletter control sequences out of 15000+600000
- 457785 words of font info for 127 fonts, out of 8000000 for 9000
+ 13418 strings out of 481234
+ 198087 string characters out of 5913860
+ 532770 words of memory out of 5000000
+ 29913 multiletter control sequences out of 15000+600000
+ 457348 words of font info for 122 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 68i,16n,70p,336b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,16n,74p,336b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/casillas/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/Us
 ers/casillas/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</Users/c
 asillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/cas
@@ -988,10 +799,10 @@ las/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/casillas
 /Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></Users/casillas/Lib
 rary/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/casillas/Library
 /TinyTeX/texmf-dist/fonts/type1/public/lm/lmri8.pfb>
-Output written on index.pdf (11 pages, 483148 bytes).
+Output written on index.pdf (11 pages, 481440 bytes).
 PDF statistics:
- 348 PDF objects out of 1000 (max. 8388607)
- 321 compressed objects within 4 object streams
+ 349 PDF objects out of 1000 (max. 8388607)
+ 322 compressed objects within 4 object streams
  103 named destinations out of 1000 (max. 500000)
  31043 words of extra memory for PDF output out of 35830 (max. 10000000)
 
