@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.14)  15 JAN 2021 00:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.14)  15 JAN 2021 23:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -610,7 +610,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [2 <./texts.png>]
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 381.
+Package pdftex.def Info: ru_logo.pdf  used on input line 367.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -622,12 +622,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [3]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 467.
+(Font)              <8> on input line 474.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 467.
+(Font)              <6> on input line 474.
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 483.
+Package pdftex.def Info: ru_logo.pdf  used on input line 486.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -640,7 +640,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [4]
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 581.
+Package pdftex.def Info: ru_logo.pdf  used on input line 582.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -653,7 +653,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [5]
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 659.
+Package pdftex.def Info: ru_logo.pdf  used on input line 666.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -664,18 +664,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-34.48878pt}.
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 693--703
+Underfull \hbox (badness 10000) in paragraph at lines 700--710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 711--721
+Underfull \hbox (badness 10000) in paragraph at lines 718--728
 
  []
 
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 725.
+Package pdftex.def Info: ru_logo.pdf  used on input line 732.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -686,23 +686,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-34.48878pt}.
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 729--735
+Underfull \hbox (badness 10000) in paragraph at lines 736--742
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 771--780
+Underfull \hbox (badness 10000) in paragraph at lines 778--787
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 788--797
+Underfull \hbox (badness 10000) in paragraph at lines 795--804
 
  []
 
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 801.
+Package pdftex.def Info: ru_logo.pdf  used on input line 808.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -713,23 +713,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-34.48878pt}.
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 805--813
+Underfull \hbox (badness 10000) in paragraph at lines 812--820
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 848--856
+Underfull \hbox (badness 10000) in paragraph at lines 855--863
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 864--873
+Underfull \hbox (badness 10000) in paragraph at lines 871--880
 
  []
 
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 877.
+Package pdftex.def Info: ru_logo.pdf  used on input line 884.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -740,23 +740,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-34.48878pt}.
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 910--919
+Underfull \hbox (badness 10000) in paragraph at lines 917--926
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 927--934
+Underfull \hbox (badness 10000) in paragraph at lines 934--941
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 942--948
+Underfull \hbox (badness 10000) in paragraph at lines 949--955
 
  []
 
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 952.
+Package pdftex.def Info: ru_logo.pdf  used on input line 959.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -769,7 +769,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [10]
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 1001.
+Package pdftex.def Info: ru_logo.pdf  used on input line 1008.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -784,11 +784,11 @@ Package rerunfilecheck Info: File `index.out' has not changed.
 (rerunfilecheck)             Checksum: 5B3B2734E02E6838A8D5AB9A2DC8DFE8;5791.
  ) 
 Here is how much of TeX's memory you used:
- 13418 strings out of 481234
- 198087 string characters out of 5913860
- 532770 words of memory out of 5000000
+ 13416 strings out of 481234
+ 198065 string characters out of 5913860
+ 533325 words of memory out of 5000000
  29913 multiletter control sequences out of 15000+600000
- 457348 words of font info for 122 fonts, out of 8000000 for 9000
+ 457265 words of font info for 121 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  71i,16n,74p,336b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/casillas/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/Us
@@ -799,10 +799,10 @@ las/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/casillas
 /Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></Users/casillas/Lib
 rary/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/casillas/Library
 /TinyTeX/texmf-dist/fonts/type1/public/lm/lmri8.pfb>
-Output written on index.pdf (11 pages, 481440 bytes).
+Output written on index.pdf (11 pages, 481861 bytes).
 PDF statistics:
- 349 PDF objects out of 1000 (max. 8388607)
- 322 compressed objects within 4 object streams
+ 351 PDF objects out of 1000 (max. 8388607)
+ 324 compressed objects within 4 object streams
  103 named destinations out of 1000 (max. 500000)
  31043 words of extra memory for PDF output out of 35830 (max. 10000000)
 

@@ -88,6 +88,9 @@ Todos los materiales se pueden comprar en cualquier librería de Rutgers (Barnes
 
 ## Reglas departamentales y políticas del curso
 
+Esta clase se ha deseñado de acuerdo a las metas de aprendizaje establecidas por el departamento de español y portugués. 
+Consulta la página web para más información:  https://span-port.rutgers.edu/learning-goals 
+
 ### Estudiantes con dificultades de aprendizaje 
 
 Rutgers University welcomes students with disabilities into all of the University's educational programs. In order to receive consideration for reasonable accommodations, a student with a disability must contact the appropriate disability services office at the campus where you are officially enrolled, participate in an intake interview, and provide documentation: [https://ods.rutgers.edu/students/documentation-guidelines](https://ods.rutgers.edu/students/documentation-guidelines).  
@@ -102,7 +105,9 @@ Quien falte a una clase, examen o cualquier evaluación, debe reportar la razón
 
 ### Integridad académica
 
-Cada estudiante de Rutgers debe mantener principios de integridad académica. De acuerdo con el manual de estudiantes de la universidad, una conducta éticamente adecuada incluye no hacer trampa, copiar, plagiar ni impedir el acceso de materiales e información a otros. Un estudiante que ayude a otro a realizar estas acciones también estará en falta. De los actos mencionados, uno de los más graves es el plagio, que nuestra universidad define de la siguiente manera:
+Cada estudiante de Rutgers debe mantener principios de integridad académica. 
+Consulta la página web para la información más actual: http://nbacademicintegrity.rutgers.edu/home/academic-integrity-policy/  
+De acuerdo con el manual de estudiantes de la universidad, una conducta éticamente adecuada incluye no hacer trampa, copiar, plagiar ni impedir el acceso de materiales e información a otros. Un estudiante que ayude a otro a realizar estas acciones también estará en falta. De los actos mencionados, uno de los más graves es el plagio, que nuestra universidad define de la siguiente manera:
 
 
 \vspace{0.3in}
@@ -217,8 +222,8 @@ Componente                          & Porcentaje & & \multicolumn{2}{c}{Distribu
 \cmidrule(lr){4-5}
 Participación                       & 10\%       & & A   & 92--100 \\
 Tarea semanal                       & 15\%       & & B+  & 87--91  \\
-Portafolio                          & 10\%       & & B   & 80--86  \\
-Presentación oral                   & 10\%       & & C+  & 77--79  \\
+Portafolio                          & 10\%       & & B   & 82--86  \\
+Presentación oral                   & 10\%       & & C+  & 77--81  \\
 Composiciones                       & 20\%       & & C   & 70--76  \\
 Ensayo final                        & 10\%       & & D   & 65--69  \\
 Pruebas de comprobación lectora (5) & 15\%       & & F   & 0--64   \\
