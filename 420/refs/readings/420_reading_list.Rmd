@@ -1,0 +1,471 @@
+---
+geometry       : vmargin=1.0in, hmargin=0.75in
+bibliography   : ../bib/span585.bib
+csl            : ../bib/apa.csl
+output:
+  pdf_document:
+    toc: no
+    highlight: pygments
+    includes:
+      in_header: header.tex
+---
+
+
+
+
+01:940:585:01 - Spring 2017  
+Meetings: AB 5190, 09:50--12:50  
+
+Professor: Joseph V. Casillas, PhD  
+Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
+Office: AB 5174  
+Office hours: by appointment
+
+
+```{r, eval=TRUE, echo=FALSE, cache=FALSE}
+library(RefManageR)
+bib <- ReadBib("../bib/span585.bib", check = FALSE)
+```
+
+
+
+
+
+
+# Part I: Introduction
+
+## Week 1: Overview
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+ui <- "-"
+uiP <- "- \\*"
+writeLines(ui); print(bib[key = "prieto2014"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Review
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "hualde2010"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "hualde2014intro"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "hualde2014consvoc"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "hualde2014charAcous"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "campos2012"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Programming
+
+- R: install, simple math, install/load packages, data structures, RMarkdown
+- Praat: install, record/save audio
+
+
+
+
+
+
+
+
+
+
+## Week 2: Review, generative approaches
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "mccarthy2007"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "bybee1999"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Review
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "hualde2010"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "hualde2014intro"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "hualde2014consvoc"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "hualde2014charAcous"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "campos2012"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Programming
+
+- R: data structures, vectorized math, subsetting
+- Praat: create/save spectrograms I
+
+
+
+
+
+
+## Week 3: Review, generative and usage-based approaches
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "mccarthy2007"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "bybee1999"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Review
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "hualde2010"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "hualde2014intro"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "hualde2014consvoc"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "hualde2014charAcous"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "campos2012"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Programming
+
+- R: getting/loading data, tidy data, simple visualization
+- Praat: create/save spectrograms II
+
+
+
+
+
+
+
+
+
+# Part II: Production
+
+## Week 4: Sequences
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "Hualde:1989ve"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Extra
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "hualde2014silaba"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "colina2006optimality"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Programming
+
+- R: Data manipulation, subsetting, grammar of graphics
+- Praat: All about textgrids
+
+
+
+
+
+
+
+
+
+
+
+## Week 5: Vocoids I
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(uiP); print(bib[key = "Bradlow:1995wn"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Recommended
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "jongman2011ch10"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "hualde2014vocales"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "Hualde:1997tq"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Programming
+
+- R: Grammar of graphics, adv. subsetting, descriptive statistics
+- Praat: Loops
+
+
+
+
+
+
+
+
+## Week 6: Vocoids II
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(uiP); print(bib[key = "Escudero:2009ue"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "willis2005initial"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Recommended
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "Jacewicz:2011kp"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Programming
+
+- R: basic data analysis
+- Praat: Formant frequencies, trajectory length
+
+
+
+
+
+
+
+## Week 7: Obstruents I
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(uiP); print(bib[key = "Lisker:1964wl"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Recommended
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "hualde2014oclusivas"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "lisker1967"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "Simonet:2012jx"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Programming
+
+- R: Review
+- Praat: VOT, Scripts
+
+
+
+
+
+
+
+
+## Week 8: Obstruents II
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(uiP); print(bib[key = "Jongman:2000gr"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Recommended
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "hualde2014fricAfri"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "jongman2011ch10"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "Nadeu:2012ht"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "simonet2011vx"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Programming
+
+- R: review
+- Praat: scripts, spectral moments
+
+
+
+
+
+
+
+## Week 9: Sonorants I
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(uiP); print(bib[key = "krakow1993"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Recommended
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "hualde2014nasal"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "jongman2011ch10"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Programming
+
+- R: residuals
+- Praat: formant bandwidth
+
+
+
+
+
+
+## Week 10: Sonorants II
+
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(uiP); print(bib[key = "recasens2012cross"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(uiP); print(bib[key = "henriksen2010acoustic"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+## Recommended
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "hualde2014liquids"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "jongman2011ch10"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Programming
+
+- R: residuals
+- Praat: light/dark /l/, trills
+
+
+
+
+
+
+
+## Week 11: Prosody: lexical stress, rhythm, entonation
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "OrtegaLlebaria:2011gb"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(uiP); print(bib[key = "Prieto:2007tw"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Recommended
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "hualde2014stress"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "hualde2014enton"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "jongman2011ch11"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Programming
+
+- R: 
+- Praat: peak alignment, low-pass filtering
+
+
+
+
+
+
+
+
+
+
+
+\clearpage
+
+# Part III: Perception
+
+## Week 12: Perception theory
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "Diehl2004"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(uiP); print(bib[key = "Abramson1973"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Recommended
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "jongman2011ch13"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Programming
+
+- Psychopy: sitmuli presentation, project management
+
+
+
+
+
+
+
+## Week 13: Categorical perception
+
+### Reading
+
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(uiP); print(bib[key = "Bradlow1996"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "Jongman:2003bf"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Recommended
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "jongman2011ch13"], .opts = list(check.entries = FALSE, 
+                      style = "latex", bib.style = "authoryear"))
+```
+
+### Programming
+
+- R: analyzing perceptual data
+- Psychopy: stimuli presentation
+
+
+
+
+
+
+

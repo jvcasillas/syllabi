@@ -1,0 +1,37 @@
+
+
+| Semana | Día   | Fecha | Tema                                                                                         |
+| :----- | :---- | :---- | :------------------------------------------------------------------------------------------- |
+|        |       |       | **Part 1 - Pedagogia.**                                                                      |
+| 01     | Thur. | 09/07 | Lingüística, lingüística aplicada y ASL. LA: cap. 1, p. 1-3.                                 |
+| 02     | Mon.  | 09/11 | El campo de investigación de la ASL. LA: cap. 2, p. 25-38.                                   |
+| 03     | Thur. | 09/14 | El campo de investigación de la ASL (cont.). LA: cap. 2, p. 38-41. cap. 1, p. 3-19. Pres 1a. |
+| 04     | Mon.  | 09/18 | El campo de investigación de la ASL (cont.). LA: cap. 2, p. 42-47. Pres 1b.                  |
+| 05     | Thur. | 09/21 | Presentación de investigador invitado (1) TBA                                                |
+|        |       |       | **Part 2 - Uso**                                                                             |
+| 06     | Mon.  | 09/25 | Metodología 1: R, RMarkdown y la investigación reproducible.                                 |
+| 07     | Thur. | 09/28 | Lengua y sociedad. LA: cap. 8, p. 180-193                                                    |
+| 08     | Mon.  | 10/02 | Lengua y sociedad. LA: cap. 8, p. 194-198, 202-204.                                          |
+| 09     | Thur. | 10/05 | Los pronombres. LA: cap. 3, p. 53-59. Pres 2a.                                               |
+| 10     | Mon.  | 10/09 | Expresión de pronombre sujeto en el español de EE.UU. Pres 2b.                               |
+| 11     | Thur. | 10/12 | Presentación de investigador invitado (2) TBA                                                |
+|        |       |       | **Part 3 - Analysis**                                                                        |
+| 12     | Mon.  | 10/16 | Metodología 2: Praat                                                                         |
+| 13     | Thur. | 10/19 | Adquisición secuencial. PB: cap. 7, 145-155                                                  |
+| 14     | Mon.  | 10/23 | Adquisición secuencial. PB: cap. 7, 155-164.                                                 |
+| 15     | Thur. | 10/26 | **HLS - no hay clase**                                                                       |
+| 16     | Mon.  | 10/30 | Adquisición secuencial - producción. Art: Knightly et al. (2003). Pres 3a.                   |
+| 17     | Thur. | 11/02 | Adquisición secuencial - percepción. Pallier et al. (1997). Pres 3b.                         |
+| 18     | Mon.  | 11/06 | Presentación de investigador invitado (3) TBA                                                |
+|        |       |       | **Part 4 - Processes**                                                                       |
+| 19     | Thur. | 11/09 | Metodología 3: Experimentos psicolingüísticos con PsychoPy2                                  |
+| 20     | Mon.  | 11/13 | Gramática universal                                                                          |
+| 21     | Thur. | 11/16 | El lenguaje y el pensamiento. Relativismo lingüístico.                                       |
+| 22     | Mon.  | 11/20 | El bilingüismo y el cerebro. Presentación 4a.                                                |
+| 23     | Thur. | 11/23 | **Día de acción de gracias - No hay clase**                                                  |
+| 24     | Mon.  | 11/27 | El bilingüismo y el cerebro (cont.). Mokadam et al. (2017). Presentación 4b.                 |
+| 25     | Thur. | 11/30 | Presentación de investigador invitado (4) TBA                                                |
+| 26     | Mon.  | 12/04 | Asuntos residuales                                                                           |
+| 27     | Thur. | 12/07 | Proyectos finales                                                                            |
+| 28     | Mon.  | 12/11 | Proyectos finales, último día de clase                                                       |
+|        |       |       | Examen final 12/19 12:00 - 3:00 pm (Final project due)                                       |
