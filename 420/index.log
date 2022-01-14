@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.12)  14 JAN 2022 15:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.12)  14 JAN 2022 16:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -588,51 +588,51 @@ LaTeX Info: Redefining \nameref on input line 115.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-55.
+49.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-55.
+84.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-55.
+84.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-155.
+184.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-155.
+184.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 155.
+(Font)              <10> on input line 184.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 155.
+(Font)              <7> on input line 184.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 155.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 155
+(Font)              <5> on input line 184.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 184
 .
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 155
+LaTeX Font Info:    Trying to load font information for U+msb on input line 184
 .
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-<ru_logo.pdf, id=6, 476.78125pt x 129.48375pt>
+<ru_logo.pdf, id=10, 476.78125pt x 129.48375pt>
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
 Package pdftex.def Info: ru_logo.pdf  used on input line 201.
@@ -651,7 +651,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
  <./ru_logo.pdf>]
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 281.
+Package pdftex.def Info: ru_logo.pdf  used on input line 289.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -666,7 +666,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 383.
+Package pdftex.def Info: ru_logo.pdf  used on input line 371.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -681,7 +681,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 451.
+Package pdftex.def Info: ru_logo.pdf  used on input line 421.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -694,9 +694,168 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [4
 
 ]
+Overfull \hbox (0.60487pt too wide) in paragraph at lines 432--433
+[]\T1/lmr/m/n/10 (-20) Sesión  
+ []
+
+
+Overfull \hbox (2.58829pt too wide) in paragraph at lines 436--437
+[]\T1/lmr/m/n/10 (-20) Fecha  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 443--443
+[]|\T1/lmr/m/n/10 (-20) 01/19|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 445--445
+[]|\T1/lmr/m/n/10 (-20) 01/24|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 447--447
+[]|\T1/lmr/m/n/10 (-20) 01/26|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 449--449
+[]|\T1/lmr/m/n/10 (-20) 01/31|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 451--451
+[]|\T1/lmr/m/n/10 (-20) 02/02|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 453--453
+[]|\T1/lmr/m/n/10 (-20) 02/07|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 455--455
+[]|\T1/lmr/m/n/10 (-20) 02/09|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 456--456
+[]|\T1/lmr/m/n/10 (-20) 02/14|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 458--458
+[]|\T1/lmr/m/n/10 (-20) 02/16|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 459--459
+[]|\T1/lmr/m/n/10 (-20) 02/21|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 461--461
+[]|\T1/lmr/m/n/10 (-20) 02/23|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 463--463
+[]|\T1/lmr/m/n/10 (-20) 02/28|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 464--464
+[]|\T1/lmr/m/n/10 (-20) 03/02|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 465--465
+[]|\T1/lmr/m/n/10 (-20) 03/07|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 466--466
+[]|\T1/lmr/m/n/10 (-20) 03/09|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 469--469
+[]|\T1/lmr/m/n/10 (-20) 03/12|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 471--471
+[]|\T1/lmr/m/n/10 (-20) 03/21|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 473--473
+[]|\T1/lmr/m/n/10 (-20) 03/23|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 475--475
+[]|\T1/lmr/m/n/10 (-20) 03/28|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 477--477
+[]|\T1/lmr/m/n/10 (-20) 03/30|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 478--478
+[]|\T1/lmr/m/n/10 (-20) 04/04|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 480--480
+[]|\T1/lmr/m/n/10 (-20) 04/06|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 481--481
+[]|\T1/lmr/m/n/10 (-20) 04/11|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 483--483
+[]|\T1/lmr/m/n/10 (-20) 04/13|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 484--484
+[]|\T1/lmr/m/n/10 (-20) 04/18|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 485--485
+[]|\T1/lmr/m/n/10 (-20) 04/20|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 486--486
+[]|\T1/lmr/m/n/10 (-20) 04/25|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 487--487
+[]|\T1/lmr/m/n/10 (-20) 04/27|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 488--488
+[]|\T1/lmr/m/n/10 (-20) 05/02|  
+ []
+
+
+Overfull \hbox (2.74634pt too wide) in paragraph at lines 489--489
+[]|\T1/lmr/m/n/10 (-20) 05/03|  
+ []
+
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 492.
+Package pdftex.def Info: ru_logo.pdf  used on input line 494.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -710,11 +869,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ] (./index.aux) ) 
 Here is how much of TeX's memory you used:
- 14780 strings out of 480295
- 234480 string characters out of 5895495
- 564338 words of memory out of 5000000
- 32291 multiletter control sequences out of 15000+600000
- 450566 words of font info for 94 fonts, out of 8000000 for 9000
+ 14765 strings out of 480295
+ 234261 string characters out of 5895495
+ 584294 words of memory out of 5000000
+ 32287 multiletter control sequences out of 15000+600000
+ 450093 words of font info for 90 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  74i,15n,77p,1002b,367s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/casillas/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm
@@ -722,12 +881,11 @@ Here is how much of TeX's memory you used:
 1.enc}</Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.
 pfb></Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pf
 b></Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb><
-/Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></Use
-rs/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on index.pdf (5 pages, 175576 bytes).
+/Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb>
+Output written on index.pdf (5 pages, 154030 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 149 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
- 24710 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 164 PDF objects out of 1000 (max. 8388607)
+ 144 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 22654 words of extra memory for PDF output out of 24883 (max. 10000000)
 

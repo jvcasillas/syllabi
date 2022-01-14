@@ -1,34 +1,31 @@
-
-
-
 |               | Week |  Date |                           Topic                            |
 | :------------ | :--: | :---: | :--------------------------------------------------------- |
 |               |      |       |                                                            |
 | **Part I:**   |      |       |                                                            |
 | Introduction  |      |       |                                                            |
-|               |  1   | 01/23 | Overview of Spanish phonology                              |
-|               |  2   | 01/30 | Overview (cont.), generative approaches                    |
-|               |  3   | 02/06 | Speech perception                                          |
-|               |  4   | 02/13 | L2/Bilingual Speech, PA1                                   |
-|               |  5   | 02/20 | L2/Bilingual Speech (cont.)                                |
+|               |  1   | 01/24 | Overview of Spanish phonology                              |
+|               |  2   | 01/31 | Overview (cont.), generative approaches                    |
+|               |  3   | 02/07 | Speech perception                                          |
+|               |  4   | 02/14 | L2/Bilingual Speech, PA1                                   |
+|               |  5   | 02/21 | L2/Bilingual Speech (cont.)                                |
 | **Part II:**  |      |       |                                                            |
 | Prosody       |      |       |                                                            |
-|               |  6   | 02/27 | Prosody I: Sequences                                       |
-|               |  7   | 03/05 | Prosody II: Lexical stress, PA2                            |
+|               |  6   | 02/28 | Prosody I: Sequences                                       |
+|               |  7   | 03/07 | Prosody II: Lexical stress, PA2                            |
+|               |      |       |                                                            |
+|               |      | 03/12 | **Spring break**                                           |
 | **Part III:** |      |       |                                                            |
 | Vocoids       |      |       |                                                            |
-|               |  8   | 03/12 | Vocoids I                                                  |
-|               |      | 03/19 | **Spring break**                                           |
-|               |  9   | 03/26 | Vocoids II, PA3                                            |
+|               |  8   | 03/21 | Vocoids I                                                  |
+|               |  9   | 03/28 | Vocoids II, PA3                                            |
 | **Part IV:**  |      |       |                                                            |
 | Obstruents    |      |       |                                                            |
-|               |  10  | 04/02 | Obstruents I: Stops                                        |
-|               |  11  | 04/09 | Obstruents II: Stops, PA4                                  |
-|               |  12  | 04/16 | Obstruents III: Fricatives/affricates                      |
+|               |  10  | 04/04 | Obstruents I: Stops                                        |
+|               |  11  | 04/11 | Obstruents II: Stops, PA4                                  |
+|               |  12  | 04/18 | Obstruents III: Fricatives/affricates                      |
 | **Part V:**   |      |       |                                                            |
 | Sonorants     |      |       |                                                            |
-|               |  13  | 04/23 | Sonorants: Nasals, laterals and rhotics                    |
-|               |      |       |                                                            |
-|               |  14  | 04/30 | Presentations, residuals                                   |
-|               |  15  | 05/?? | Reading day                                                |
+|               |  13  | 04/25 | Sonorants: Nasals, laterals and rhotics                    |
+|               |  14  | 05/02 | Presentations, residuals                                   |
+|               |  15  | 05/03 | Reading day                                                |
 |               |  16  | 05/?? | Final exam day (presentations if necessary)                |

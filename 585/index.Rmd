@@ -12,7 +12,7 @@ output:
 
 
 01:940:585:01 - Spring 2022  
-Meetings: AB 5190, 10:20--13:20  
+Meetings: AB 5190, Monday, 10:20--13:20  
 
 Professor: Joseph V. Casillas, PhD  
 Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
@@ -75,6 +75,10 @@ writeLines(ui); print(bib[key = "xie2015dynamic"], .opts = list(check.entries = 
                       style = "latex", bib.style = "authoryear"))
 ```
 
+\clearpage
+\phantom{.}
+\vspace{0.2in}
+
 ## Weekly readings
 
 Students will receive a package of additional readings to be distributed in electronic format (.pdf).
@@ -130,31 +134,33 @@ Students will complete 4 programming assignments over the course of the semester
 These assignments are designed in a way so that the student must demonstrate adequate knowledge of basic programming principles covered in class workshops. 
 The skills required in each assignment are cumulative, each building on the material learned in the previous weeks.
 
+
+\clearpage
+\phantom{.}
+\vspace{0.2in}
+
+
 ## Project
 
 Each student will complete a research project. 
 There are four options:
 
 1. Research paper ([ICPhS](http://www.icphs2015.info/Call.aspx) format)
-	- for advanced students w/ data
-	- goal: presentation at regional conference
+    - for advanced students w/ data
+    - goal: presentation at regional conference
 2. Pilot study ([ICPhS](http://www.icphs2015.info/Call.aspx) format)
-  - for new/advanced students with ideas, but no data
-  - conduct study (propose, design, data collection/analysis, write up), 
-  collaboration ok
-  - goal: (a) conference presentation/journal submission (w/ IRB), (b) 
-  complete groundwork for future project (w/o IRB)
+    - for new/advanced students with ideas, but no data
+    - conduct study (propose, design, data collection/analysis, write up), collaboration ok
+    - goal: (a) conference presentation/journal submission (w/ IRB), (b) complete groundwork for future project (w/o IRB)
 3. Research proposal ([ICPhS](http://www.icphs2015.info/Call.aspx) format w/ 
 fake data, or publicaly available dataset)
-	- for new/advanced students with ideas, but no data
-	- focus on lit review, design, programming/stats
-	- goal: complete groundwork for future project
+    - for new/advanced students with ideas, but no data
+    - focus on lit review, design, programming/stats
+    - goal: complete groundwork for future project
 4. Phonetic/phonological issue summary (APA format, 15-20 pages)
-	- for new/unsure student, no ideas, no data
-	- goal: demonstrate expertise in theoretical issue regarding Spanish 
-	phonetics/phonology
-	- Ex: phonological paper detailing spirantization in serial/parallel models 
-	in generative phonology
+    - for new/unsure student, no ideas, no data
+    - goal: demonstrate expertise in theoretical issue regarding Spanish phonetics/phonology
+    - Ex: phonological paper detailing spirantization in serial/parallel models in generative phonology
 
 All projects require the prior approval of the professor. 
 Projects are due on the day and time of the university assigned final exam (though there is no exam). 
@@ -177,6 +183,11 @@ Do not send emails to the instructor asking for updates if you missed class.
 Any planned absence that you are aware of ahead of time, such as religious holidays recognized by Rutgers University or Dean's excuses, should be made up before the absence occurs. 
 If you know that you will be absent, it is your responsibility to let the instructor know ahead of time. All holidays or special events observed by any religion will be honored for those students who show affiliation with that particular religion. 
 Absences pre-approved by the RU Dean of Students (or Dean's designee) will be honored.
+
+
+\clearpage
+\phantom{.}
+\vspace{0.2in}
 
 ### Code of academic integrity
 

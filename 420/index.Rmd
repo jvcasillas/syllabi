@@ -11,7 +11,7 @@ output:
 ---
 
 01:940:420:01 - Spring 2022  
-Meetings: MU 208, 17:40--19:00  
+Meetings: MU 208, Mon./Wed. 17:40--19:00  
 
 Professor: Joseph V. Casillas, PhD  
 Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
@@ -67,6 +67,10 @@ Final project                        & 25\%       & & D  & 65--69  \\
 \end{tabular}
 \end{center}
 
+\clearpage
+\phantom{.}
+\vspace{0.2in}
+
 ## Participation and homework
 
 Students are expected to attend class prepared and participate actively. Satisfactory preparation implies having read the assigned reading and completing necessary homework beforehand. 
@@ -110,6 +114,9 @@ Possible ideas:
     - Original research
     - Etc.
 
+\clearpage
+\phantom{.}
+\vspace{0.2in}
 
 # Department rules and course policy
 
@@ -157,7 +164,10 @@ Cheating includes allowing another person to do your work and to submit the work
 Any work which is submitted for a grade must be 100% the student's own work. 
 If you are not sure when it is appropriate to seek help, please see the professor.
 
+\clearpage
+\phantom{.}
 \vspace{0.2in}
+
 \hrule  
 \textcolor{RUred}{Plagiarism} is the use of another person’s words, ideas, or results without giving that person appropriate credit. 
 Do not plagiarize.
@@ -187,7 +197,9 @@ To begin this process, please complete the Registration form on the ODS web site
 
 ----
 
-\vspace{.2in}
+\clearpage
+\phantom{.}
+\vspace{0.2in}
 
 ```{r, temario-420, child="./temario/temario_s2022.Rmd"}
 ```
