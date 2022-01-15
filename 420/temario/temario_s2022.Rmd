@@ -23,13 +23,13 @@
 |        |       |       |                                                                                              |
 |        |       | 03/12 | **Spring break**                                                                             |
 |        |       |       |                                                                                              |
-| 16     | Wed.  | 03/21 | Adquisición secuencial - percepción. Pallier et al. (1997). Pres 3b.                         |
-| 17     | Mon.  | 03/23 | Presentación de investigador invitado (3) TBA                                                |
+| 16     | Mon.  | 03/21 | Adquisición secuencial - percepción. Pallier et al. (1997). Pres 3b.                         |
+| 17     | Wed.  | 03/23 | Presentación de investigador invitado (3) TBA                                                |
 |        |       |       | **Part 4 - Processes**                                                                       |
-| 18     | Wed.  | 03/28 | Metodología 3: Experimentos psicolingüísticos con PsychoPy2                                  |
-| 19     | Mon.  | 03/30 | Gramática universal                                                                          |
-| 20     | Wed.  | 04/04 | El lenguaje y el pensamiento. Relativismo lingüístico.                                       |
-| 21     | Mon.  | 04/06 | El bilingüismo y el cerebro. Presentación 4a.                                                |
+| 18     | Mon.  | 03/28 | Metodología 3: Experimentos psicolingüísticos con PsychoPy2                                  |
+| 19     | Wed.  | 03/30 | Gramática universal                                                                          |
+| 20     | Mon.  | 04/04 | El lenguaje y el pensamiento. Relativismo lingüístico.                                       |
+| 21     | Wed.  | 04/06 | El bilingüismo y el cerebro. Presentación 4a.                                                |
 | 22     | Mon.  | 04/11 | El bilingüismo y el cerebro (cont.). Mokadam et al. (2017). Presentación 4b.                 |
 | 23     | Wed.  | 04/13 | Presentación de investigador invitado (4) TBA                                                |
 | 24     | Mon.  | 04/18 | Asuntos residuales                                                                           |
