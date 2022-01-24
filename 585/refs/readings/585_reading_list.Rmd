@@ -13,8 +13,8 @@ output:
 
 
 
-01:940:585:01 - Spring 2020  
-Meetings: AB 5190, 08:10--11:10  
+01:940:585:01 - Spring 2022  
+Meetings: AB 5190, 10:20--13:20  
 
 Professor: Joseph V. Casillas, PhD  
 Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
@@ -22,7 +22,7 @@ Office: AB 5174
 Office hours: by appointment
 
 
-```{r, eval=TRUE, echo=FALSE, cache=FALSE}
+```{r, eval=TRUE, echo=FALSE, cache=FALSE, message=F}
 library(RefManageR)
 bib <- ReadBib("../bib/span585.bib", check = FALSE)
 
