@@ -12,3 +12,10 @@ Repo for the syllabi for the courses I teach at RU
 -   [581](https://www.jvcasillas.com/syllabi/581/index.pdf)
 -   [585](https://www.jvcasillas.com/syllabi/585/index.pdf)
 -   [589](https://www.jvcasillas.com/syllabi/589/index.pdf)
+
+NOTES
+
+Changes to 581, 585, and 589.  
+589 is now 653: Data science for linguists  
+581 is now 654: Open Science and Reproducibility in Language Research  
+585 is now 655: Phonetics and Phonology of Bilingualism

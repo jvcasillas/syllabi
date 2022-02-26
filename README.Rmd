@@ -13,3 +13,11 @@ the_syllabi <- dir_ls(regexp = "^[0-9]")
 glue("- [{the_syllabi}](https://www.jvcasillas.com/syllabi/{the_syllabi}/index.pdf)")
 
 ```
+
+NOTES
+
+Changes to 581, 585, and 589.  
+589 is now 653: Data science for linguists  
+581 is now 654: Open Science and Reproducibility in Language Research  
+585 is now 655: Phonetics and Phonology of Bilingualism
+
