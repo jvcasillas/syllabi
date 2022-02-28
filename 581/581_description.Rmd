@@ -1,0 +1,296 @@
+---
+geometry       : vmargin=1.0in, hmargin=0.75in
+bibliography   : refs/bib/osrrl_refs.bib
+csl            : refs/bib/apa.csl
+output:
+  pdf_document:
+    toc: no
+    highlight: pygments
+    includes:
+      in_header: header.tex
+---
+
+
+\begin{wrapfigure}[1]{r}{0.21\textwidth}
+\includegraphics[width=0.2\textwidth]{osrrl.png}
+\end{wrapfigure}
+
+
+01:940:581:01 - Spring 2019  
+Meetings: AB 5190, Thursdays, 08:10--11:10  
+
+Professor: Joseph V. Casillas, PhD  
+Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
+Office: AB 5174  
+Office hours: by appointment
+
+
+
+# Course description
+
+In this course students will examine the fundamental principles of doing 
+open and reproducible research in SLA, linguistics, and psycholinguistics. 
+Specifically, the focus is on developing an in depth understanding of the 
+most common experimental paradigms and procedures used in quantitative 
+research. 
+Additionally, students will learn details about the entire research process, 
+from generating research questions, collecting and analyzing data, to writing
+and submitting a scientific report. 
+The course will also focus on how to make scientific research reproducible 
+and shareable. 
+Students will develop a foundation in the most common tools at the disposal of 
+todays data scientist (i.e. OSF, GitHub, Knitr, etc.).
+Necessarily this entails understanding and implementing the current protocols 
+of open science, i.e., pre-registration, registered reports, open lab notebooks, 
+codebooks, and version control, in order to produce research projects that 
+are organized and reproducible.
+The procedures covered in this course will help beginning researchers assure 
+the integrity of their data, as well as apply the general principles of 
+transparency, reproducibility, and replicability--collectively known as open 
+science--to their own work.
+
+
+**Prerequisites**: No prior experience with statistics or programming is necessary.
+
+
+
+# Materials
+
+### Class websites
+
+- Canvas: https://rutgers.instructure.com/courses/21827  
+- Class website: [http://www.jvcasillas.com/ru_teaching/ru_spanish_581/581_01_s2019/](www.jvcasillas.com/ru_teaching/ru_spanish_581/581_01_s2019/)  
+
+### Books (recommended)
+
+```{r, eval=TRUE, echo=FALSE, cache=FALSE, warning=FALSE, message=FALSE}
+library(RefManageR)
+bib <- ReadBib("./refs/bib/osrrl_refs.bib", check = FALSE)
+ui <- "- "
+```
+
+```{r, results='asis', echo=FALSE, eval=TRUE, cache=FALSE, warning=FALSE, message=FALSE}
+writeLines(ui)
+print(bib[key = "wickham2016r"], 
+  .opts = list(check.entries = FALSE, 
+               style = "latex", 
+               bib.style = "authoryear"))
+```
+
+### Weekly readings
+
+Students will receive a package of readings to be distributed in electronic format (.pdf).
+
+
+
+
+# Coursework
+
+### Evaluation
+
+\begin{center}
+\begin{tabular}{lrp{0.75in}lr}
+\toprule
+Component                     & Percentage & & \multicolumn{2}{c}{Grade distribution} \\
+\cmidrule(lr){1-2}
+\cmidrule(lr){4-5}
+Preparation and participation & 15\%       & & A  & 92--100 \\
+Programming assignments (3)   & 45\%       & & B+ & 87--91  \\
+Presentations (2)             & 10\%       & & B  & 80--86  \\
+Research project              & 30\%       & & C+ & 77--79  \\
+                              &            & & C  & 70--76  \\
+                              &            & & D  & 65--69  \\
+                              &            & & F  & 0--64   \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+### Preparation and participation
+
+Students are expected to attend class prepared and to actively participate. 
+Part of this grade is derived from reading summaries. 
+Students will occasionally be required to write a brief summary (max. 1 page) 
+of the weekly readings and/or answer assigned questions.
+
+
+
+### Programming assignments
+
+Students will complete 3 programming assignments over the course of the 
+semester. 
+These assignments are designed in a way so that the student must demonstrate 
+adequate knowledge of basic programming and statistical principles covered in 
+class. 
+The skills required in each assignment are cumulative, each building on the 
+material learned in the previous weeks. 
+All statistical programming assignments must be completed in RMarkdown and 
+will be handed in via GitHub unless otherwise noted.
+
+
+
+
+### Presentations
+
+#### Experimental paradigms
+
+The first presentation will highlight an experimental paradigm used in an area 
+of linguistics (the choice of the presenter). 
+Students must consult with the professor beforehand. 
+The presentation can be completed in any format. 
+The presentation should include the following: 
+
+- a critique of the technique, including an explanation of the questions the 
+technique is used to answer
+- a thorough discussion of the advantages and disadvantages of the technique 
+- a demonstration, to the extent possible, of how the technique works
+
+
+#### Reproducibility in the wild
+
+The second presentation will deal with the reproducibility of some published paper. 
+This presentation must be hosted on GitHub and in HTML format using RMarkdown. 
+Aside from creating an online presentation, students will also be required to 
+read and comment on the presentations of two classmates in the form of a 
+github issue.
+
+
+
+
+### Research Project
+
+Each student will participate a research project in which they put in practice 
+the tools learned over the course of the semester. 
+The primary focus will be on managing the project in an automatic and 
+reproducible way and developing an understanding of the intricacies of 
+completing all phases of a research project: from conceptualizing an idea to 
+publication. 
+
+
+
+# Department rules and course policy
+
+The course is designed to satisfy the learning goals of the Department of 
+Spanish and Portuguese. More information available at: http://span-port.rutgers.edu/learning-goals
+
+### Communication
+
+All course communication will be via Slack. You should have received an email 
+with an invitation link to join the course Slack. Some rules for using Slack:
+
+- Use an identifiable username and add your picture to your profile.
+- Only the professor is allowed to use the \@channel and \@here mentions.
+- While this is an informal communication channel, all rules of academic 
+discourse apply.
+- Ask and answer questions on the appropriate channel.
+- Create channels as needed, especially for study groups.
+
+### Attendance
+
+Regular class attendance is essential for successful completion of the course. 
+More than 1 absences will have a negative effect on your final grade. The 2nd 
+absence and every subsequent absence after that will result in the loss of 5\% 
+point off the final overall course grade, regardless of reason. Keep in mind 
+that while you have 1 "free" absence, on the day/s you miss you will not be able 
+to earn participation points, you will miss the material given in class and you 
+might miss your own presentation. If you are absent, contact a classmate 
+immediately to get the assignments and to keep up with the material scheduled in 
+the syllabus. The instructor is not responsible for catching you up. Do not 
+send emails to the instructor asking for updates if you missed class.
+
+Any planned absence that you are aware of ahead of time, such as religious 
+holidays recognized by Rutgers University or Dean's excuses, should be 
+made up before the absence occurs. If you know that you will be absent, it is 
+your responsibility to let the instructor know ahead of time. All holidays or 
+special events observed by any religion will be honored for those students who 
+show affiliation with that particular religion. Absences pre-approved by the RU 
+Dean of Students (or Dean's designee) will be honored.
+
+### Code of academic integrity
+
+The professor will initiate an academic integrity case against students 
+suspected of cheating, plagiarizing, or aiding others in dishonest academic 
+behavior. Students are responsible for reading and understanding the Code of 
+Academic Integrity.
+
+Examples of academic dishonesty include, but are not limited to, plagiarism, 
+cheating, and aiding and abetting dishonesty. An example of plagiarism would be 
+to submit a written sample which in part or in whole is not the student's own 
+work without attributing the source. Cheating includes allowing another person 
+to do your work and to submit the work under one's own name. Any work which is 
+submitted for a grade must be 100% the student's own work. If you are not sure 
+when it is appropriate to seek help, please see the professor.
+
+
+\vspace{0.2in}
+\hrule  
+\textcolor{RUred}{Plagiarism} is the use of another person’s words, ideas, or 
+results without giving that person appropriate credit. Do not plagiarize.
+
+\scriptsize{Rutgers University Academic Integrity Policy, p. 2: http://academicintegrity.rutgers.edu/files/documents/AI\_Policy\_2013.pdf}
+\vspace{.1in}
+\hrule
+
+\vspace{0.3in}
+\normalsize
+
+For more information 
+
+- http://academicintegrity.rutgers.edu/ 
+- http://www.libraries.rutgers.edu/avoid_plagiarism. 
+
+
+### Students with disabilities
+
+Rutgers University welcomes students with disabilities into all of the 
+University's educational programs. In order to receive consideration for 
+reasonable accommodations, a student with a disability must contact the 
+appropriate disability services office at the campus where you are officially 
+enrolled, participate in an intake interview, and provide documentation: 
+[https://ods.rutgers.edu/students/documentation-guidelines](https://ods.rutgers.edu/students/documentation-guidelines).  
+
+If the documentation supports your request for reasonable accommodations, your 
+campus’s disability services office will provide you with a Letter of 
+Accommodations. Please share this letter with your instructors and discuss the 
+accommodations with them as early in your courses as possible. To begin this 
+process, please complete the Registration form on the ODS web site at: 
+[https://ods.rutgers.edu/students/registration-form](https://ods.rutgers.edu/students/registration-form).
+
+
+
+### Tentative schedule
+
+
+
+|     | Week |  Date |                                     Topic                                     |
+| :-- | :--: | :---: | :---------------------------------------------------------------------------- |
+|     |  1   | 01/24 | Intro. What is open science? Setup.                                           |
+|     |      |       |                                                                               |
+|     |  2   | 01/31 | Reproducibility crisis. Version control I: Into to `github`.                  |
+|     |      |       |                                                                               |
+|     |  3   | 02/07 | Registered reports. Communicating/sharing I: Intro to `RMarkdown`. P1.        |
+|     |      |       |                                                                               |
+|     |  4   | 02/14 | Version control II: Reproducible projects in `RStudio`. P2.                   |
+|     |      |       |                                                                               |
+|     |  5   | 02/21 | Welcome to the `tidyverse` I: Standards and plots. P3.                        |
+|     |      |       |                                                                               |
+|     |  6   | 02/28 | Welcome to the `tidyverse` II: Tidying and descriptives. P4.                  |
+|     |      |       |                                                                               |
+|     |  7   | 03/07 | Communicating/sharing II: Literate programming with `knitr` and `papaja`. P5. |
+|     |      |       |                                                                               |
+|     |  8   | 03/14 | Communicating/sharing III: HTML presentations using `xaringan`. P6.           |
+|     |      |       |                                                                               |
+|     |  --  | 03/21 | **Spring break**                                                              |
+|     |      |       |                                                                               |
+|     |  9   | 03/28 | Communicating/sharing V: Manuscript preparation using `github`. P7.           |
+|     |      |       |                                                                               |
+|     |  10  | 04/04 | Presenting stimuli using PsychoPy. P8.                                        |
+|     |      |       |                                                                               |
+|     |  11  | 04/11 | Online experiments. P9.                                                       |
+|     |      |       |                                                                               |
+|     |  12  | 04/18 | Speech production. P10.                                                       |
+|     |      |       |                                                                               |
+|     |  13  | 04/25 | Speech perception. P11.                                                       |
+|     |      |       |                                                                               |
+|     |  14  | 05/02 | Communicating/sharing VI: Websites and blogs using `blogdown`. P12.           |
+|     |      |       |                                                                               |
+|     |      | 05/?? | Final exam day. Research project.                                             |

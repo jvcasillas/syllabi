@@ -19,3 +19,11 @@ Changes to 581, 585, and 589.
 589 is now 653: Data science for linguists  
 581 is now 654: Open Science and Reproducibility in Language Research  
 585 is now 655: Phonetics and Phonology of Bilingualism
+
+Updated images and files added to 581
+
+TODO:
+
+-   change course names
+-   add “calendar” to 581 (see phon courses for examples)
+-   check ru_teaching for missing files

@@ -1,0 +1,64 @@
+
+# Whats
+
+- What is this class about?
+- What do I want students to learn
+- What can I realistically teach students?
+
+
+
+
+# Hows
+
+Topics we need to cover in order to acheive the goals in 'whats'
+
+
+Programming
+
+- R basics
+	- gettting and tidying data
+	- transforming data
+	- plotting data
+- Version control
+	- GitHub
+	- RStudio projects
+- Communicating/sharing
+	- rmarkdown reports
+	- knitr
+	- html presentations (slidify/xaringan)
+	- websites, blogs (rmarkdown, blogdown)
+
+
+
+
+NEEDS
+
+Programming
+
+- slides, tutorials
+- readings
+- data sets
+- problem sets
+
+
+
+
+Programming topics
+
+- OSF
+- Github
+- RMarkdown
+- RStudio projects 
+- coding standards
+- Basic R
+- papaja
+- PsychoPy
+- Online experiments
+- GitHub Pages
+- HTML presentations
+
+Programming assignments
+
+- github
+- papaja
+- research project

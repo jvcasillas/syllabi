@@ -1,0 +1,406 @@
+---
+geometry       : vmargin=1.0in, hmargin=0.75in
+bibliography   : ../bib/osrrl_refs.bib
+csl            : ../bib/apa.csl
+output:
+  pdf_document:
+    toc: no
+    highlight: pygments
+    includes:
+      in_header: header.tex
+---
+
+
+\begin{wrapfigure}[1]{r}{0.21\textwidth}
+\includegraphics[width=0.2\textwidth]{osrrl.png}
+\end{wrapfigure}
+
+
+01:940:581:01 - Spring 2019  
+Meetings: AB 5190, 08:10--11:10  
+
+Professor: Joseph V. Casillas, PhD  
+Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
+Office: AB 5174  
+Office hours: by appointment
+
+\vspace{0.6in}
+
+**Note**: Readings must be completed *before* the class that occurs 
+in the assigned week (i.e., readings assigned for week 2 will be 
+discussed *in* the week 2 class, thus they should be read *before*.).
+
+```{r, eval=TRUE, echo=FALSE, cache=FALSE}
+library(RefManageR)
+bib <- ReadBib("../bib/osrrl_refs.bib", check = FALSE)
+```
+
+
+
+
+
+
+
+# Week 2: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+ui <- "-"
+writeLines(ui); print(bib["gonzales2013bafri"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["Bohannon910"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["aac4716"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["cruwell_2018"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+
+### Additional resources
+
+- [Guides to better science: Data management](https://www.britishecologicalsociety.org/wp-content/uploads/2018/12/BES-Data-Management-GBIF.pdf)
+- [GitHub for the useR](http://happygitwithr.com)
+- [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+- [Using Git and GitHub](https://biodatascience.github.io/compbio/github.html)
+- [The replication crisis (audio)](https://www.bbc.co.uk/programmes/m00013p9)
+
+
+
+
+
+
+
+
+
+# Week 3: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["gonzales2019bilinguals"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["van2016pre"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["wickham2016r"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+    - https://r4ds.had.co.nz/r-markdown.html
+    - https://r4ds.had.co.nz/r-markdown-formats.html
+
+
+### Additional resources
+
+- [RMarkdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+- [RMarkdown reference](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+- [Getting started with RMarkdown](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/)
+- [Data science and R: How do I start?](https://medium.com/@kierisi/data-science-and-r-how-do-i-start-7a87426e103e)
+
+
+
+
+
+
+
+
+# Week 4: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["casillas2018perceptual"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["wickham2016r"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+    - https://r4ds.had.co.nz/workflow-projects.html
+- [Guides to better science: Reproducible code](https://www.britishecologicalsociety.org/wp-content/uploads/2018/12/BES-Reproducible-Code.pdf)
+
+### Additional resources
+
+- [What I wish I knew when I started R](https://www.williamrchase.com/slides/intro_r_anthropology_2018#1)
+- [Getting help](https://dcl-2017-04.github.io/curriculum/getting-help.html)
+- [Field Guide to the R Ecosystem (highly recommended)](http://fg2re.sellorm.com)
+
+
+
+
+
+
+
+
+
+
+
+
+# Week 5: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["wickham2016r"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+    - https://r4ds.had.co.nz/data-visualisation.html
+    - https://r4ds.had.co.nz/workflow-basics.html
+- [R for excel users](http://rex-analytics.com/r-for-excel-users/)
+
+
+### Additional resources
+
+- [The tidyverse style guide](http://style.tidyverse.org)
+- [Data structure basics](https://dcl-2017-04.github.io/curriculum/data-structure-basics.html)
+- [ggplot2 cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf)
+- [Secrets to a happy graphing life](http://stat545.com/block016_secrets-happy-graphing.html)
+- [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php)
+
+
+
+
+
+
+
+
+
+
+
+# Week 6: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["wickham2016r"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+    - https://r4ds.had.co.nz/transform.html
+    - https://r4ds.had.co.nz/workflow-scripts.html
+    - https://r4ds.had.co.nz/tidy-data.html
+    - https://r4ds.had.co.nz/relational-data.html
+
+
+### Additional resources
+
+- [tidyr tutorial](http://www.jvcasillas.com/tidyr_tutorial/)
+- [Tidy data](https://www.jstatsoft.org/article/view/v059i10)
+- [Non-tidy data](https://simplystatistics.org/2016/02/17/non-tidy-data/)
+- [Creating new variables with mutate and ifelse (advanced)](https://rstudio-pubs-static.s3.amazonaws.com/116317_e6922e81e72e4e3f83995485ce686c14.html#/)
+- [Getting help: reprex 1](https://dcl-2017-04.github.io/curriculum/reprexes.html)
+- [Getting help: reprex 2](https://github.com/tidyverse/reprex#what-is-a-reprex)
+
+
+
+
+
+
+
+# Week 7: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["wickham2016r"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+    - https://r4ds.had.co.nz/data-import.html
+- [papaja documentation](https://github.com/crsh/papaja): Read documentation, 
+install package and play with demo example.
+- [R Markdown with papaja (video pt. 1)](https://www.youtube.com/watch?v=I_HW5Rraqg8)
+- [R Markdown with papaja (video pt. 2)](https://www.youtube.com/watch?v=dmB6sHDbs7Q)
+
+
+### Additional resources
+
+- [papaja: Reproducible APA manuscripts with R Markdown (skim)](https://crsh.github.io/papaja_man/)
+- [More papaja](https://rpubs.com/YaRrr/papaja_guide)
+
+
+
+
+
+
+
+
+
+# Week 8: 
+
+### Reading
+
+- TBA
+
+### Additional resources
+
+- [R Markdown presentations](https://dcl-2017-04.github.io/curriculum/rmarkdown-formats.html)
+- [xaringan tutorial 1](https://slides.yihui.name/xaringan/#1)
+- [xaringan tutorial 2](http://www.jvcasillas.com/ru_xaringan/slides/index.html#1)
+
+
+
+
+
+
+
+
+
+
+
+# Week 9: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["Kording088278"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+- [An introduction to introductions](https://scholarstudioblog.wordpress.com/2017/10/10/introduction-to-introductions/)
+
+### Additional resources
+
+
+
+
+
+
+
+
+# Week 10: 
+
+### Reading
+
+- [Psychopy tutorial](https://www.jvcasillas.com/psychopy_ws/hls_2017/#1)
+
+### Additional resources
+
+
+
+
+
+
+
+# Week 11: 
+
+### Optional reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["anwyl-irvine_evershed_2018"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+### Additional resources
+
+
+
+
+
+
+
+
+
+# Week 12: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["roettger_baer-henney_2018"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+### Additional resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Week 13: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["mcguire2010brief"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+### Additional resources
+
+
+
+
+
+
+
+# Week 14: 
+
+### Reading
+
+- [Guides to better science: Promoting your research](https://www.britishecologicalsociety.org/wp-content/uploads/2018/12/BES-Promoting-Your-Research.pdf
+)
+- [Unity of science: Why linguistics faces bigger challenges than the replication crisis](https://dlc.hypotheses.org/1572)
+
+
+### Additional resources
+
+
+
+
+
+
+
+
+
