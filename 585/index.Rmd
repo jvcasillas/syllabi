@@ -11,7 +11,7 @@ output:
 ---
 
 
-01:940:585:01 - Spring 2022  
+01:940:650:01 - Spring 2022  
 Meetings: AB 5190, Monday, 10:20--13:20  
 
 Professor: Joseph V. Casillas, PhD  

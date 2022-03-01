@@ -23,8 +23,8 @@ output:
 \end{wrapfigure}
 
 
-01:940:589:01 - Spring 2021  
-Meetings: Online, 08:10--11:10  
+01:940:660:01 <!-- - Spring 2021-->  
+<!--Meetings: Online, 08:10--11:10-->  
 Professor: Joseph V. Casillas, PhD  
 Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
 Office: Via Zoom  
