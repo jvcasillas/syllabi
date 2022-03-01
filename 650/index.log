@@ -1,24 +1,24 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.12)  1 MAR 2022 06:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.3.1)  1 MAR 2022 11:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **index.tex
 (./index.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2021-11-22> (/Users/casillas/Library/TinyTeX/texmf-dist/t
+L3 programming layer <2022-02-24> (/Users/casillas/Library/TinyTeX/texmf-dist/t
 ex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count183
-\c@section=\count184
-\c@subsection=\count185
-\c@subsubsection=\count186
-\c@paragraph=\count187
-\c@subparagraph=\count188
-\c@figure=\count189
-\c@table=\count190
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
@@ -38,13 +38,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2021/08/26 v2.02 operator names
 )
-\inf@bad=\count191
+\inf@bad=\count193
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count192
-\leftroot@=\count193
+\uproot@=\count194
+\leftroot@=\count195
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count194
-\DOTSCASE@=\count195
+\classnum@=\count196
+\DOTSCASE@=\count197
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -53,15 +53,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen141
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count196
-\c@MaxMatrixCols=\count197
+\macc@depth=\count198
+\c@MaxMatrixCols=\count199
 \dotsspace@=\muskip16
-\c@parentequation=\count198
-\dspbrk@lvl=\count199
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
 \tag@help=\toks17
-\row@=\count266
-\column@=\count267
-\maxfields@=\count268
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
 \andhelp@=\toks18
 \eqnshift@=\dimen142
 \alignsep@=\dimen143
@@ -119,7 +119,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
@@ -133,27 +133,28 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
+Package: microtype 2022/02/22 v3.0c Micro-typographical refinements (RS)
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks23
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count269
+\etb@tempcnta=\count271
 )
 \MT@toks=\toks24
-\MT@count=\count270
 \MT@tempbox=\box52
-LaTeX Info: Redefining \leftprotrusion on input line 1010.
-LaTeX Info: Redefining \rightprotrusion on input line 1018.
-LaTeX Info: Redefining \textls on input line 1173.
+\MT@count=\count272
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1027.
+LaTeX Info: Redefining \leftprotrusion on input line 1028.
+LaTeX Info: Redefining \rightprotrusion on input line 1036.
+LaTeX Info: Redefining \textls on input line 1200.
 \MT@outer@kern=\dimen148
-LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
-\MT@listname@count=\count271
+LaTeX Info: Redefining \textmicrotypecontext on input line 1786.
+\MT@listname@count=\count273
 
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype-pdfte
 x.def
-File: microtype-pdftex.def 2021/12/10 v3.0b Definitions specific to pdftex (RS)
+File: microtype-pdftex.def 2022/02/22 v3.0c Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 897.
 LaTeX Info: Redefining \lslig on input line 897.
@@ -161,7 +162,7 @@ LaTeX Info: Redefining \lslig on input line 897.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
+File: microtype.cfg 2022/02/22 v3.0c microtype main configuration file (RS)
 )) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -183,7 +184,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
@@ -220,42 +221,37 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen149
-\Hy@linkcounter=\count272
-\Hy@pagecounter=\count273
+\Hy@linkcounter=\count274
+\Hy@pagecounter=\count275
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref-langpat
-ches.def
-File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
-nguages
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count274
+\Hy@SavedSpaceFactor=\count276
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `unicode' set `true' on input line 4073.
-Package hyperref Info: Hyper figures OFF on input line 4192.
-Package hyperref Info: Link nesting OFF on input line 4197.
-Package hyperref Info: Hyper index ON on input line 4200.
-Package hyperref Info: Plain pages OFF on input line 4207.
-Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Option `unicode' set `true' on input line 4018.
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count275
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count277
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4804.
+LaTeX Info: Redefining \url on input line 4749.
 \XeTeXLinkMargin=\dimen150
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -265,36 +261,36 @@ ty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count276
+\Fld@menulength=\count278
 \Field@Width=\dimen151
 \Fld@charsize=\dimen152
-Package hyperref Info: Hyper figures OFF on input line 6076.
-Package hyperref Info: Link nesting OFF on input line 6081.
-Package hyperref Info: Hyper index ON on input line 6084.
-Package hyperref Info: backreferencing OFF on input line 6091.
-Package hyperref Info: Link coloring OFF on input line 6096.
-Package hyperref Info: Link coloring with OCG OFF on input line 6101.
-Package hyperref Info: PDF/A mode OFF on input line 6106.
-LaTeX Info: Redefining \ref on input line 6146.
-LaTeX Info: Redefining \pageref on input line 6150.
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count277
-\c@Item=\count278
-\c@Hfootnote=\count279
+\Hy@abspage=\count279
+\c@Item=\count280
+\c@Hfootnote=\count281
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count280
-\c@bookmark@seq@number=\count281
+\Fld@listcount=\count282
+\c@bookmark@seq@number=\count283
 
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilec
 heck.sty
@@ -310,15 +306,15 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip53
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count282
+\BKM@id=\count284
 )) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count283
-\Gm@cntv=\count284
-\c@Gm@tempcnt=\count285
+\Gm@cnth=\count285
+\Gm@cntv=\count286
+\c@Gm@tempcnt=\count287
 \Gm@bindingoffset=\dimen153
 \Gm@wd@mp=\dimen154
 \Gm@odd@mp=\dimen155
@@ -334,17 +330,17 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \LTright=\skip55
 \LTpre=\skip56
 \LTpost=\skip57
-\LTchunksize=\count286
+\LTchunksize=\count288
 \LTcapwidth=\dimen161
 \LT@head=\box53
 \LT@firsthead=\box54
 \LT@foot=\box55
 \LT@lastfoot=\box56
 \LT@gbox=\box57
-\LT@cols=\count287
-\LT@rows=\count288
-\c@LT@tables=\count289
-\c@LT@chunks=\count290
+\LT@cols=\count289
+\LT@rows=\count290
+\c@LT@tables=\count291
+\c@LT@chunks=\count292
 \LT@p@ftn=\toks26
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
@@ -358,12 +354,12 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen169
 \cmidrulekern=\dimen170
 \defaultaddspace=\dimen171
-\@cmidla=\count291
-\@cmidlb=\count292
+\@cmidla=\count293
+\@cmidlb=\count294
 \@aboverulesep=\dimen172
 \@belowrulesep=\dimen173
-\@thisruleclass=\count293
-\@lastruleclass=\count294
+\@thisruleclass=\count295
+\@lastruleclass=\count296
 \@thisrulewidth=\dimen174
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/tools/array.sty
 Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
@@ -376,15 +372,15 @@ Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
 \ar@cellbox=\box59
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count295
-\calc@Bcount=\count296
+\calc@Acount=\count297
+\calc@Bcount=\count298
 \calc@Adimen=\dimen177
 \calc@Bdimen=\dimen178
 \calc@Askip=\skip60
 \calc@Bskip=\skip61
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count297
+\calc@Ccount=\count299
 \calc@Cskip=\skip62
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/mdwtools/footnote.sty
 Package: footnote 1997/01/28 1.13 Save footnotes around boxes
@@ -432,7 +428,7 @@ LaTeX Warning: Command \underline  has changed.
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip72
-\multirow@cntb=\count298
+\multirow@cntb=\count300
 \multirow@dima=\skip73
 \bigstrutjot=\dimen182
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/colortbl/colortbl.sty
@@ -454,50 +450,50 @@ File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )))) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen183
 \WF@size=\dimen184
-\c@WF@wrappedlines=\count299
+\c@WF@wrappedlines=\count301
 \WF@box=\box61
 \WF@everypar=\toks29
 Package: wrapfig 2003/01/31  v 3.6
 )
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdfte
 x.def
-File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count300
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count302
 \l__pdf_internal_box=\box62
 ) (./index.aux)
 \openout1 = `index.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 118.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 117.
 LaTeX Font Info:    Trying to load font information for T3+cmr on input line 11
-8.
+7.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Info: Redefining \microtypecontext on input line 118.
-Package microtype Info: Applying patch `item' on input line 118.
-Package microtype Info: Applying patch `toc' on input line 118.
-Package microtype Info: Applying patch `eqnum' on input line 118.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Info: Redefining \microtypecontext on input line 117.
+Package microtype Info: Applying patch `item' on input line 117.
+Package microtype Info: Applying patch `toc' on input line 117.
+Package microtype Info: Applying patch `eqnum' on input line 117.
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 118.
+Package microtype Warning: Unable to apply patch `footnote' on input line 117.
 
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -505,7 +501,7 @@ Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 118.
+LaTeX Info: Redefining \showhyphens on input line 117.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -515,16 +511,16 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 )
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count301
+\scratchcounter=\count303
 \scratchdimen=\dimen185
 \scratchbox=\box63
-\nofMPsegments=\count302
-\nofMParguments=\count303
+\nofMPsegments=\count304
+\nofMParguments=\count305
 \everyMPshowfont=\toks30
-\MPscratchCnt=\count304
+\MPscratchCnt=\count306
 \MPscratchDim=\dimen186
-\MPnumerator=\count305
-\makeMPintoPDFobject=\count306
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
 \everyMPtoPDFconversion=\toks31
 )
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-bas
@@ -538,7 +534,7 @@ cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 118.
+Package hyperref Info: Link coloring OFF on input line 117.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
@@ -548,11 +544,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 string.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count307
+\c@section@level=\count309
 )
-LaTeX Info: Redefining \ref on input line 118.
-LaTeX Info: Redefining \pageref on input line 118.
-LaTeX Info: Redefining \nameref on input line 118.
+LaTeX Info: Redefining \ref on input line 117.
+LaTeX Info: Redefining \pageref on input line 117.
+LaTeX Info: Redefining \nameref on input line 117.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -587,69 +583,60 @@ LaTeX Info: Redefining \nameref on input line 118.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<osrrl.png, id=4, 124.7862pt x 144.54pt>
-File: osrrl.png Graphic file (type png)
-<use osrrl.png>
-Package pdftex.def Info: osrrl.png  used on input line 121.
+<intro_phonetics_grad.png, id=4, 124.7862pt x 144.54pt>
+File: intro_phonetics_grad.png Graphic file (type png)
+<use intro_phonetics_grad.png>
+Package pdftex.def Info: intro_phonetics_grad.png  used on input line 120.
 (pdftex.def)             Requested size: 101.17906pt x 117.19583pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
-
- []
-
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-66.
+61.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-66.
+61.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-66.
+61.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-166.
+161.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-166.
+161.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 166.
+(Font)              <10> on input line 161.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 166.
+(Font)              <7> on input line 161.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 166.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 166
+(Font)              <5> on input line 161.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 161
 .
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 166
+LaTeX Font Info:    Trying to load font information for U+msb on input line 161
 .
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 166--168
-
- []
-
-<ru_logo.pdf, id=9, 476.78125pt x 129.48375pt>
+<ru_logo.pdf, id=8, 476.78125pt x 129.48375pt>
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 210.
+Package pdftex.def Info: ru_logo.pdf  used on input line 207.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -662,10 +649,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [1{/Users/casillas/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 }
 
- <./ru_logo.pdf> <./osrrl.png>]
+ <./ru_logo.pdf> <./intro_phonetics_grad.png>]
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 284.
+Package pdftex.def Info: ru_logo.pdf  used on input line 287.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -675,10 +662,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-25.74313pt}.
 
-[2]
+[2
+
+]
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 376.
+Package pdftex.def Info: ru_logo.pdf  used on input line 389.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -688,19 +677,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-25.74313pt}.
 
-[3]
-Overfull \hbox (1.25159pt too wide) in paragraph at lines 405--406
- []\T1/lmr/m/n/10 (-20) Week 
- []
+[3
 
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 4
-16.
-(/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
+]
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 456.
+Package pdftex.def Info: ru_logo.pdf  used on input line 457.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -710,27 +692,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-25.74313pt}.
 
-[4] (./index.aux) ) 
+[4
+
+]
+File: ru_logo.pdf Graphic file (type pdf)
+<use ru_logo.pdf>
+Package pdftex.def Info: ru_logo.pdf  used on input line 498.
+(pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 37.74313pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.74313pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-25.74313pt}.
+
+[5
+
+] (./index.aux) ) 
 Here is how much of TeX's memory you used:
- 14876 strings out of 480295
- 235706 string characters out of 5895495
- 581120 words of memory out of 5000000
- 32377 multiletter control sequences out of 15000+600000
- 444938 words of font info for 94 fonts, out of 8000000 for 9000
+ 14794 strings out of 480218
+ 234411 string characters out of 5893916
+ 557422 words of memory out of 5000000
+ 32386 multiletter control sequences out of 15000+600000
+ 516395 words of font info for 95 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 74i,16n,77p,1002b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/Users/casillas/Library/TinyTeX/texmf-dist/fonts/enc/dvips/
-lm/lm-ec.enc}{/Users/casillas/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-
-ts1.enc}</Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx1
-0.pfb></Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.
-pfb></Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb
-></Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></U
-sers/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Use
-rs/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on index.pdf (4 pages, 237561 bytes).
+ 74i,15n,77p,1002b,367s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/Users/casillas/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm
+/lm-ec.enc}{/Users/casillas/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts
+1.enc}</Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.
+pfb></Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pf
+b></Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb><
+/Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></Use
+rs/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
+Output written on index.pdf (5 pages, 210000 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 154 compressed objects within 2 object streams
- 44 named destinations out of 1000 (max. 500000)
- 20627 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 174 PDF objects out of 1000 (max. 8388607)
+ 150 compressed objects within 2 object streams
+ 43 named destinations out of 1000 (max. 500000)
+ 24715 words of extra memory for PDF output out of 24883 (max. 10000000)
 

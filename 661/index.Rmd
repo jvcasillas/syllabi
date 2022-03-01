@@ -16,8 +16,8 @@ output:
 \end{wrapfigure}
 
 
-01:940:661:01 <!-- - Spring 2019-->  
-<!--Meetings: AB 5190, Thursdays, 08:10--11:10-->  
+01:940:661:01 - Spring 2019  
+Meetings: AB 5190, Thursdays, 08:10--11:10  
 
 Professor: Joseph V. Casillas, PhD  
 Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
