@@ -3,19 +3,19 @@
 | Semana | Fecha | Tema                                                       | Tarea          |
 | :----- | :---- | :--------------------------------------------------------- | :------------- |
 |  1     | 09/07 | Intro al curso.                                            |                |
-|  2     | 09/14 | La sílaba. Diptongos. Hiatos.                              | R1             |
-|  3     | 09/21 | Consonantes [ʝ] y [w]. Diptongos y semivocales.            |                |
-|  4     | 09/28 | Sílabas, vocales y ritmo. Vocales en contacto. Schwa.      | R2             |
-|  5     | 10/05 | Fonética articulatoria: vocales.                           | R3, Entrega P1 |
-|  6     | 10/12 | Fonética articulatoria: consonantes.                       |                |
-|  7     | 10/19 | El fonema. Transcripción fonética.                         | R4             |
-|  8     | 10/26 | Oclusivas sordas, africadas.                               | R5, Entrega P2 |
-|  9     | 11/02 | Obstruyentes sonoras /b, d, g/ y /ʝ/.                      | R6             |
-|  10    | 11/09 | Fricativas: /f, s, x/.                                     | R7             |
-|  11    | 11/16 | Nasales y laterales.                                       | Entrega TP1    |
-|  12    | 11/23 | Vibrantes.                                                 | Entrega P3     |
-|  13    | 11/30 | Día de acción de gracias                                   | R8 (opcional)  |
-|  14    | 11/07 | Variación dialectal.                                       | R9             |
-|  15    | 12/14 | Variación dialectal.                                       | Entrega P4     |
-|        | 12/21 |                                                            | Entrega TP2    |
+|  2     | 09/14 | Clase cancelada                                            |                |
+|  3     | 09/21 | La sílaba. Diptongos. Hiatos.                              | R1             |
+|  4     | 09/28 | Consonantes [ʝ] y [w]. Diptongos y semivocales.            |                |
+|  5     | 10/05 | Sílabas, vocales y ritmo. Vocales en contacto. Schwa.      | R2             |
+|  6     | 10/12 | Fonética articulatoria: vocales.                           | R3, Entrega P1 |
+|  7     | 10/19 | Fonética articulatoria: consonantes.                       |                |
+|  8     | 10/26 | El fonema. Transcripción fonética.                         | R4             |
+|  9     | 11/02 | Oclusivas sordas, africadas.                               | R5, Entrega P2 |
+|  10    | 11/09 | Obstruyentes sonoras /b, d, g/ y /ʝ/.                      | R6             |
+|  11    | 11/16 | Fricativas: /f, s, x/.                                     | R7             |
+|  12    | 11/23 | Nasales y laterales.                                       | Entrega TP1    |
+|  13    | 11/30 | Vibrantes.                                                 | Entrega P3     |
+|  14    | 12/07 | Variación dialectal.                                       | R8             |
+|  15    | 12/14 | Variación dialectal.                                       | R9, Entrega P4 |
+|  16    | 12/21 |                                                            | Entrega TP2    |
 
