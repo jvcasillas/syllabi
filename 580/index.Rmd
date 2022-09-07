@@ -28,7 +28,7 @@ output:
 Profesor: Joseph V. Casillas, Ph.D.  
 Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
 Oficina: AB 5174  
-Horas de consulta: lunes 11:30 - 12:50, jueves después de clase, mediante cita
+Horas de consulta: viernes 11:00 - 12:00, miércoles antes de clase, mediante cita
 
 
 # Materiales
@@ -109,9 +109,11 @@ corresponds to your placement.
 
 # Fechas importantes
 
-La asignatura comienza el día 1 de septiembre y termina el día 22 de diciembre. 
-El último día para dejar la clase es el día 9 de septiembre.
+La asignatura comienza el día 7 de septiembre y termina el día 14 de diciembre. 
+El último día para dejar la clase es el día 14 de septiembre.
 
+\clearpage
+\phantom{.}
 
 # Calificaciones
 
@@ -132,6 +134,7 @@ Pruebas (en casa)           & 20\%       & & C   & 70--76 \\
 \end{tabular}
 \end{center}
 
+\vspace{0.2in}
 
 ### Preparación, participación y actitud
 
@@ -184,7 +187,7 @@ el resto de las pruebas.
 ### Trabajo práctico 1 - Evaluación fonética
 
 Cada estudiante recibirá dos grabaciones de un aprendiz de español como L2. 
-La grabaciones son de un ejercicio que hizo el aprendiz al principio y al 
+Las grabaciones son de un ejercicio que hizo el aprendiz al principio y al 
 final de una clase. 
 El trabajo del estudiante consiste en llevar a cabo una evaluación fonética 
 del habla del aprendiz.
@@ -193,6 +196,8 @@ destacan las áreas en las que el aprendiz mejoró (o no).
 Asimismo, el estudiante desarrollará un plan personalizado para que el 
 aprendiz continúe mejorando su pronunciación.
 
+\clearpage
+\phantom{.}
 
 ### Trabajo práctico 2 - Ejercicio de pronunciación
 
@@ -212,7 +217,8 @@ El propósito de este trabajo práctico es ayudar al alumno a desarrollar su
 portafolio MAT. 
 Por esta razón se recomienda que el estudiante tenga este objetivo en cuenta 
 durante el desarrollo del proyecto. 
-Para más información consulta [https://tlc.rutgers.edu/wlimain/mat-portfolio-independent-study](https://tlc.rutgers.edu/wlimain/mat-portfolio-independent-study). 
+Para más información consulta  
+[https://tlc.rutgers.edu/wlimain/mat-portfolio-independent-study](https://tlc.rutgers.edu/wlimain/mat-portfolio-independent-study). 
 
 
 
@@ -295,8 +301,10 @@ https://policies.rutgers.edu/10213-currentpdf
 \vspace{.1in}
 \hrule
 
-\vspace{0.3in}
 \normalsize
+
+\clearpage
+\phantom{.}
 
 Para más información, visiten http://nbacademicintegrity.rutgers.edu. 
 Para ver formas en que podemos evitar el plagio, visiten 
@@ -377,6 +385,8 @@ después de clase.
 Note: If you send me an email with your favorite meme you automatically get 
 an A for participation this week and next. 
 
+\clearpage
+\phantom{.}
 
 ### Estudiantes con dificultades de aprendizaje 
 
@@ -420,11 +430,12 @@ más exactas más adecuadas al ritmo de la clase.
 
 \vspace{.2in}
 
-```{r, child="./temario/temario_f2020.Rmd"}
+```{r, child="./temario/temario_f2022.Rmd"}
 ```
 
 \clearpage
+\phantom{.}
 
-```{r load-refs, child="../../span_580/refs/readings/refs_child.Rmd"}
+```{r load-refs, child="../../spanphon/span_580/refs/readings/refs_child.Rmd"}
 ```
 
