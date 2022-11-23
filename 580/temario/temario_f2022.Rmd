@@ -14,8 +14,8 @@
 |  9     | 11/09 | Obstruyentes sonoras /b, d, g/ y /ʝ/.                      | R6             |
 |  10    | 11/16 | Fricativas: /f, s, x/.                                     | R7             |
 |  11    | 11/23 | Nasales y laterales.                                       | Entrega TP1    |
-|  12    | 11/30 | Vibrantes.                                                 | Entrega P3     |
+|  12    | 11/30 | Vibrantes.                                                 |                |
 |  13    | 12/07 | Variación dialectal.                                       | R8             |
-|  14    | 12/14 | Variación dialectal.                                       | R9, Entrega P4 |
+|  14    | 12/14 | Variación dialectal.                                       | R9, Entrega P3 |
 |  15    | 12/21 |                                                            | Entrega TP2    |
 
