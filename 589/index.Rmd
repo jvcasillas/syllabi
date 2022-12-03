@@ -3,7 +3,7 @@ title        :
 author       : ""
 date         : ""
 fontsize     : 10pt
-geometry     : vmargin=1in, hmargin=0.75in, headsep=.5in
+geometry     : vmargin=1in, hmargin=1in, headsep=.5in
 bibliography : refs/bib/ds4ling_refs.bib
 csl          : refs/bib/apa.csl
 output:
@@ -23,28 +23,22 @@ output:
 \end{wrapfigure}
 
 
-01:940:660:01 - Spring 2021  
-Meetings: Online, 08:10--11:10  
+01:940:589:01 - Spring 2023  
+Meetings: AB 5190, 10:20--13:20  
 Professor: Joseph V. Casillas, PhD  
 Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
-Office: Via Zoom  
+Office: AB 5174  
 Office hours: by appointment
+
+\vspace{0.2in}
 
 # Course description
 
-In this course students examine the fundamental principles of doing 
-experimental research in linguistics. Specifically, the focus is on developing 
-an in depth understanding of the experimental paradigms and statistical 
-procedures used in sociolinguistics, phonetics, psycholinguistics, syntax, and 
-corpus linguistics. While a large part of the class will be spent on basics of 
-how to analyze quantitative data, another goal of the class is to examine the 
-statistical analyses which appear in actual published linguistic literature, 
-and to discuss how students’ current and future research might be analyzed 
-statistically. Students will learn advanced techniques used to explore, 
-tidy, visualize, and analyze data. We will also focus on how to make the 
-aforementioned procedures reproducible and shareable. Students will develop a 
-foundation in programming in R, as well as learning the most common tools at 
-the disposal of todays data scientist (i.e. GitHub, Knitr, etc.).  
+In this course students examine the fundamental principles of doing experimental research in linguistics. 
+Specifically, the focus is on developing an in depth understanding of the experimental paradigms and statistical procedures used in sociolinguistics, phonetics, psycholinguistics, syntax, and corpus linguistics. 
+While a large part of the class will be spent on basics of how to analyze quantitative data, another goal of the class is to examine the statistical analyses which appear in actual published linguistic literature, and to discuss how students' current and future research might be analyzed statistically. 
+Students will learn advanced techniques used to explore, tidy, visualize, and analyze data. 
+We will also focus on how to make the aforementioned procedures reproducible and shareable. Students will develop a foundation in programming in R, as well as learning the most common tools at the disposal of todays data scientist (i.e. GitHub, Knitr, etc.).  
 **Prerequisites**: No prior experience with statistics or programming is necessary.
 
 
@@ -53,7 +47,7 @@ the disposal of todays data scientist (i.e. GitHub, Knitr, etc.).
 
 ### Class websites
 
-- Canvas: https://rutgers.instructure.com/courses/113952
+- Canvas: https://rutgers.instructure.com/courses/221415/
 - Class website: https://ds4ling.github.io  
 
 ### Books
@@ -118,7 +112,7 @@ print(bib[key = "hardy1993regression"],
 Students will receive a package of readings to be distributed in electronic format (.pdf).
 
 
-
+\clearpage
 
 # Coursework
 
@@ -145,7 +139,8 @@ Research project              & 20\%       & & C  & 70--76  \\
 ### Preparation and participation
 
 Students are expected to attend class prepared and to actively participate. 
-Part of this grade is derived from reading summaries. Students will occasionally be required to write a brief summary (max. 1 page) of the weekly readings and answer assigned questions. 
+Part of this grade is derived from reading summaries. 
+Students will occasionally be required to write a brief summary (max. 1 page) of the weekly readings and answer assigned questions.
 
 ### Programming assignments
 
@@ -164,12 +159,9 @@ Aside from creating an online presentation, students will also be required to re
 
 ### Midterm exam
 
-<!--
-There will be an in-class exam during the 11th week of the semester (April 
-3rd). Details will be provided beforehand. 
--->
-In reality the midterm exam is just another programming assignment that is worth more points. 
-It will be due during the 11th week of the semester. 
+
+There will be an in-class exam during the 13th week of the semester (April 
+24th). 
 Details will be provided beforehand. 
 
 ### Research Project
@@ -201,12 +193,11 @@ Project due dates will be established in class, but can be expected to be due se
 The manuscript will be a write up of the methods/results sections of a research 
 article. 
 The focus is on clearly and accurately explaining the statistical analyses used in the project and appropriately interpreting the results. 
-The paper must be a literate document written in RMarkdown using ```papaja```. 
+The paper must be a literate document written in RMarkdown using `papaja`. 
 We will demo this in class.
 
 \textcolor{RUred}{Presentation}:
-Students will present their work in a semi-finished state during the final 
-week of the semester (10 min. presentation + 5 min. for questions). 
+Students will present their work in a semi-finished state during the final week of the semester (10 min. presentation + 5 min. for questions). 
 The slides of this presentation are part of the project and must also be hosted on GitHub.
 
 \textcolor{RUred}{Peer review}:
@@ -224,8 +215,7 @@ The point of this exercise is to help the author make the final product better.
 
 # Department rules and course policy
 
-The course is designed to satisfy the learning goals of the Department of 
-Spanish and Portuguese. 
+The course is designed to satisfy the learning goals of the Department of Spanish and Portuguese. 
 More information available at: http://span-port.rutgers.edu/learning-goals
 
 ### Communication
@@ -291,17 +281,20 @@ Rutgers University welcomes students with disabilities into all of the  Universi
 In order to receive consideration for reasonable accommodations, a student with a disability must contact the appropriate disability services office at the campus where you are officially enrolled, participate in an intake interview, and provide documentation:  
 [https://ods.rutgers.edu/students/documentation-guidelines](https://ods.rutgers.edu/students/documentation-guidelines).  
 
-If the documentation supports your request for reasonable accommodations, your  campus’s disability services office will provide you with a Letter of
+If the documentation supports your request for reasonable accommodations, your  campus's disability services office will provide you with a Letter of
 Accommodations. 
 Please share this letter with your instructors and discuss the accommodations with them as early in your courses as possible. 
-To begin this process, please complete the Registration form on the ODS web site at:  
-[https://ods.rutgers.edu/students/registration-form](https://ods.rutgers.edu/students/registration-form).
+To begin this process, please complete the Registration form on the ODS web site at: [https://ods.rutgers.edu/students/registration-form](https://ods.rutgers.edu/students/registration-form).
 
+## Tentative schedule (subject to change)
 
-\clearpage
+\renewcommand{\arraystretch}{1.2}
 
-\phantom{.}
-\vspace{0.2in}
-
-```{r, temario-589, child="./calendar/calendar_s2021.Rmd"}
+```{r}
+#| label: temario-589
+#| echo: false
+readRDS(here::here("589", "calendar", "calendar_s2023.rds")) |> 
+  dplyr::select(Date, Stats, Programming) |>
+  knitr::kable(format = "latex", booktabs = TRUE, linesep = "") |> 
+  kableExtra::kable_styling(latex_options = c("striped", "HOLD_position"))
 ```
