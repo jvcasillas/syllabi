@@ -1,0 +1,475 @@
+---
+geometry       : vmargin=1.0in, hmargin=0.75in, headsep=0.5in
+bibliography   : ../bib/ds4ling_refs.bib
+csl            : ../bib/apa.csl
+output:
+  pdf_document:
+    toc: no
+    highlight: pygments
+    includes:
+      in_header: header.tex
+---
+
+
+
+
+01:940:589:01 - Spring 2021  
+Meetings: via Zoom, 08:10--11:10  
+
+Professor: Joseph V. Casillas, PhD  
+Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
+Office: AB 5174  
+Office hours: by appointment
+
+**Note**: Readings must be completed *before* the class that occurs 
+in the assigned week (i.e., readings assigned for week 2 will be 
+discussed *in* the week 2 class, thus they should be read *before*.).
+
+```{r, eval=TRUE, echo=FALSE, cache=FALSE, message=FALSE, warnings=FALSE}
+library(RefManageR)
+bib <- ReadBib("../bib/ds4ling_refs.bib", check = FALSE)
+```
+
+
+
+
+
+
+
+# Week 2: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+ui <- "-"
+writeLines(ui); print(bib["wickham2015"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["r4ds_preface"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["r4ds_ch1"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["r4ds_ch2"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["qml_ch1"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+
+```
+
+### Additional resources
+
+- [Field Guide to the R Ecosystem (highly recommended)](http://fg2re.sellorm.com)
+- [Data science and R: How do I start?](https://medium.com/@kierisi/data-science-and-r-how-do-i-start-7a87426e103e)
+- [GitHub for the useR](http://happygitwithr.com)
+- [Using Git and GitHub](https://biodatascience.github.io/compbio/github.html)
+- [Getting help](https://dcl-2017-04.github.io/curriculum/getting-help.html)
+
+
+
+
+
+
+
+
+
+
+
+# Week 3: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["qml_ch2"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["r4ds_ch3"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+- [R for excel users](http://rex-analytics.com/r-for-excel-users/)
+
+### Additional resources
+
+- [RMarkdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+- [RMarkdown reference](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+- [Getting started with RMarkdown](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/)
+- [ggplot2 cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf)
+- [Secrets to a happy graphing life](http://stat545.com/block016_secrets-happy-graphing.html)
+- [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php)
+
+
+
+
+
+
+
+
+
+# Week 4: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["qml_ch2"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["r4ds_ch4"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["r4ds_ch5"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+### Additional resources
+
+- [The tidyverse style guide](http://style.tidyverse.org)
+- [reprex 1](https://dcl-2017-04.github.io/curriculum/reprexes.html)
+- [reprex 2](https://github.com/tidyverse/reprex#what-is-a-reprex)
+- [Data structure basics](https://dcl-2017-04.github.io/curriculum/data-structure-basics.html)
+- [Correlation game](https://gallery.shinyapps.io/correlation_game/)
+- [Standardizing and correlations](https://richarddmorey.shinyapps.io/standardizing_and_correlations/)
+
+
+
+
+
+
+
+
+
+
+
+
+# Week 5: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["qass22_ch1"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["r4ds_ch6"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["r4ds_ch9"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+### Additional resources
+
+- [tidyr tutorial](http://www.jvcasillas.com/tidyr_tutorial/)
+- [Tidy data](https://www.jstatsoft.org/article/view/v059i10)
+- [Non-tidy data](https://simplystatistics.org/2016/02/17/non-tidy-data/)
+- [Creating new variables with mutate and ifelse (advanced)](https://rstudio-pubs-static.s3.amazonaws.com/116317_e6922e81e72e4e3f83995485ce686c14.html#/)
+
+
+
+
+
+
+
+
+
+
+
+# Week 6: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["qass57_ch1"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["qass22_ch2"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["r4ds_ch8"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["r4ds_ch21"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+- [Slidify tutorial](www.jvcasillas.com/slidify_tutorial/index.html)
+
+
+### Additional resources
+
+- [Fit-a-line](http://shinyapps.org/showapp.php?app=http://lmpp10e-mucesm.srv.mwn.de:3838/felix/lmfit&by=Felix%20Schönbrodt&title=Find-a-fit!&shorttitle=Find-a-fit!)
+- [Simple linear regression game](https://gallery.shinyapps.io/simple_regression/)
+- [Bivariate linear regression (shiny)](https://jvcasill.shinyapps.io/shiny_bivariate_regression/)
+
+
+
+
+
+
+
+
+
+# Week 7: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["qass22_ch3"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["qass57_ch2"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+- [xaringan tutorial 1](https://slides.yihui.name/xaringan/#1)
+- [xaringan tutorial 2](http://www.jvcasillas.com/ru_xaringan/slides/index.html#1)
+
+
+
+### Additional resources
+
+- [R Markdown presentations](https://dcl-2017-04.github.io/curriculum/rmarkdown-formats.html)
+- [Model choices/interactions](https://gallery.shinyapps.io/multi_regression/)
+- [Diagnostics for simple linear regression](https://gallery.shinyapps.io/slr_diag/)
+
+
+
+
+
+
+# Week 8: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["qass57_ch5"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["qass50_ch2"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["qass50_ch4"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+- [papaja documentation](https://github.com/crsh/papaja): Read documentation, 
+install package and play with demo example.
+
+
+### Additional resources
+
+- [Multicollinearity](https://gallery.shinyapps.io/collinearity/)
+- [papaja: Reproducible APA manuscripts with R Markdown (skim)](https://crsh.github.io/papaja_man/)
+- [More papaja](https://rpubs.com/YaRrr/papaja_guide)
+- [R Markdown with papaja (video pt. 1)](https://www.youtube.com/watch?v=I_HW5Rraqg8)
+- [R Markdown with papaja (video pt. 2)](https://www.youtube.com/watch?v=dmB6sHDbs7Q)
+
+
+
+
+
+
+
+# Spring break (highly recommended walk through): 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["r4ds_ch18"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["r4ds_ch19"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+
+
+
+
+# Week 9: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["qass93_ch2"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["qass93_ch3"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["qass93_ch4"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+### Additional resources
+
+- [Model choices/interactions](https://gallery.shinyapps.io/multi_regression/)
+- [The power of multiple regression](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/QuantCore/QuantCore11-Regression/QuantCore11-Regression4.html)
+- [StackOverflow question w/ good answer](https://stats.stackexchange.com/questions/94010/understanding-dummy-manual-or-automated-variable-creation-in-glm)
+- [Dummy variables (video)](https://www.youtube.com/watch?v=2s8AwoKZ-UE)
+
+
+
+
+
+
+
+# Week 10: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["qass93_ch5"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+### Additional resources
+
+- [Coding systems](https://stats.idre.ucla.edu/r/library/r-library-contrast-coding-systems-for-categorical-variables/)
+- [Coding schemes for categorical variables in regression](http://www.mypolyuweb.hk/~sjpolit/coding_schemes.html)
+
+
+
+
+
+
+# Week 11: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["stat_rethink_ch9"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+
+writeLines(ui); print(bib["gelman_hill_ch6"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+### Additional resources
+
+- [Generalised Linear Models in R](https://magesblog.com/post/2015-08-04-generalised-linear-models-in-r/)
+- [Shiny GLM](https://jvcasill.shinyapps.io/shiny_glm/)
+- [When to use logistic regression](http://logisticregressionanalysis.com/33-when-to-use-logistic-regression/)
+- [Why regular regression does NOT work](http://logisticregressionanalysis.com/55-why-regular-regression-does-not-work/)
+- [What is (multivariate) logistic regression](http://logisticregressionanalysis.com/86-what-is-logistic-regression/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Week 12: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["gelman_hill_ch5"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+### Additional resources
+
+- [What a Multivariate Logistic Regression Data Set Looks Like: An Example](http://logisticregressionanalysis.com/303-what-a-logistic-regression-data-set-looks-like-an-example/)
+- [A little about logs](http://logisticregressionanalysis.com/110-a-little-about-logs/)
+- [About odds and odds ratios](http://logisticregressionanalysis.com/160-about-odds-and-odds-ratios/)
+- [Understanding Logistic Regression Output](http://logisticregressionanalysis.com/376-understanding-logistic-regression-output-part1/)
+- [Sample sizes](http://logisticregressionanalysis.com/1532-how-big-a-sample-how-many-x-variables/)
+
+
+
+# Week 13: 
+
+### Reading
+
+- TBD
+
+# Week 14: 
+
+### Reading
+
+- TBD
+
+
+
+
+
+

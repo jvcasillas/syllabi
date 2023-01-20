@@ -1,0 +1,63 @@
+language and racial justice
+
+Language, ideology, and discrimination in the United States
+
+AAVE
+Spanish in the US
+
+
+Language variation and change
+
+myths about language
+  - non-accent myths
+  - standard language myth
+
+language subordination 
+
+learning to discriminate
+
+
+"The process of language subordination targets not all variation, not all language varieties, but only those which are emblematic of differences in race, ethnicity, homeland, or other social allegiances which have been found to be less than good enough."
+
+"If as a nation we are agreed that it is not acceptable or good to discriminate on the grounds of skin color or ethnicity, gender or age, then by logical extension it is equally unacceptable to discriminate against language traits which are intimately linked to an individual’s sense and expression of self."
+
+"people are judged on the basis of language form rather than language content"
+
+becoming linguist(ic) activists
+
+"Language subordination is about taking away a basic human right: to speak freely in the mother tongue without intimidation, without standing in the shadow of other languages and peoples"
+
+
+
+
+
+In the current era of big data we are constantly flooded with information that aims to persuade us.
+Moreover, professionals in all fields are expected to communicate ideas clearly in order to persuade others. 
+Thus the ability to design and evaluate data visualizations has become an essential skill for every one to be successful in today's data driven world. 
+*Data Visualization for the Social Sciences*  introduces the principles and techniques of data visualization. 
+The emphasis of this course is on design and practical applications of data visualization. 
+The primary goals of this course are for students to become better data storytellers, develop the skills needed to design and critique visualizations using data visualization theory and principles, and identify weaknesses of widely-used plots. 
+Furthermore, students will come to understand how different data types impact design decisions.
+To this end, the course was designed with a focus on communication with data, as well as the use of current analytic tools. 
+Specifically, through hands-on experience using the statistical programming language R, students will obtain a formal grounding in designing their own data visualizations,  which will help them improve their own slides and presentations and effectively evaluate those of others. 
+
+
+
+
+Shiboleth siboleth bible example of linguistic profiling
+
+
+
+
+
+
+
+Lippi-Green, R. (2012). English with an accent: Language, ideology, and discrimination in the United States. Routledge.
+
+Case studies
+
+Reflection exercises (reflect on your own attitudes toward non‐ standard language or accents; some also require gathering information from other people and comparing their responses)
+
+Reading responses
+
+Group project (identify a set of speakers targeted by linguistic prejudice & some documented negative outcome of linguistic discrimination and propose steps towards mitigation)
