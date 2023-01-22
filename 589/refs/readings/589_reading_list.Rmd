@@ -13,17 +13,15 @@ output:
 
 
 
-01:940:589:01 - Spring 2021  
-Meetings: via Zoom, 08:10--11:10  
+01:940:589:01 - Spring 2023  
+Meetings: Mondays, 10:20--13:20  
 
 Professor: Joseph V. Casillas, PhD  
 Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
 Office: AB 5174  
 Office hours: by appointment
 
-**Note**: Readings must be completed *before* the class that occurs 
-in the assigned week (i.e., readings assigned for week 2 will be 
-discussed *in* the week 2 class, thus they should be read *before*.).
+**Note**: Readings must be completed *before* the class that occurs in the assigned week (i.e., readings assigned for week 2 will be discussed *in* the week 2 class, thus they should be read *before*).
 
 ```{r, eval=TRUE, echo=FALSE, cache=FALSE, message=FALSE, warnings=FALSE}
 library(RefManageR)
@@ -104,14 +102,14 @@ writeLines(ui); print(bib["r4ds_ch3"],
                                    bib.style = "authoryear", 
                                    dashed = TRUE))
 ```
-- [R for excel users](http://rex-analytics.com/r-for-excel-users/)
 
 ### Additional resources
 
-- [RMarkdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+- [R for excel users](https://rstudio-conf-2020.github.io/r-for-excel/)
+- [RMarkdown cheatsheet](https://posit.co/wp-content/uploads/2022/10/rmarkdown-1.pdf)
 - [RMarkdown reference](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
 - [Getting started with RMarkdown](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/)
-- [ggplot2 cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf)
+- [ggplot2 cheatsheet](https://posit.co/wp-content/uploads/2022/10/data-visualization-1.pdf)
 - [Secrets to a happy graphing life](http://stat545.com/block016_secrets-happy-graphing.html)
 - [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php)
 
@@ -189,10 +187,11 @@ writeLines(ui); print(bib["r4ds_ch9"],
 
 ### Additional resources
 
-- [tidyr tutorial](http://www.jvcasillas.com/tidyr_tutorial/)
+- [tidyr tutorial](https://www.jvcasillas.com/tidyr_tutorial/)
 - [Tidy data](https://www.jstatsoft.org/article/view/v059i10)
-- [Non-tidy data](https://simplystatistics.org/2016/02/17/non-tidy-data/)
+- [Non-tidy data](https://simplystatistics.org/posts/2016-02-17-non-tidy-data/)
 - [Creating new variables with mutate and ifelse (advanced)](https://rstudio-pubs-static.s3.amazonaws.com/116317_e6922e81e72e4e3f83995485ce686c14.html#/)
+
 
 
 
@@ -279,6 +278,37 @@ writeLines(ui); print(bib["qass57_ch2"],
 
 
 
+
+
+# Spring break (highly recommended walk through): 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["r4ds_ch18"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["r4ds_ch19"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+Corresponds with chapters [22][22], [23][23], [24][24], and [25][25] online. 
+
+[22]: http://r4ds.had.co.nz/model-intro.html
+[23]: https://r4ds.had.co.nz/model-basics.html
+[24]: https://r4ds.had.co.nz/model-building.html
+[25]: https://r4ds.had.co.nz/many-models.html
+
+
+
+
+
+
 # Week 8: 
 
 ### Reading
@@ -300,14 +330,13 @@ writeLines(ui); print(bib["qass50_ch4"],
                                    bib.style = "authoryear", 
                                    dashed = TRUE))
 ```
-- [papaja documentation](https://github.com/crsh/papaja): Read documentation, 
+- [papaja documentation](https://frederikaust.com/papaja_man/): Read documentation, 
 install package and play with demo example.
 
 
 ### Additional resources
 
 - [Multicollinearity](https://gallery.shinyapps.io/collinearity/)
-- [papaja: Reproducible APA manuscripts with R Markdown (skim)](https://crsh.github.io/papaja_man/)
 - [More papaja](https://rpubs.com/YaRrr/papaja_guide)
 - [R Markdown with papaja (video pt. 1)](https://www.youtube.com/watch?v=I_HW5Rraqg8)
 - [R Markdown with papaja (video pt. 2)](https://www.youtube.com/watch?v=dmB6sHDbs7Q)
@@ -315,25 +344,6 @@ install package and play with demo example.
 
 
 
-
-
-
-# Spring break (highly recommended walk through): 
-
-### Reading
-
-```{r, results='asis', echo=FALSE, eval=TRUE}
-writeLines(ui); print(bib["r4ds_ch18"], 
-                      .opts = list(check.entries = TRUE, 
-                                   style = "latex", 
-                                   bib.style = "authoryear", 
-                                   dashed = TRUE))
-writeLines(ui); print(bib["r4ds_ch19"], 
-                      .opts = list(check.entries = TRUE, 
-                                   style = "latex", 
-                                   bib.style = "authoryear", 
-                                   dashed = TRUE))
-```
 
 
 
@@ -364,7 +374,6 @@ writeLines(ui); print(bib["qass93_ch4"],
 ### Additional resources
 
 - [Model choices/interactions](https://gallery.shinyapps.io/multi_regression/)
-- [The power of multiple regression](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/QuantCore/QuantCore11-Regression/QuantCore11-Regression4.html)
 - [StackOverflow question w/ good answer](https://stats.stackexchange.com/questions/94010/understanding-dummy-manual-or-automated-variable-creation-in-glm)
 - [Dummy variables (video)](https://www.youtube.com/watch?v=2s8AwoKZ-UE)
 
@@ -407,6 +416,12 @@ writeLines(ui); print(bib["stat_rethink_ch9"],
                                    bib.style = "authoryear", 
                                    dashed = TRUE))
 
+writeLines(ui); print(bib["gelman_hill_ch5"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+
 writeLines(ui); print(bib["gelman_hill_ch6"], 
                       .opts = list(check.entries = TRUE, 
                                    style = "latex", 
@@ -439,7 +454,7 @@ writeLines(ui); print(bib["gelman_hill_ch6"],
 ### Reading
 
 ```{r, results='asis', echo=FALSE, eval=TRUE}
-writeLines(ui); print(bib["gelman_hill_ch5"], 
+writeLines(ui); print(bib["brown2021"], 
                       .opts = list(check.entries = TRUE, 
                                    style = "latex", 
                                    bib.style = "authoryear", 
@@ -448,11 +463,10 @@ writeLines(ui); print(bib["gelman_hill_ch5"],
 
 ### Additional resources
 
-- [What a Multivariate Logistic Regression Data Set Looks Like: An Example](http://logisticregressionanalysis.com/303-what-a-logistic-regression-data-set-looks-like-an-example/)
-- [A little about logs](http://logisticregressionanalysis.com/110-a-little-about-logs/)
-- [About odds and odds ratios](http://logisticregressionanalysis.com/160-about-odds-and-odds-ratios/)
-- [Understanding Logistic Regression Output](http://logisticregressionanalysis.com/376-understanding-logistic-regression-output-part1/)
-- [Sample sizes](http://logisticregressionanalysis.com/1532-how-big-a-sample-how-many-x-variables/)
+- [DeBruine & Barr (2021)](https://journals.sagepub.com/doi/10.1177/2515245920965119)
+- https://shiny.psy.gla.ac.uk/lmem_sim/
+- http://mfviz.com/hierarchical-models/
+
 
 
 
@@ -460,15 +474,25 @@ writeLines(ui); print(bib["gelman_hill_ch5"],
 
 ### Reading
 
-- TBD
+- [Bayesian thinking for toddlers](https://psyarxiv.com/w5vbp/)
+- [Seeing theory: Frequentist inference](https://seeing-theory.brown.edu/index.html#secondPage/chapter4)
+- [Seeing theory: Bayesian inference](https://seeing-theory.brown.edu/index.html#secondPage/chapter5)
+- [Basic Bayesian analysis](https://m-clark.github.io/easy-bayes/basic-bayesian-analysis.html)
 
-# Week 14: 
+### Additional reading
+
+- [Interactive visualization](https://rpsychologist.com/d3/bayes/)
+- https://www.tjmahr.com/bayesplot-satrdays-2019/#/
+
+
+
+# Readings to keep you occupied after S2023 
 
 ### Reading
 
-- TBD
-
-
+- [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/)
+- [Bayesian statistics with R](https://oliviergimenez.github.io/bayesian-stats-with-R/)
+- [An introduction to Bayesian Data Analysis for Cognitive Science](https://vasishth.github.io/bayescogsci/)
 
 
 
