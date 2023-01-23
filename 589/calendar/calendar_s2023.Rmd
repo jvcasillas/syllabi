@@ -20,55 +20,55 @@ syl <- list(
     Date = "Week 1: 01/23", 
     Topic = "Getting started. GitHub, R, and RStudio.", 
     Stats = "Getting started.",
-    Programming = "GitHub, R, and RStudio.", 
+    Programming = "GitHub, R, and RStudio. PA1 assigned.", 
     Reading = icn_r, 
     Slides = glue("{link_base}/slides/01_getting_started/\">{icn_s}</a>"), 
-    Assignment = icn_a
+    Assignment = glue("{link_base}/assignments/01/\">{icn_a}</a>")
   ), 
   wk2 = list(
     Date = "Week 2: 01/30", 
     Topic = "Distributions.", 
     Stats = "Variables, distributions.",
-    Programming = "RStudio projects, RMarkdown, ggplot. PA1 assigned.", 
+    Programming = "RStudio projects, RMarkdown, ggplot.", 
     Reading = glue("{link_base}/reading/02/\">{icn_r}</a>"), 
     Slides = glue("{link_base}/slides/02_distributions/\">{icn_s}</a>"), 
-    Assignment = glue("{link_base}/assignments/01/\">{icn_a}</a>") 
+    Assignment = icn_a 
   ), 
   wk3 = list(
     Date = "Week 3: 02/06", 
     Topic = "NHST, comparing means.", 
     Stats = "NHST, comparing means.", 
-    Programming =  "R basics, getting/tidying data, ggplot.", 
+    Programming =  "R basics, getting/tidying data, ggplot. PA2 assigned.", 
     Reading = glue("{link_base}/reading/03/\">{icn_r}</a>"), 
     Slides = glue("{link_base}/slides/03_nhst/\">{icn_s}</a>"), 
-    Assignment = icn_a
+    Assignment = glue("{link_base}/assignments/02/\">{icn_a}</a>")
   ), 
   wk4 = list(
     Date = "Week 4: 02/13", 
     Topic = "Bivariate correlation.", 
     Stats = "Bivariate correlation.",
-    Programming = "PA2 assigned, R basics, tidying data, ggplot.",
+    Programming = "R basics, tidying data, ggplot.",
     Reading = glue("{link_base}/reading/04/\">{icn_r}</a>"), 
     Slides = glue("{link_base}/slides/04_correlation/\">{icn_s}</a>"), 
-    Assignment = glue("{link_base}/assignments/02/\">{icn_a}</a>")
+    Assignment = icn_a
   ), 
   wk5 = list(
     Date = "Week 5: 02/20", 
     Topic = "The linear model/regression.", 
     Stats = "The linear model/regression.", 
-    Programming = "R basics, GitHub Pages.", 
+    Programming = "R basics, GitHub Pages. PA3 assigned.", 
     Reading = glue("{link_base}/reading/05/\">{icn_r}</a>"), 
     Slides = glue("{link_base}/slides/05_lm/01_bivariate_regression/\">{icn_s}</a>"), 
-    Assignment = icn_a
+    Assignment = glue("{link_base}/assignments/03/\">{icn_a}</a>")
   ), 
   wk6 = list(
     Date = "Week 6: 02/27", 
     Topic = "The linear model/regression.", 
     Stats = "The linear model/regression.",
-    Programming = "PA3 assigned, R basics, HTML presentations, slidify", 
+    Programming = "R basics, HTML presentations, slidify", 
     Reading = glue("{link_base}/reading/06/\">{icn_r}</a>"), 
     Slides = glue("{link_base}/slides/05_lm/02_assumptions_diagnostics/\">{icn_s}</a>"), 
-    Assignment = glue("{link_base}/assignments/03/\">{icn_a}</a>")
+    Assignment = icn_a
   ), 
   wk7 = list(
     Date = "Week 7: 03/06", 
