@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  28 JAN 2023 15:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  28 JAN 2023 17:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**589_reading_list.tex
-(./589_reading_list.tex
+**ldius_293_reading_schedule.tex
+(./ldius_293_reading_schedule.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-01-16> (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -410,8 +410,8 @@ File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count295
 \l__pdf_internal_box=\box56
-) (./589_reading_list.aux)
-\openout1 = `589_reading_list.aux'.
+) (./ldius_293_reading_schedule.aux)
+\openout1 = `ldius_293_reading_schedule.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 105.
 LaTeX Font Info:    ... okay on input line 105.
@@ -499,44 +499,10 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 13
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 133.
-(/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 133.
-(/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 133.
-(/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 133.
-(/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 133.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 133.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 133.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 133.
-(/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 133.
-(/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-<ru_logo.pdf, id=21, 476.78125pt x 129.48375pt>
+<ru_logo.pdf, id=5, 476.78125pt x 129.48375pt>
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 228.
+Package pdftex.def Info: ru_logo.pdf  used on input line 214.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -550,7 +516,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
  <./ru_logo.pdf>]
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 353.
+Package pdftex.def Info: ru_logo.pdf  used on input line 325.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -560,9 +526,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-25.74313pt}.
 
 [2]
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 379.
+(/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 379.
+(/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 379.
+(/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 379.
+(/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 379.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 379.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 379.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 379.
+(/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 379.
+(/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 473.
+Package pdftex.def Info: ru_logo.pdf  used on input line 383.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -571,44 +571,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-25.74313pt}.
 
-[3]
-File: ru_logo.pdf Graphic file (type pdf)
-<use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 589.
-(pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 37.74313pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.74313pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-25.74313pt}.
-
-[4]
-File: ru_logo.pdf Graphic file (type pdf)
-<use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 682.
-(pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 37.74313pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.74313pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-25.74313pt}.
-
-[5] (./589_reading_list.aux) ) 
+[3] (./ldius_293_reading_schedule.aux) ) 
 Here is how much of TeX's memory you used:
- 14442 strings out of 478031
- 230341 string characters out of 5838943
- 1871330 words of memory out of 5000000
- 34158 multiletter control sequences out of 15000+600000
- 551806 words of font info for 105 fonts, out of 8000000 for 9000
+ 14360 strings out of 478031
+ 229255 string characters out of 5838943
+ 1868330 words of memory out of 5000000
+ 34130 multiletter control sequences out of 15000+600000
+ 550434 words of font info for 93 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,16n,81p,1013b,532s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,16n,81p,1023b,533s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/casillas/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/Users/casillas/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on 589_reading_list.pdf (5 pages, 153297 bytes).
+Output written on ldius_293_reading_schedule.pdf (3 pages, 138566 bytes).
 PDF statistics:
- 350 PDF objects out of 1000 (max. 8388607)
- 328 compressed objects within 4 object streams
- 86 named destinations out of 1000 (max. 500000)
- 18758 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 198 PDF objects out of 1000 (max. 8388607)
+ 180 compressed objects within 2 object streams
+ 56 named destinations out of 1000 (max. 500000)
+ 18646 words of extra memory for PDF output out of 20736 (max. 10000000)
 

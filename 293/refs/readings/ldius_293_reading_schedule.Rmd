@@ -1,0 +1,268 @@
+---
+geometry       : vmargin=1.0in, hmargin=0.75in, headsep=0.5in
+bibliography   : ../bib/ldius.bib
+csl            : ../bib/apa.csl
+output:
+  pdf_document:
+    toc: no
+    highlight: pygments
+    includes:
+      in_header: header.tex
+---
+
+01:940:293:01 - Spring 2023  
+Meetings: Fridays, 10:20--13:20  
+
+Professor: Joseph V. Casillas, PhD  
+Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
+Office: AB 5174  
+Office hours: by appointment
+
+**Note**: Readings must be completed *before* the class that occurs 
+in the assigned week (i.e., readings assigned for week 2 will be 
+discussed *in* the week 2 class, thus they should be read *before*.).
+
+```{r}
+#| label: load-refs
+#| echo: false
+#| message: false
+library("RefManageR")
+library("here")
+bib <- ReadBib(here("293", "refs", "bib", "ldius.bib"), check = FALSE)
+```
+
+# Week 2: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+ui <- "-"
+writeLines(ui); print(bib["ewa_intro"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["ewa_ch1"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+
+```
+
+# Week 3: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["ewa_ch3"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+
+writeLines(ui); print(bib["ewa_ch4"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+
+# Week 4: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["ewa_ch6"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+
+writeLines(ui); print(bib["ewa_ch7"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+# Week 5: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["strangor_2009"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["becker_2018"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["kibler_2018"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["clopper_2018"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+# Week 6: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["ewa_ch10"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["smedley2005race"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+
+```
+
+# Week 7: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["ewa_ch10"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["ewa_ch14"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+
+```
+
+# Week 8: (no in class meeting)
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["ewa_ch10"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+# Week 9: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["ewa_ch11"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+# Week 10: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["ewa_ch13"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["rubin1990effects"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+# Week 11: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["ko2009stereotyping"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["campbell2007accent"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+
+```
+
+# Week 12: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["ewa_ch9"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+writeLines(ui); print(bib["anderson2014vocal"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+
+# Week 13: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["ewa_ch17"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+
+writeLines(ui); print(bib["purnell1999perceptual"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+```
+
+# Week 14: 
+
+### Reading
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib["ewa_ch18"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+
+writeLines(ui); print(bib["wolfram2013sound"], 
+                      .opts = list(check.entries = TRUE, 
+                                   style = "latex", 
+                                   bib.style = "authoryear", 
+                                   dashed = TRUE))
+
+```
+- HR Daily Advisor. 2016. “Avoiding Language Discrimination in the Workplace”:
+https://hrdailyadvisor.blr.com/2016/03/14/avoiding-language-discrimination-in-the- workplace/
+
