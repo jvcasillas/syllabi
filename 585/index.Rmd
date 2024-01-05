@@ -1,6 +1,6 @@
 ---
 geometry       : vmargin=1.0in, hmargin=0.75in
-bibliography   : refs/bib/span650.bib
+bibliography   : refs/bib/span585.bib
 csl            : refs/bib/apa.csl
 output:
   pdf_document:
@@ -15,8 +15,8 @@ output:
 \includegraphics[width=0.2\textwidth]{intro_phonetics_grad.png}
 \end{wrapfigure}
 
-01:940:650:01 - Spring 2022  
-Meetings: AB 5190, Monday, 10:20--13:20  
+01:940:585:01 - Spring 2024  
+Meetings: SPR 319, Monday, 10:20--13:20  
 
 Professor: Joseph V. Casillas, PhD  
 Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
@@ -40,13 +40,13 @@ Students will learn to use fundamental tools such as Praat (digital speech proce
 
 ## Class websites
 
-- Canvas: https://rutgers.instructure.com/courses/169347
+- Canvas: https://rutgers.instructure.com/courses/270998
 
 ## Recommended books
 
 ```{r, eval=TRUE, echo=FALSE, cache=FALSE, message=F}
 library(RefManageR)
-bib <- ReadBib("./refs/bib/span650.bib", check = FALSE)
+bib <- ReadBib("./refs/bib/span585.bib", check = FALSE)
 ```
 
 ### Phonetics/Phonology
@@ -125,7 +125,7 @@ Final paper                   & 25\%       & & C+ & 77--79 \\
 Students will write a brief summary (max. 1 page) of each reading (excluding chapters). 
 Summaries will be handed in via canvas dropbox the day before class meets, before 10pm.
 
-After the fourth week of class, students will begin to lead discussion for the readings assigned during the remainder of the course. 
+After approximately the fourth week of class, students will begin to lead discussion for the readings assigned during the remainder of the course. 
 Presentation order and assignments will be established during the first weeks of class. 
 The student responsible for leading discussion should prepare slides, a handout, and questions/ideas to foment participation among peers.
 
@@ -157,7 +157,7 @@ There are four options:
     - conduct study (propose, design, data collection/analysis, write up), collaboration ok
     - goal: (a) conference presentation/journal submission (w/ IRB), (b) complete groundwork for future project (w/o IRB)
 3. Research proposal ([ICPhS](http://www.icphs2015.info/Call.aspx) format w/ 
-fake data, or publicaly available dataset)
+fake data, or publicly available data set)
     - for new/advanced students with ideas, but no data
     - focus on lit review, design, programming/stats
     - goal: complete groundwork for future project
@@ -236,5 +236,5 @@ To begin this process, please complete the Registration form on the ODS web site
 \phantom{.}
 \vspace{1.2in}
 
-```{r, cal-585, child="./calendar/calendar_s2022.Rmd"}
+```{r, cal-585, child="./calendar/calendar_s2024.Rmd"}
 ```
