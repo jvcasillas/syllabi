@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.21)  5 JAN 2024 13:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.21)  9 JAN 2024 22:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -584,7 +584,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 <ru_logo.pdf, id=8, 476.78125pt x 129.48375pt>
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 211.
+Package pdftex.def Info: ru_logo.pdf  used on input line 210.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -598,7 +598,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 {/Users/casillas/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} <./ru_logo.pdf> <./intro_phonetics_grad.png>]
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 291.
+Package pdftex.def Info: ru_logo.pdf  used on input line 290.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -612,7 +612,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 393.
+Package pdftex.def Info: ru_logo.pdf  used on input line 392.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -626,7 +626,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 461.
+Package pdftex.def Info: ru_logo.pdf  used on input line 460.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -640,7 +640,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
-Package pdftex.def Info: ru_logo.pdf  used on input line 514.
+Package pdftex.def Info: ru_logo.pdf  used on input line 513.
 (pdftex.def)             Requested size: 125.72076pt x 34.1431pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -658,15 +658,15 @@ L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14666 strings out of 476862
- 229584 string characters out of 5806600
+ 14668 strings out of 476862
+ 229602 string characters out of 5806600
  1945791 words of memory out of 5000000
  35610 multiletter control sequences out of 15000+600000
- 605140 words of font info for 105 fonts, out of 8000000 for 9000
+ 605223 words of font info for 106 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  77i,15n,81p,1002b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></Users/casillas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on index.pdf (5 pages, 209897 bytes).
+Output written on index.pdf (5 pages, 210111 bytes).
 PDF statistics:
  174 PDF objects out of 1000 (max. 8388607)
  150 compressed objects within 2 object streams
