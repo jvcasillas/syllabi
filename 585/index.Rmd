@@ -149,15 +149,15 @@ The skills required in each assignment are cumulative, each building on the mate
 Each student will complete a research project. 
 There are four options:
 
-1. Research paper ([ICPhS](http://www.icphs2015.info/Call.aspx) format)
+1. Research paper ([ICPhS](https://www.icphs2023.org/call-for-papers/) format, [Rmd template](https://github.com/jvcasillas/icphs2023_rmd_template))
     - for advanced students w/ data
     - goal: presentation at regional conference
-2. Pilot study ([ICPhS](http://www.icphs2015.info/Call.aspx) format)
+2. Pilot study ([ICPhS](https://www.icphs2023.org/call-for-papers/) format, [Rmd template](https://github.com/jvcasillas/icphs2023_rmd_template))
     - for new/advanced students with ideas, but no data
     - conduct study (propose, design, data collection/analysis, write up), collaboration ok
     - goal: (a) conference presentation/journal submission (w/ IRB), (b) complete groundwork for future project (w/o IRB)
-3. Research proposal ([ICPhS](http://www.icphs2015.info/Call.aspx) format w/ 
-fake data, or publicly available data set)
+3. Research proposal ([ICPhS](https://www.icphs2023.org/call-for-papers/) format w/ 
+fake data, or publicly available data set, [Rmd template](https://github.com/jvcasillas/icphs2023_rmd_template))
     - for new/advanced students with ideas, but no data
     - focus on lit review, design, programming/stats
     - goal: complete groundwork for future project
