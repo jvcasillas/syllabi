@@ -167,15 +167,17 @@ writeLines(ui); print(bib[key = "VanLeussen2015"])
 ### Reading
 
 ```{r, results='asis', echo=FALSE, eval=TRUE}
-writeLines(ui); print(bib[key = "flege2001effect"])
+writeLines(ui); print(bib[key = "amengual2024"])
 writeLines(ui); print(bib[key = "piske2001factors"])
-writeLines(ui); print(bib[key = "simonet2019increased"])
+writeLines(ui); print(bib[key = "casillas_ch18_2024"])
 ```
 
 
 ### Recommended
 
 ```{r, results='asis', echo=FALSE, eval=TRUE}
+writeLines(ui); print(bib[key = "flege2001effect"])
+writeLines(ui); print(bib[key = "simonet2019increased"])
 writeLines(ui); print(bib[key = "shea2011experience"])
 writeLines(ui); print(bib[key = "rao2015heritage"])
 writeLines(ui); print(bib[key = "rao_research_2016"])
