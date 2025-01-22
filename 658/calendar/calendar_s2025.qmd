@@ -1,0 +1,172 @@
+```{r}
+#| label: syllabus-table
+#| message: false
+#| echo: false
+library("dplyr")
+library("kableExtra")
+library("glue")
+
+link_base <- '<a href="https://www.ds4ling.jvcasillas.com'
+icn_r     <- '<i class="fa fa-book fa-lg"></i>'
+icn_s     <- '<i class="fa fa-file-image-o  fa-lg"></i>'
+icn_a     <- '<i class="fa fa-keyboard-o fa-lg"></i>'
+
+syl <- list(
+  wk1 = list(
+    Date = "Week 1: 01/27", 
+    Topic = "Getting started. GitHub, R, and RStudio.", 
+    Stats = "Getting started.",
+    Programming = "GitHub, R, and RStudio. PA1 assigned.", 
+    Reading = icn_r, 
+    Slides = glue("{link_base}/slides/01_getting_started/\">{icn_s}</a>"), 
+    Assignment = glue("{link_base}/assignments/01/\">{icn_a}</a>")
+  ), 
+  wk2 = list(
+    Date = "Week 2: 02/03", 
+    Topic = "Distributions.", 
+    Stats = "Variables, distributions.",
+    Programming = "RStudio projects, RMarkdown, ggplot.", 
+    Reading = glue("{link_base}/reading/02/\">{icn_r}</a>"), 
+    Slides = glue("{link_base}/slides/02_distributions/\">{icn_s}</a>"), 
+    Assignment = icn_a 
+  ), 
+  wk3 = list(
+    Date = "Week 3: 02/10", 
+    Topic = "NHST, comparing means.", 
+    Stats = "NHST, comparing means.", 
+    Programming =  "R basics, getting/tidying data, ggplot. PA2 assigned.", 
+    Reading = glue("{link_base}/reading/03/\">{icn_r}</a>"), 
+    Slides = glue("{link_base}/slides/03_nhst/\">{icn_s}</a>"), 
+    Assignment = glue("{link_base}/assignments/02/\">{icn_a}</a>")
+  ), 
+  wk4 = list(
+    Date = "Week 4: 02/17", 
+    Topic = "Bivariate correlation.", 
+    Stats = "Bivariate correlation.",
+    Programming = "R basics, tidying data, ggplot.",
+    Reading = glue("{link_base}/reading/04/\">{icn_r}</a>"), 
+    Slides = glue("{link_base}/slides/04_correlation/\">{icn_s}</a>"), 
+    Assignment = icn_a
+  ), 
+  wk5 = list(
+    Date = "Week 5: 02/24", 
+    Topic = "The linear model/regression.", 
+    Stats = "The linear model/regression.", 
+    Programming = "R basics, GitHub Pages. PA3 assigned.", 
+    Reading = glue("{link_base}/reading/05/\">{icn_r}</a>"), 
+    Slides = glue("{link_base}/slides/05_lm/01_bivariate_regression/\">{icn_s}</a>"), 
+    Assignment = glue("{link_base}/assignments/03/\">{icn_a}</a>")
+  ), 
+  wk6 = list(
+    Date = "Week 6: 03/03", 
+    Topic = "The linear model/regression.", 
+    Stats = "The linear model/regression.",
+    Programming = "R basics, HTML presentations, slidify", 
+    Reading = glue("{link_base}/reading/06/\">{icn_r}</a>"), 
+    Slides = glue("{link_base}/slides/05_lm/02_assumptions_diagnostics/\">{icn_s}</a>"), 
+    Assignment = icn_a
+  ), 
+  wk7 = list(
+    Date = "Week 7: 03/10", 
+    Topic = "The linear model/regression.", 
+    Stats = "The linear model/regression.", 
+    Programming = "HTML presentations, xaringan.", 
+    Reading = glue("{link_base}/reading/07/\">{icn_r}</a>"), 
+    Slides = glue("{link_base}/slides/05_lm/03_mrc/\">{icn_s}</a>"), 
+    Assignment = icn_a
+  ), 
+  sb = list(
+    Date = "03/15 - 03/23", 
+    Topic = "Spring break.", 
+    Stats = "Spring break.", 
+    Programming = "", 
+    Reading = glue("{link_base}/reading/08sb/\">{icn_r}</a>"), 
+    Slides = icn_s, 
+    Assignment = icn_a
+  ), 
+  wk8 = list(
+    Date = "Week 8: 03/24", 
+    Topic = "The linear model/regression.", 
+    Stats = "The linear model/regression.", 
+    Programming = "PA4 assigned, papaja.", 
+    Reading = glue("{link_base}/reading/08/\">{icn_r}</a>"), 
+    Slides = glue("{link_base}/slides/05_lm/03_mrc/index.html#72\">{icn_s}</a>"), 
+    Assignment = glue("{link_base}/assignments/04/\">{icn_a}</a>")
+  ), 
+  wk9 = list(
+    Date = "Week 9: 03/31", 
+    Topic = "General linear model.", 
+    Stats = "General Linear Model.", 
+    Programming = "Modeling tips and tricks.", 
+    Reading = glue("{link_base}/reading/09/\">{icn_r}</a>"), 
+    Slides = glue("{link_base}/slides/05_lm/04_general_linear_model/\">{icn_s}</a>"), 
+    Assignment = icn_a
+  ), 
+  wk10 = list(
+    Date = "Week 10: 04/07", 
+    Topic = "General linear model.",
+    Stats = "General Linear Model.", 
+    Programming = "PA5 assigned, modeling tips and tricks.",
+    Reading = glue("{link_base}/reading/10/\">{icn_r}</a>"), 
+    Slides = glue("{link_base}/slides/05_lm/05_model_tuning/\">{icn_s}</a>"), 
+    Assignment = glue("{link_base}/assignments/05/\">{icn_a}</a>")
+  ), 
+  wk11 = list(
+    Date = "Week 11: 04/14", 
+    Topic = "Generalized linear model. Online presentations due.", 
+    Stats = "Generalized Linear Model.", 
+    Programming = "Online presentations due.", 
+    Reading = glue("{link_base}/reading/11/\">{icn_r}</a>"), 
+    Slides = glue("{link_base}/slides/06_glm/\">{icn_s}</a>"), 
+    Assignment = icn_a
+  ), 
+  wk12 = list(
+    Date = "Week 12: 04/21", 
+    Topic = "Multilevel models. Online presentation comments due.", 
+    Stats = "Multilevel models.",  
+    Programming = "Online presentation comments due.", 
+    Reading = glue("{link_base}/reading/12/\">{icn_r}</a>"), 
+    Slides = glue("{link_base}/slides/07_mlm/\">{icn_s}</a>"), 
+    Assignment = icn_a
+  ), 
+  wk13 = list(
+    Date = "Week 13: 04/28", 
+    Topic = "Bayesian inference. Mid-term",
+    Stats = "Bayesian inference.", 
+    Programming = "Mid-term", 
+    Reading = glue("{link_base}/reading/13/\">{icn_r}</a>"), 
+    Slides = glue("{link_base}/slides/08_bda/\">{icn_s}</a>"), 
+    Assignment = glue("{link_base}/assignments/06/\">{icn_a}</a>")
+  ), 
+  wk14 = list(
+    Date = "Week 14: 05/05", 
+    Topic = "Research project presentations, residuals.", 
+    Stats = "Residuals.", 
+    Programming = "Research project presentations.", 
+    Reading = glue("{link_base}/reading/14/\">{icn_r}</a>"), 
+    Slides = glue("{link_base}/slides/09_residuals/\">{icn_s}</a>"), 
+    Assignment = icn_a
+  ), 
+  wk15 = list(
+    Date = "Week 15: 05/06", 
+    Topic = "Reading day.", 
+    Stats = "Reading day.", 
+    Programming = "", 
+    Reading = icn_r, 
+    Slides = icn_s, 
+    Assignment = icn_a
+  ), 
+  wk16 = list(
+    Date = "Week 16: 05/12", 
+    Topic = "Final exam day. Projects due before 12pm.", 
+    Stats = "Final exam day.", 
+    Programming = "Projects due before 12pm.", 
+    Reading = icn_r, 
+    Slides = icn_s, 
+    Assignment = icn_a
+  )
+)
+
+bind_rows(syl) |> 
+  saveRDS(here::here("658", "calendar", "calendar_s2025.rds"))
+```

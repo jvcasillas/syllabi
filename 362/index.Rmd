@@ -3,7 +3,7 @@ title:
 author: ""
 date: ""
 fontsize: 10pt
-geometry: vmargin=1.0in, hmargin=0.75in
+geometry: vmargin=1in, hmargin=0.75in
 output:
   pdf_document:
     toc: no
@@ -28,7 +28,7 @@ output:
 Profesor: Joseph V. Casillas, Ph.D.  
 Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
 Oficina: AB 5174  
-Horas de consulta: lunes y jueves 11:30 - 12:50, mediante cita
+Horas de consulta: mediante cita
 
 
 # Materiales
@@ -47,7 +47,7 @@ los sonidos del español. New York: McGraw-Hill. [Libro de texto y cassettes].
 http://www.cascadilla.com/ssaa/index.html.
 
 
-\vspace{0.1in}
+\vspace{0.2in}
 \hrule
 This course has received an 'Open and Affordable Textbooks Program' award from the 
 Rutgers University Libraries. 
@@ -60,6 +60,8 @@ initiative at the end of the semester.
 \vspace{0.1in}
 \hrule
 
+
+\vspace{0.1in}
 
 # Objetivos del curso
 
@@ -79,7 +81,7 @@ El curso se ha diseñado de acuerdo a las metas de aprendizaje establecidas por
 el departmento: 
 [http://span-port.rutgers.edu/learning-goals](http://span-port.rutgers.edu/learning-goals).
 
-\vspace{.2in}
+\vspace{.5in}
 
 \hrule
 \textcolor{RUred}{IMPORTANT NOTICE}  
@@ -95,23 +97,23 @@ You may also visit the Department of Spanish and Portuguese
 Placement exam results can be found in Degree Navigator under your course 
 list. 
 Results will be at the bottom of page. 
-If you have questions about your placement, contact Prof. Dámaris 
-Otero-Torres, Undergraduate Director, via e-mail at 
-dotero@spanport.rutgers.edu during the first two weeks of classes (before the 
+If you have questions about your placement, contact Prof. Joseph V. Casillas, Undergraduate Director, via e-mail at 
+joseph.casillas@rutgers.edu during the first two weeks of classes (before the 
 end of the add/drop period). 
 It is your responsibility to be enrolled in the language course that 
 corresponds to your placement.
-\vspace{.1in}
+\vspace{.025in}
 \hrule
 
+\clearpage
 
-
+\phantom{.}
 
 # Fechas importantes
 
-La asignatura comienza el día 1 de septiembre y termina el día 22 de diciembre. 
-El último día para dejar la clase es el día 9 de septiembre.
-
+La asignatura comienza el día 5 de septiembre y termina el día 9 de diciembre. 
+El último día para dejar la clase sin "W" es el día 12 de septiembre. 
+El último día para dejar la clase con "W" es el día 28 de octubre. 
 
 # Calificaciones
 
@@ -207,6 +209,7 @@ final).
 
 
 
+\phantom{.}
 
 # Reglas departamentales y políticas del curso
 
@@ -310,6 +313,9 @@ use) during the class period
 \vspace{.075in}
 \hrule
 
+\clearpage
+\phantom{.}
+
 ### Etiqueta digital o “Netiquette” 
 
 Como regla general, sea muy cuidadoso a la hora de comunicarse con el 
@@ -325,7 +331,7 @@ Cuando envíe un correo electrónico considere lo siguiente:
 - Use su nombre completo e identifique el curso en el que está matriculado.
 
 
-\vspace{.1in}
+\vspace{.3in}
 \hrule
 Ejemplo de un mensaje apropiado:
 
@@ -391,7 +397,8 @@ site at:
 
 
 
-
+\clearpage
+\phantom{.}
 
 # Temario
 
@@ -404,5 +411,5 @@ más exactas más adecuadas al ritmo de la clase.
 \vspace{.2in}
 
 
-```{r, temario-362, child="./temario/temario_f2020.Rmd"}
+```{r, temario-362, child="./temario/temario_f2024.Rmd"}
 ```

@@ -1,0 +1,19 @@
+
+| Semana | Dates        |                                Tema                   |
+| :----- | :----------- | :---------------------------------------------------- |
+| 1      | 09/05        | Intro al curso. Grabaciones.                          |
+| 2      | 09/09, 09/12 | La sílaba. Diptongos. Hiatos.                         |
+| 3      | 09/16, 09/19 | Consonantes [ʝ] y [w]. Diptongos y semivocales.       |
+| 4      | 09/23, 09/26 | Sílabas, vocales y ritmo. Vocales en contacto. Schwa. |
+| 5      | 09/30, 10/03 | Prueba 1, Fonética articulatoria: vocales.            |
+| 6      | 10/07, 10/10 | Fonética articulatoria: consonantes.                  |
+| 7      | 10/14, 10/17 | El fonema. Transcripción fonética.                    |
+| 8      | 10/21, 10/24 | Prueba 2. Oclusivas sordas, africadas.                |
+| 9      | 10/28, 10/31 | Obstruyentes sonoras /b, d, g/ y /ʝ/.                 |
+| 10     | 11/04, 11/07 | Fricativas: /f, s, x/.                                |
+| 11     | 11/11, 11/14 | Nasales y laterales. Trabajo práctico \#1.            |
+| 12     | 11/18, 11/21 | Prueba 3, Vibrantes.                                  |
+| 13     | 11/25, 11/26 | Variación dialectal.                                  |
+| 14     | 12/02, 12/05 | Variación dialectal.                                  |
+| 15     | 12/09        | Prueba 4. Trabajo práctico. (12/15)                   |
+

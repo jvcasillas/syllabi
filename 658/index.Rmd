@@ -23,7 +23,7 @@ output:
 \end{wrapfigure}
 
 
-01:940:589:01 - Spring 2023  
+01:940:658:01 - Spring 2025  
 Meetings: AB 5190, 10:20--13:20  
 Professor: Joseph V. Casillas, PhD  
 Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
@@ -47,8 +47,8 @@ We will also focus on how to make the aforementioned procedures reproducible and
 
 ### Class websites
 
-- Canvas: https://rutgers.instructure.com/courses/221415/
-- Class website: https://ds4ling.github.io  
+- Canvas: https://rutgers.instructure.com/courses/339123
+- Class website: https://www.ds4ling.jvcasillas.com  
 
 ### Books
 
@@ -291,9 +291,9 @@ To begin this process, please complete the Registration form on the ODS web site
 \renewcommand{\arraystretch}{1.2}
 
 ```{r}
-#| label: temario-589
+#| label: temario-658
 #| echo: false
-readRDS(here::here("589", "calendar", "calendar_s2023.rds")) |> 
+readRDS(here::here("658", "calendar", "calendar_s2025.rds")) |> 
   dplyr::select(Date, Stats, Programming) |>
   knitr::kable(format = "latex", booktabs = TRUE, linesep = "") |> 
   kableExtra::kable_styling(latex_options = c("striped", "HOLD_position"))
