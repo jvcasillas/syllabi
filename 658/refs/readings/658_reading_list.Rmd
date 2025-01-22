@@ -13,7 +13,7 @@ output:
 
 
 
-01:940:589:01 - Spring 2023  
+01:940:658:01 - Spring 2025  
 Meetings: Mondays, 10:20--13:20  
 
 Professor: Joseph V. Casillas, PhD  
@@ -23,8 +23,11 @@ Office hours: by appointment
 
 **Note**: Readings must be completed *before* the class that occurs in the assigned week (i.e., readings assigned for week 2 will be discussed *in* the week 2 class, thus they should be read *before*).
 
-```{r, eval=TRUE, echo=FALSE, cache=FALSE, message=FALSE, warnings=FALSE}
-library(RefManageR)
+```{r}
+#| echo: false
+#| message: false
+#| warnings: false
+library("RefManageR")
 bib <- ReadBib("../bib/ds4ling_refs.bib", check = FALSE)
 ```
 
@@ -487,7 +490,7 @@ writeLines(ui); print(bib["brown2021"],
 
 
 
-# Readings to keep you occupied after S2023 
+# Readings to keep you occupied after S2025 
 
 ### Reading
 
