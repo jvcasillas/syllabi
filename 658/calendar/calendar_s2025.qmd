@@ -90,7 +90,7 @@ syl <- list(
     Stats = "The linear model/regression.", 
     Programming = "PA4 assigned, papaja.", 
     Reading = glue("{link_base}/reading/08/\">{icn_r}</a>"), 
-    Slides = glue("{link_base}/slides/05_lm/03_mrc/index.html#72\">{icn_s}</a>"), 
+    Slides = glue("{link_base}/slides/05_lm/03_mrc/index.html#/section-26\">{icn_s}</a>"), 
     Assignment = glue("{link_base}/assignments/04/\">{icn_a}</a>")
   ), 
   wk9 = list(
