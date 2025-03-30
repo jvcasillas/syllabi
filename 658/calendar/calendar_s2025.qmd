@@ -109,7 +109,7 @@ syl <- list(
     Programming = "PA5 assigned, modeling tips and tricks.",
     Reading = glue("{link_base}/reading/10/\">{icn_r}</a>"), 
     Slides = glue("{link_base}/slides/05_lm/05_model_tuning/\">{icn_s}</a>"), 
-    Assignment = glue("{link_base}/assignments/05/\">{icn_a}</a>")
+    Assignment = icn_a
   ), 
   wk11 = list(
     Date = "Week 11: 04/14", 
@@ -136,7 +136,7 @@ syl <- list(
     Programming = "Mid-term", 
     Reading = glue("{link_base}/reading/13/\">{icn_r}</a>"), 
     Slides = glue("{link_base}/slides/08_bda/\">{icn_s}</a>"), 
-    Assignment = glue("{link_base}/assignments/06/\">{icn_a}</a>")
+    Assignment = glue("{link_base}/assignments/05/\">{icn_a}</a>")
   ), 
   wk14 = list(
     Date = "Week 14: 05/05", 
