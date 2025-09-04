@@ -15,8 +15,8 @@ output:
 \includegraphics[width=0.2\textwidth]{intro_phonetics_grad.png}
 \end{wrapfigure}
 
-01:940:585:01 - Spring 2024  
-Meetings: SPR 319, Monday, 10:20--13:20  
+01:940:585:01 - Fall 2025  
+Meetings: AB 5190, Thursday, 10:20--13:30  
 
 Professor: Joseph V. Casillas, PhD  
 Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
@@ -40,7 +40,7 @@ Students will learn to use fundamental tools such as Praat (digital speech proce
 
 ## Class websites
 
-- Canvas: https://rutgers.instructure.com/courses/270998
+- Canvas: https://rutgers.instructure.com/courses/364889
 
 ## Recommended books
 
@@ -236,5 +236,5 @@ To begin this process, please complete the Registration form on the ODS web site
 \phantom{.}
 \vspace{1.2in}
 
-```{r, cal-585, child="./calendar/calendar_s2024.Rmd"}
+```{r, cal-585, child="./calendar/calendar_f2025.Rmd"}
 ```

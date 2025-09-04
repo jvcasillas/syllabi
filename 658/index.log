@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.11)  13 MAY 2025 11:26
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.8.28)  3 SEP 2025 16:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -267,7 +267,9 @@ Package graphics Info: Driver file: xetex.def on input line 106.
 )
 \Gin@req@height=\dimen163
 \Gin@req@width=\dimen164
-) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+)
+\pandoc@box=\box56
+(/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2024/11/20 v4.4 Extensive control of page headers and footers
 \f@nch@headwidth=\skip55
 \f@nch@O@elh=\skip56
@@ -318,12 +320,12 @@ Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/tools/array.sty
 Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \col@sep=\dimen179
-\ar@mcellbox=\box56
+\ar@mcellbox=\box57
 \extrarowheight=\dimen180
 \NC@list=\toks26
 \extratabsurround=\skip66
 \backup@length=\skip67
-\ar@cellbox=\box57
+\ar@cellbox=\box58
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
 \everycr=\toks27
@@ -333,7 +335,7 @@ Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
 \wrapoverhang=\dimen181
 \WF@size=\dimen182
 \c@WF@wrappedlines=\count307
-\WF@box=\box58
+\WF@box=\box59
 \WF@everypar=\toks28
 Package: wrapfig 2003/01/31  v 3.6
 )
@@ -391,7 +393,7 @@ Package fontspec Info:
 (fontspec)             SIL/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
 LaTeX Font Info:    Font shape `TU/DoulosSIL(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 73.
+(Font)              scaled to size 10.0pt on input line 75.
 
 Package fontspec Info: 
 (fontspec)             Doulos SIL scale = 0.9999965621680345.
@@ -435,11 +437,11 @@ Package fontspec Info:
 (fontspec)             SIL/OT:script=latn;language=dflt;+smcp;"
 
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/DoulosSIL(1)/m/n on input line 73.
+(Font)                  OT1/lmr/m/n --> TU/DoulosSIL(1)/m/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> TU/DoulosSIL(1)/m/it on input line 73.
+(Font)                  OT1/lmr/m/it --> TU/DoulosSIL(1)/m/it on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> TU/DoulosSIL(1)/b/n on input line 73.
+(Font)                  OT1/lmr/bx/n --> TU/DoulosSIL(1)/b/n on input line 75.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
 \LTleft=\skip69
@@ -448,11 +450,11 @@ Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
 \LTpost=\skip72
 \LTchunksize=\count308
 \LTcapwidth=\dimen183
-\LT@head=\box59
-\LT@firsthead=\box60
-\LT@foot=\box61
-\LT@lastfoot=\box62
-\LT@gbox=\box63
+\LT@head=\box60
+\LT@firsthead=\box61
+\LT@foot=\box62
+\LT@lastfoot=\box63
+\LT@gbox=\box64
 \LT@cols=\count309
 \LT@rows=\count310
 \c@LT@tables=\count311
@@ -462,9 +464,9 @@ Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count313
 \float@exts=\toks30
-\float@box=\box64
+\float@box=\box65
 \@float@everytoks=\toks31
-\@floatcapt=\box65
+\@floatcapt=\box66
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
@@ -477,7 +479,7 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box66
+\@vwid@box=\box67
 \sift@deathcycles=\count314
 \@vwid@loff=\dimen184
 \@vwid@roff=\dimen185
@@ -499,14 +501,14 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \tabustrutrule=\dimen194
 \tabu@thebody=\toks32
 \tabu@footnotes=\toks33
-\tabu@box=\box67
-\tabu@arstrutbox=\box68
-\tabu@hleads=\box69
-\tabu@vleads=\box70
+\tabu@box=\box68
+\tabu@arstrutbox=\box69
+\tabu@hleads=\box70
+\tabu@vleads=\box71
 \tabu@cellskip=\skip73
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box71
+\@tempboxb=\box72
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/threeparttablex/threeparttablex.sty
 Package: threeparttablex 2013/07/23 v0.3 by daleif
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/environ/environ.sty
@@ -516,14 +518,14 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
 \TPTL@width=\skip74
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box72
-\UL@hyphenbox=\box73
+\UL@box=\box73
+\UL@hyphenbox=\box74
 \UL@skip=\skip75
 \UL@hook=\toks34
 \UL@height=\dimen195
 \UL@pe=\count321
 \UL@pixel=\dimen196
-\ULC@box=\box74
+\ULC@box=\box75
 Package: ulem 2019/11/18
 \ULdepth=\dimen197
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/makecell/makecell.sty
@@ -613,7 +615,7 @@ package with kernel methods
 Package hyperref Info: Driver (autodetected): hxetex.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
 File: hxetex.def 2024-11-05 v7.01l Hyperref driver for XeTeX
-\pdfm@box=\box75
+\pdfm@box=\box76
 \c@Hy@AnnotLevel=\count332
 \HyField@AnnotCount=\count333
 \Fld@listcount=\count334
@@ -635,34 +637,34 @@ File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
 )) (./index.aux)
 \openout1 = `index.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 124.
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 123.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> TU/lmss/b/n on input line 124.
+(Font)                  OT1/lmss/bx/n --> TU/lmss/b/n on input line 123.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 124.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 123.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/b/n on input line 124.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/b/n on input line 123.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 1.029805884706207.
@@ -690,7 +692,7 @@ Package fontspec Info:
 (fontspec)             <->s*[1.029805884706207]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
-(Font)              scaled to size 10.298pt on input line 124.
+(Font)              scaled to size 10.298pt on input line 123.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 1.029805884706207.
@@ -726,15 +728,15 @@ Package fontspec Info:
 (fontspec)             <->s*[1.029805884706207]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.298pt on input line 124.
+(Font)              scaled to size 10.298pt on input line 123.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 124.
+(Font)              `operators' in the math version `normal' on input line 123.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input line 124.
+(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input line 123.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 124.
+(Font)              `operators' in the math version `bold' on input line 123.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input line 124.
+(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input line 123.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 1.029805884706207.
@@ -800,13 +802,13 @@ Package fontspec Info:
 (fontspec)             <->s*[1.029908865294678]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 124.
+(Font)              `symbols' in the math version `normal' on input line 123.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input line 124.
+(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input line 123.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 124.
+(Font)              `symbols' in the math version `bold' on input line 123.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input line 124.
+(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input line 123.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 1.029805884706207.
@@ -866,23 +868,23 @@ Package fontspec Info:
 (fontspec)             <->s*[1.029702904117736]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 124.
+(Font)              `largesymbols' in the math version `normal' on input line 123.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input line 124.
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input line 123.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 124.
+(Font)              `largesymbols' in the math version `bold' on input line 123.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 124.
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 123.
 Package microtype Info: Patching varwidth to enable character protrusion.
 \MT@vwid@leftmargin=\dimen259
 \MT@vwid@rightmargin=\dimen260
-LaTeX Info: Redefining \microtypecontext on input line 124.
-Package microtype Info: Applying patch `item' on input line 124.
-Package microtype Info: Applying patch `toc' on input line 124.
-Package microtype Info: Applying patch `eqnum' on input line 124.
-Package microtype Info: Applying patch `footnote' on input line 124.
-Package microtype Info: Applying patch `verbatim' on input line 124.
-LaTeX Info: Redefining \microtypesetup on input line 124.
+LaTeX Info: Redefining \microtypecontext on input line 123.
+Package microtype Info: Applying patch `item' on input line 123.
+Package microtype Info: Applying patch `toc' on input line 123.
+Package microtype Info: Applying patch `eqnum' on input line 123.
+Package microtype Info: Applying patch `footnote' on input line 123.
+Package microtype Info: Applying patch `verbatim' on input line 123.
+LaTeX Info: Redefining \microtypesetup on input line 123.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: No adjustment of tracking.
@@ -926,46 +928,46 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 124.
+Package hyperref Info: Link coloring OFF on input line 123.
 File: ds4ling.png Graphic file (type bmp)
 <ds4ling.png>
 LaTeX Font Info:    Font shape `TU/DoulosSIL(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 142.
+(Font)              scaled to size 14.4pt on input line 141.
 
 LaTeX Font Warning: Font shape `TU/DoulosSIL(0)/b/n' undefined
-(Font)              using `TU/DoulosSIL(0)/m/n' instead on input line 142.
+(Font)              using `TU/DoulosSIL(0)/m/n' instead on input line 141.
 
 LaTeX Font Info:    Font shape `TU/DoulosSIL(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 159.
+(Font)              scaled to size 10.0pt on input line 158.
 LaTeX Font Info:    Font shape `TU/DoulosSIL(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 162.
+(Font)              scaled to size 14.4pt on input line 161.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.2086pt on input line 169.
+(Font)              scaled to size 7.2086pt on input line 168.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.149pt on input line 169.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 169.
+(Font)              scaled to size 5.149pt on input line 168.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 168.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.29907pt on input line 169.
+(Font)              scaled to size 10.29907pt on input line 168.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.20935pt on input line 169.
+(Font)              scaled to size 7.20935pt on input line 168.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.14954pt on input line 169.
+(Font)              scaled to size 5.14954pt on input line 168.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.29709pt on input line 169.
+(Font)              scaled to size 10.29709pt on input line 168.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.20796pt on input line 169.
+(Font)              scaled to size 7.20796pt on input line 168.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.14854pt on input line 169.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 169.
+(Font)              scaled to size 5.14854pt on input line 168.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 168.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 169.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 168.
 (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/Users/casillas/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
@@ -973,20 +975,20 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 
 LaTeX Font Warning: Font shape `TU/DoulosSIL(0)/m/it' undefined
-(Font)              using `TU/DoulosSIL(0)/m/n' instead on input line 179.
+(Font)              using `TU/DoulosSIL(0)/m/n' instead on input line 178.
 
 LaTeX Font Info:    Font shape `TU/DoulosSIL(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 182.
+(Font)              scaled to size 10.0pt on input line 181.
 
 
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 37.74313pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.74313pt}.
+(fancyhdr)                Make it at least 37.74326pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.74326pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-25.74313pt}.
+(fancyhdr)                \addtolength{\topmargin}{-25.74326pt}.
 
 [1
 
@@ -996,10 +998,10 @@ File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 37.74313pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.74313pt}.
+(fancyhdr)                Make it at least 37.74326pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.74326pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-25.74313pt}.
+(fancyhdr)                \addtolength{\topmargin}{-25.74326pt}.
 
 [2
 
@@ -1009,28 +1011,28 @@ File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 37.74313pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.74313pt}.
+(fancyhdr)                Make it at least 37.74326pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.74326pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-25.74313pt}.
+(fancyhdr)                \addtolength{\topmargin}{-25.74326pt}.
 
 [3]
 LaTeX Font Info:    Font shape `TU/DoulosSIL(0)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 417.
+(Font)              scaled to size 7.0pt on input line 416.
 LaTeX Font Info:    Font shape `TU/DoulosSIL(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 456.
+(Font)              scaled to size 12.0pt on input line 455.
 LaTeX Font Info:    Font shape `TU/DoulosSIL(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 456.
+(Font)              scaled to size 12.0pt on input line 455.
 
 
 File: ru_logo.pdf Graphic file (type pdf)
 <use ru_logo.pdf>
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 37.74313pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.74313pt}.
+(fancyhdr)                Make it at least 37.74326pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.74326pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-25.74313pt}.
+(fancyhdr)                \addtolength{\topmargin}{-25.74326pt}.
 
 [4] (./index.aux)
  ***********
@@ -1043,8 +1045,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  20489 strings out of 475893
- 371568 string characters out of 5774328
- 952065 words of memory out of 5000000
+ 371574 string characters out of 5774329
+ 952099 words of memory out of 5000000
  43037 multiletter control sequences out of 15000+600000
  561720 words of font info for 70 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191

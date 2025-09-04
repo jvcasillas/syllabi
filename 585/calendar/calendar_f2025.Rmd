@@ -1,0 +1,31 @@
+|               | Week |  Date |                           Topic                            |
+| :------------ | :--: | :---: | :--------------------------------------------------------- |
+|               |      |       |                                                            |
+| **Part I:**   |      |       |                                                            |
+| Introduction  |      |       |                                                            |
+|               |  1   | 09/04 | Overview of Spanish phonology                              |
+|               |  2   | 09/11 | Overview (cont.), generative approaches                    |
+|               |  3   | 09/18 | Speech perception                                          |
+|               |  4   | 09/25 | L2/Bilingual Speech, PA1                                   |
+|               |  5   | 10/02 | L2/Bilingual Speech (cont.)                                |
+| **Part II:**  |      |       |                                                            |
+| Prosody       |      |       |                                                            |
+|               |  6   | 10/09 | Prosody I: Sequences                                       |
+|               |  7   | 10/16 | Prosody II: Lexical stress, PA2                            |
+| **Part III:** |      |       |                                                            |
+| Vocoids       |      |       |                                                            |
+|               |  8   | 10/23 | Vocoids I                                                  |
+|               |  9   | 10/30 | Vocoids II, PA3                                            |
+| **Part IV:**  |      |       |                                                            |
+| Obstruents    |      |       |                                                            |
+|               |  10  | 11/06 | Obstruents I: Stops                                        |
+|               |  11  | 11/13 | Obstruents II: Stops, PA4                                  |
+|               |  12  | 11/20 | Obstruents III: Fricatives/affricates                      |
+| **Part V:**   |      |       |                                                            |
+| Sonorants     |      |       |                                                            |
+|               |  13  | 11/25 | Sonorants: Nasals, laterals and rhotics                    |
+|               |      | 11/27 | Thanksgiving - no class                                    |
+|               |  14  | 12/04 | Presentations, residuals                                   |
+|               |  15  | 12/11 | Reading day                                                |
+|               |  16  | 12/?? | Final exam day (presentations if necessary)                |
+|               |      |       |                                                            |
