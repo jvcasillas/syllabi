@@ -27,7 +27,7 @@ output:
 
 Profesor: Joseph V. Casillas, Ph.D.  
 Email: \href{mailto:joseph.casillas@rutgers.edu}{joseph.casillas@rutgers.edu}  
-Oficina: AB 5174  
+Oficina: AB 5181  
 Horas de consulta: mediante cita
 
 
@@ -35,7 +35,7 @@ Horas de consulta: mediante cita
 
 ### Página web de clase
 
-- Canvas: [https://rutgers.instructure.com/courses/68478](https://rutgers.instructure.com/courses/68478)
+- Canvas: [https://rutgers.instructure.com/courses/408532](https://rutgers.instructure.com/courses/408532)
 
 ### Materiales de consulta recomendados
 
@@ -111,9 +111,9 @@ corresponds to your placement.
 
 # Fechas importantes
 
-La asignatura comienza el día 5 de septiembre y termina el día 9 de diciembre. 
-El último día para dejar la clase sin "W" es el día 12 de septiembre. 
-El último día para dejar la clase con "W" es el día 28 de octubre. 
+La asignatura comienza el día 3 de septiembre y termina el día 10 de diciembre. 
+El último día para dejar la clase sin "W" es el día 10 de septiembre. 
+El último día para dejar la clase con "W" es el día 26 de octubre. 
 
 # Calificaciones
 
@@ -349,7 +349,7 @@ entregar”? Muchas gracias por su tiempo. \\
 
 Atentamente, \\
 Estudiante Confundido \\
-Span 202:02 Fall 16 
+Span 202:02 Fall 26 
 \end{footnotesize}
 \vspace{.1in}
 \hrule
@@ -411,5 +411,5 @@ más exactas más adecuadas al ritmo de la clase.
 \vspace{.2in}
 
 
-```{r, temario-362, child="./temario/temario_f2024.Rmd"}
+```{r, temario-362, child="./temario/temario_f2026.Rmd"}
 ```
